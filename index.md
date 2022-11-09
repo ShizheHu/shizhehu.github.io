@@ -18,7 +18,7 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">September 17, 2020</font>] "<b>DMIB: Dual-correlated Multivariate Information Bottleneck for Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Cybernetics (IEEE TCYB)</font>.</li></p>
   
-<p style="margin-top: 6px;"><li>[<font color="red">August 13, 2019</font>] "<b>Multi-task Image Clustering through Correlation Propagation</b>" have been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">August 13, 2019</font>] "<b>Multi-task Image Clustering through Correlation Propagation</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">July 21, 2017</font>]  "<b>Multi-task Clustering of Human Actions by Sharing Information</b>" has been accepted by <font color="green">IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017</font>.</li></p>
 
