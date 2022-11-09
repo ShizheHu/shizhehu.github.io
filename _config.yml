@@ -9,11 +9,11 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Xinwang Liu
-subtitle: Professor  <br/>Doctoral Supervisor</br>   
+title: Shizhe Hu
+subtitle: PhD, Associate Research Fellow  <br/>Master Supervisor</br>   
 
 # left_side:
-background_image: "./assets/XinwangLiu.jpg"
+background_image: "./assets/ShizheHu.jpg"
 #   background_color: "#F00"
 #   close_button_color: "#F00"
 #   text_color: "#F00"
@@ -29,24 +29,24 @@ menu:
     link: /Brief-Bio
     icon: ""
 
-  - text: Under Review
-    link: /Under-Review
+  - text: Fundings
+    link: /Fundings
     icon: ""
 
-  - text: Selected Journal Papers
-    link: /Selected-Journal-Papers
+  - text: Journal Papers
+    link: /Journal-Papers
     icon: ""
 
-  - text: Selected Conference Papers
-    link: /Selected-Conference-Papers
+  - text: Conference Papers
+    link: /Conference-Papers
     icon: ""
     
-  - text: Open Source
-    link: /open-source
+  - text: Academic Activities
+    link: /Academic-Activities
     icon: ""
   
-  - text: Group Members
-    link: /Group-Members
+  - text: Awards and Honors
+    link: /Awards-Honors
     icon: ""
     
 
@@ -57,15 +57,15 @@ menu:
 # Socialmedia Icons
 social_icons:
   - name: mail
-    link: mailto:xinwangliu@nudt.edu.cn
+    link: mailto:ieshizhehu@zzu.edu.cn
     icon: icon brands fa fa-envelope
 
   - name: google scholar
-    link: https://scholar.google.com/citations?user=A56vWC4AAAAJ&hl=zh-CN&oi=ao
+    link: https://scholar.google.com/citations?user=AwzvxQEAAAAJ&hl=en&authuser=1&oi=ao
     icon: fab fa-google
 
   - name: github
-    link: https://github.com/xinwangliu
+    link: https://github.com/ShizheHu
     icon: fab fa-github-square
 
 
