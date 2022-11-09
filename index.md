@@ -22,5 +22,4 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">July 21, 2017</font>]  "<b>Multi-task Clustering of Human Actions by Sharing Information</b>" has been accepted by <font color="green">IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017</font>.</li></p>
 
- 
 </ul>
