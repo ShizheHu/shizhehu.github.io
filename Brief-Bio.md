@@ -3,8 +3,14 @@
 
 # Brief Bio
 
-Professor and doctoral supervisor with the school of computer, National University of Defense Technology (NUDT), Changsha, Hunan, China. 
+Associate research fellow and master supervisor with the School of Computer and Artificial Intelligence, Zhengzhou University (ZZU), Zhengzhou, Henan, China. 
 
-My research interests include kernel learning, multi-view learning, unsupervised representation learning and some related topics. Please drop me a message if you also have interests with me by my email: <u>xinwangliu@nudt.edu.cn</u> or <u>1022xinwang.liu@gmail.com</u>.
+My research interests include:\
+(1) Information Bottleneck Theory,\
+(2) Multi-view/Multi-modal Learning,\
+(3) Unsupervised Representation Learning,\
+(4) Some related topics. 
 
-Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate)
+Please drop me a message if you have interests with me by email: <u>ieshizhehu@zzu.edu.cn</u> or <u>ieshizhehu@gmail.com</u>. Also you can contact me with WeChat ID (微信号): hushizhe_zzu. 
+
+Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=AwzvxQEAAAAJ&hl=en&authuser=1&oi=ao)
