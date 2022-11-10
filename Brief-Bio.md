@@ -8,8 +8,9 @@ Associate research fellow and master supervisor with the School of Computer and 
 My research interests include:\
 (1) Information Bottleneck Theory,\
 (2) Multi-view/Multi-modal Learning,\
+(3) Deep learning,\
 (3) Unsupervised Representation Learning,\
-(4) Some related topics. 
+(4) Clustering Analysis,\
 
 Please drop me a message if you have interests with me by email: <u>ieshizhehu@zzu.edu.cn</u> or <u>ieshizhehu@gmail.com</u>. Also you can contact me with WeChat ID (微信号): hushizhe_zzu. 
 
