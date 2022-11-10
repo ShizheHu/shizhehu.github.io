@@ -8,7 +8,7 @@ Associate research fellow and master supervisor with the School of Computer and 
 My research interests include:\
 (1) Information Bottleneck Theory,\
 (2) Multi-view/Multi-modal Learning,\
-(3) Deep learning,\
+(3) Deep Learning,\
 (4) Clustering Analysis,\
 (5) Unsupervised Representation Learning,\
 (6) Some Other Related Topics.
