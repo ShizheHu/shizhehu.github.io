@@ -18,6 +18,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">September 17, 2020</font>] "<b>DMIB: Dual-correlated Multivariate Information Bottleneck for Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Cybernetics (IEEE TCYB)</font>.</li></p>
 
+<p style="margin-top: 6px;"><li>[<font color="red">February 7, 2020</font>] "<b>Dual-Weighted Multi-View Clustering</b>" has been accepted by <font color="green">Chinese Journal of Computers (CJC))</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">October 31, 2019</font>] "<b>Dynamic Auto-weighted Multi-view Co-clustering</b>" has been accepted by <font color="green">Pattern Recognition (PR)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">August 13, 2019</font>] "<b>Multi-task Image Clustering through Correlation Propagation</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</font>.</li></p>
