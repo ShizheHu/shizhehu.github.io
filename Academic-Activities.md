@@ -6,6 +6,6 @@
   
 <p style="margin-top: 8px;"><li><b>Reviewer for Journals</b>: <i>IEEE TKDE, IEEE TNNLS, Acta Automatica Sinica, Information Processing & Management.</i></li></p>
 
-<p style="margin-top: 8px;"><li><b>Member</b>: <i>IEEE Member, CCF Member, ACM Member, BAAI-Qingyuan Club Member.</i></li></p>
+<p style="margin-top: 8px;"><li><b>Member</b>: <i>IEEE Member, ACM Member, CCF Member, BAAI-Qingyuan Club Member.</i></li></p>
   
 </ul>
