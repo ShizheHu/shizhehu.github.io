@@ -33,12 +33,12 @@ menu:
     link: /Fundings
     icon: ""
 
-  - text: Journal Papers
-    link: /Journal-Papers
+  - text: Selected Journal Papers
+    link: /Selected-Journal-Papers
     icon: ""
 
-  - text: Conference Papers
-    link: /Conference-Papers
+  - text: Selected Conference Papers
+    link: /Selected-Conference-Papers
     icon: ""
     
   - text: Academic Activities
