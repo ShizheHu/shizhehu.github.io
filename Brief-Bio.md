@@ -9,8 +9,9 @@ My research interests include:\
 (1) Information Bottleneck Theory,\
 (2) Multi-view/Multi-modal Learning,\
 (3) Deep learning,\
-(3) Unsupervised Representation Learning,\
 (4) Clustering Analysis,\
+(5) Unsupervised Representation Learning,\
+(6) Some Other Related Topics.
 
 Please drop me a message if you have interests with me by email: <u>ieshizhehu@zzu.edu.cn</u> or <u>ieshizhehu@gmail.com</u>. Also you can contact me with WeChat ID (微信号): hushizhe_zzu. 
 
