@@ -16,7 +16,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank C]</b></font> <b>Shizhe Hu</b>, Bo Wang, Zhengzheng Lou, Yangdong Ye: <i><u> Multi-view Content-Context Information Bottleneck for Image Clustering</u></i>. <font color="green"> Expert Systems With Applications (<b>ESWA</b>) </font>183:115374, 2021. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0957417421008009">[PDF]</a></li></p> 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> Xiaoqiang Yan, Zhengzheng Lou, <b>Shizhe Hu</b>, Yangdong Ye: <i><u> Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization</u></i>. <font color="green"> ACM Transactions on Knowledge Discovery from Data (<b>ACM TKDD</b>) </font> 14(2):1-23, 2020. <a href = "">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> Xiaoqiang Yan, Zhengzheng Lou, <b>Shizhe Hu</b>, Yangdong Ye: <i><u> Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization</u></i>. <font color="green"> ACM Transactions on Knowledge Discovery from Data (<b>ACM TKDD</b>) </font> 14(2):1-23, 2020. <a href = "https://dl.acm.org/doi/abs/10.1145/3375394">[PDF]</a></li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank C]</b></font> Xiaoqiang Yan, <b>Shizhe Hu</b>, Yiqiao Mao, Yangdong Ye, and Hui Yu: <i><u> Deep Multi-view Learning Methods: A Review</u></i>. <font color="green">Neurocomputing</font> 448: 106-129, 2021. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0925231221004768#!">[PDF]</a></li></p> 
  
