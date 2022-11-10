@@ -5,10 +5,11 @@ layout: default
 # News
 
 <ul>
-
- <p style="margin-top: 6px;"><li>[<font color="red">September 8, 2022</font>] Awarded "<b>a grant from NSFC for Youth Fund </b>" starting from 2023.
+<p style="margin-top: 6px;"><li>[<font color="red">Set-Top</font>] I am always looking for highly-motivated "<b>Master students</b>" to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.
  
- <p style="margin-top: 6px;"><li>[<font color="red">June 30, 2022</font>] "<b>A Parameter-free Multi-view Information Bottleneck Clustering Method by Cross-view Weighting</b>" has been accepted by <font color="green">ACM Inter. Conf. Multimedia (ACM MM)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">September 8, 2022</font>] Awarded "<b>a grant from NSFC for Youth Fund </b>" starting from 2023.
+ 
+<p style="margin-top: 6px;"><li>[<font color="red">June 30, 2022</font>] "<b>A Parameter-free Multi-view Information Bottleneck Clustering Method by Cross-view Weighting</b>" has been accepted by <font color="green">ACM Inter. Conf. Multimedia (ACM MM)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">February 25, 2022</font>] Invited as "<b>Invited Speaker</b>" to attend <font color="green">2022 the 5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)</font>.</li></p>
  
