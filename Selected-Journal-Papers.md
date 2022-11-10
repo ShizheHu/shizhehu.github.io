@@ -10,7 +10,7 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Yangdong Ye: <i><u>DMIB: Dual-correlated Multivariate Information Bottleneck for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font> 52(6): 4260-4274, 2022. <a href = "https://ieeexplore.ieee.org/document/9234635">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> Liang Li, Siwei Wang, <b>Xinwang Liu</b>, En Zhu, Li Shen, Kenli Li, Keqin Li: <i><u> Dynamic Auto-weighted Multi-view Co-clustering</u></i>. <font color="green"> Pattern Recognition (<b>PR</b>) </font> (99) 2020.<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0031320319304029">[PDF]</a> </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Xiaoqiang Yan, Yangdong Ye: <i><u> Dynamic Auto-weighted Multi-view Co-clustering</u></i>. <font color="green"> Pattern Recognition (<b>PR</b>) </font> (99) 2020.<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0031320319304029">[PDF]</a> </li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Xiaoqiang Yan, Yangdong Ye: <i><u>Joint Specific and Correlated Information Exploration for Multi-view Action Clustering</u></i>. <font color="green">Information Sciences </font> 524: 148-164, 2020. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0020025520302061?via%3Dihub">[PDF]</a></li></p> 
 
