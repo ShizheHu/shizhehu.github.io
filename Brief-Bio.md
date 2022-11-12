@@ -15,4 +15,5 @@ My research interests include:\
 
 Please drop me a message if you have interests with me by email: <u>ieshizhehu@zzu.edu.cn</u> or <u>ieshizhehu@gmail.com</u>. Also you can contact me with WeChat ID (微信号): hushizhe_zzu. 
 
+DBLP: [[DBLP]](https://dblp.org/pid/208/4268.html)\
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=AwzvxQEAAAAJ&hl=en&authuser=1&oi=ao)
