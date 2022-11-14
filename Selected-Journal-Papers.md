@@ -9,6 +9,8 @@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank A]</b></font> <b>Shizhe Hu</b>, Xiaoqiang Yan, Yangdong Ye: <i><u> Multi-task Image Clustering through Correlation Propagation</u></i>. <font color="green"> IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>) </font>. 33(3): 1113-1127, 2021. <a href = "https://ieeexplore.ieee.org/document/8812907">[PDF]</a> </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank C]</b></font> <b>Shizhe Hu</b>, Bo Wang, Zhengzheng Lou, Yangdong Ye: <i><u> Multi-view Content-Context Information Bottleneck for Image Clustering</u></i>. <font color="green"> Expert Systems With Applications (<b>ESWA</b>) </font>183:115374, 2021. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0957417421008009">[PDF]</a></li></p> 
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SCI, JCR Q1]</b></font> <b>Shizhe Hu</b>, Ruobin Wang, and Yangdong Ye: <i><u> Interactive Information Bottleneck for High-dimensional Co-occurrence Data Clustering</u></i>. <font color="green"> Applied Soft Computing </font>111: 107837, 2021. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S1568494621007596?via%3Dihub">[PDF]</a></li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank A]</b></font> <b>Shizhe Hu</b>, Zhengzheng Lou, Ruobin Wang, Xiaoqiang Yan, Yangdong Ye: <i><u> Dual-Weighted Multi-View Clustering </u></i>. <font color="green">Chinese Journal of Computers (<b>CJC</b>)</font>. 43(9), 1708-1720, 2020. <a href = "http://cjc.ict.ac.cn/online/onlinepaper/08177-%E8%83%A1%E4%B8%96%E5%93%B2-202094103146.pdf">[PDF]</a></li></p>
 
