@@ -1,4 +1,4 @@
-# Thanks to My Family for the Support, Care and Love:
+# Thanks to My Family for Their Support, Care and Love
 
 <table width="90%" border="0" align="left" cellspacing="30">
         <tbody><tr valign="top" align="center">
