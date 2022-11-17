@@ -1,4 +1,4 @@
-# Selected Conference Papers:
+# Selected Conference Papers
 ## 2017~Now
 
 <ol>
