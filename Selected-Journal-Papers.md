@@ -1,4 +1,4 @@
-# Selected Journal Papers:
+# Selected Journal Papers
 ## 2022
 <ol>
 
