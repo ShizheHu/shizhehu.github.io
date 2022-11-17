@@ -1,4 +1,4 @@
-# Master students
+# Master Students
 
 <ul>
 <p style="margin-top: 8px;"><li><b>Chengkun Zhang (2022~2025)</b>, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
