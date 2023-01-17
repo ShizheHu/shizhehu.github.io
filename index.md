@@ -6,6 +6,8 @@ layout: default
 
 <ul>
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] I am always looking for highly-motivated "<b>Master students</b>" to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.
+
+<p style="margin-top: 6px;"><li>[<font color="red">January 17, 2023</font>] "<b>Multi-view Clustering with Propagating Information Bottleneck</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>.</li></p> 
  
 <p style="margin-top: 6px;"><li>[<font color="red">September 8, 2022</font>] Awarded "<b>a grant from NSFC for Youth Fund </b>" starting from 2023.
  
