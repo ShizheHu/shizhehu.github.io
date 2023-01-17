@@ -1,4 +1,11 @@
 # Selected Journal Papers
+## 2023
+<ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Xiaoqiang Yan, Zhengzheng Lou, and Yangdong Ye: <i><u> Multi-view Clustering with Propagating Information Bottleneck</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) </font>, Accepted, 2023. </li></p>  
+
+</ol>
+
 ## 2022
 <ol>
 
