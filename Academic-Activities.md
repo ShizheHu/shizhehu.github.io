@@ -6,7 +6,7 @@
 
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>: <i>CVPR'22/23, AAAI'21/22/23, IJCAI'22/23, ECCV'22, ICDM'22, CCDM'22, PRCV'22, PRAI'22/23.</i></li></p>
   
-<p style="margin-top: 8px;"><li><b>Reviewer for Journals</b>: <i>IEEE TKDE, IEEE TNNLS, Neural Networks, Information Processing and Management, Cognitive Computation, Entropy.</i></li></p>
+<p style="margin-top: 8px;"><li><b>Reviewer for Journals</b>: <i>IEEE TKDE, IEEE TNNLS, Information Fusion, Neural Networks, Information Processing and Management, Cognitive Computation, Entropy.</i></li></p>
 
 <p style="margin-top: 8px;"><li><b>Member</b>: <i>IEEE Member, ACM Member, CCF Member, BAAI-Qingyuan Club Member.</i></li></p>
   
