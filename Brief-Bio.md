@@ -19,3 +19,17 @@ DBLP: [[DBLP]](https://dblp.org/pid/208/4268.html)\
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=AwzvxQEAAAAJ&hl=en&authuser=1&oi=ao)
 
 ## Representative Work
+
+<ol>
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank A] </b></font><b>Shizhe Hu</b>, Ruilin Geng, Zhaoxu Cheng, Chaoyang Zhang, Guoliang Zou, Zhengzheng Lou, Yangdong Ye: <i><u>A Parameter-free Multi-view Information Bottleneck Clustering Method by Cross-view Weighting</u></i>. <font color="green">ACM MM 2022</font>. <a href = "https://dl.acm.org/doi/pdf/10.1145/3503161.3547985">[PDF]</a></li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank A]</b></font> <b>Shizhe Hu</b>, Zhengzheng Lou, and Yangdong Ye: <i><u> View-wise Versus Cluster-wise Weight: Which Is Better for Multi-view Clustering?</u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>) </font> 31: 58-71, 2022. <a href = "https://ieeexplore.ieee.org/document/9623366">[PDF]</a></li></p>  
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank A]</b></font> <b>Shizhe Hu</b>, Xiaoqiang Yan, Yangdong Ye: <i><u> Multi-task Image Clustering through Correlation Propagation</u></i>. <font color="green"> IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>) </font>. 33(3): 1113-1127, 2021. <a href = "https://ieeexplore.ieee.org/document/8812907">[PDF]</a> </li></p> 
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Xiaoqiang Yan, Zhengzheng Lou, and Yangdong Ye: <i><u> Multiview Clustering with Propagating Information Bottleneck</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, 2023. <a href = "https://ieeexplore.ieee.org/document/10038628">[PDF]</a> </li></p> 
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Yangdong Ye: <i><u>DMIB: Dual-correlated Multivariate Information Bottleneck for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font> 52(6): 4260-4274, 2022. <a href = "https://ieeexplore.ieee.org/document/9234635">[PDF]</a></li></p>
+
+</ol>
