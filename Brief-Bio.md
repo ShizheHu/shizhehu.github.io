@@ -31,5 +31,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Xiaoqiang Yan, Zhengzheng Lou, and Yangdong Ye: <i><u> Multiview Clustering with Propagating Information Bottleneck</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, 2023. <a href = "https://ieeexplore.ieee.org/document/10038628">[PDF]</a> </li></p> 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Yangdong Ye: <i><u>DMIB: Dual-correlated Multivariate Information Bottleneck for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font> 52(6): 4260-4274, 2022. <a href = "https://ieeexplore.ieee.org/document/9234635">[PDF]</a></li></p>
+  
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Xiaoqiang Yan, Yangdong Ye: <i><u> Dynamic Auto-weighted Multi-view Co-clustering</u></i>. <font color="green"> Pattern Recognition (<b>PR</b>) </font> (99) 2020.<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0031320319304029">[PDF]</a> </li></p>
 
 </ol>
