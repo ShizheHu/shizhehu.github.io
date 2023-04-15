@@ -36,14 +36,14 @@
 
 </ul>
 
-## Training Students
+## 在读/已毕业硕士生
 <ul>
-<p style="margin-top: 8px;"><li><b>Chengkun Zhang (2022~2025)</b>, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Chengkun Zhang (张丞坤)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
   
-<p style="margin-top: 8px;"><li><b>Hang Xue (2022~2025)</b>, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
   
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (2020~2023)</b>, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Have published one paper on <b>Information Processing and Management (CCF Rank B)</b>.</li></p>
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Have published one paper on <b>Information Processing and Management (CCF Rank B)</b>.</li></p>
   
-<p style="margin-top: 8px;"><li><b>Ruilin Geng (2020~2023)</b>, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Have published one paper on <b>ACM MM 2022 (CCF Rank A)</b>.</li></p>  
+<p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Have published one paper on <b>ACM MM 2022 (CCF Rank A)</b>.</li></p>  
 
 </ul>
