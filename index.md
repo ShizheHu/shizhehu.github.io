@@ -7,11 +7,11 @@ layout: default
 <ul>
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>Master students</b>".
 
-<p style="margin-top: 6px;"><li>[<font color="red">19-Apr-2023</font>] Served as "<b>PC member</b>" for <font color="green">ACM MM'23</font>.</li></p> 
+<p style="margin-top: 6px;"><li>[<font color="red">19-Apr-2023</font>] As "<b>PC member</b>" for <font color="green">ACM MM'23</font>.</li></p> 
  
 <p style="margin-top: 6px;"><li>[<font color="red">17-Jan-2023</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TNNLS</font>.</li></p> 
  
-<p style="margin-top: 6px;"><li>[<font color="red">08-Sept-2022</font>] Obtained "<b>a NSFC Fund </b>".
+<p style="margin-top: 6px;"><li>[<font color="red">08-Sept-2022</font>] "<b>A NSFC Fund </b>" is obtained.
  
 <p style="margin-top: 6px;"><li>[<font color="red">30-Jun-2022</font>] "<b>One paper</b>" is accepted by <font color="green">ACM MM'22</font>.</li></p>
  
