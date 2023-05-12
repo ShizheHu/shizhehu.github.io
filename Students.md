@@ -1,5 +1,17 @@
 # Master Students
 
+## 在读/已毕业硕士生
+<ul>
+<p style="margin-top: 8px;"><li><b>Chengkun Zhang (张丞坤)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
+  
+<p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+  
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Published one paper on <b>Information Processing and Management (CCF Rank B)</b>.</li></p>
+  
+<p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Published one paper on <b>ACM MM 2022 (CCF Rank A)</b>.</li></p>  
+
+</ul>
+
 ## 招生要求
 
 <ul>
@@ -33,17 +45,5 @@
 <p style="margin-top: 8px;"><li>“科研生活balance”：推崇健康快乐的学习方式和环境，定期组织健康有益的活动，比如台球、羽毛球、乒乓球、跑步等活动（活动中产生的一切费用，无需学生承担，全部免费）。</li></p>
   
 <p style="margin-top: 8px;"><li>对有意出国的同学，建议尽早进入实验室学习。良好的科研基础训练是出国留学的敲门砖。</li></p>
-
-</ul>
-
-## 在读/已毕业硕士生
-<ul>
-<p style="margin-top: 8px;"><li><b>Chengkun Zhang (张丞坤)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
-  
-<p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
-  
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Have published one paper on <b>Information Processing and Management (CCF Rank B)</b>.</li></p>
-  
-<p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Have published one paper on <b>ACM MM 2022 (CCF Rank A)</b>.</li></p>  
 
 </ul>
