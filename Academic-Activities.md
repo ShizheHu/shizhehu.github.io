@@ -2,29 +2,31 @@
 # Academic Activities
 
 <ul>
+ 
 <p style="margin-top: 8px;"><li><b>Invited Speaker</b>: </li></p>  
-<p <i>PRAI 2022</i> </p>
+
+<i>PRAI 2022</i>
 
   
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</i></li></p>
-<p<i>ACM MM'23</i></p>
-<p<i>CVPR'22/23</i> </p>
-<p<i>AAAI'21/22/23</i> </p>
-<p<i>IJCAI'22/23</i> </p>
+<i>ACM MM'23</i> <br>
+<i>CVPR'22/23</i>  <br>
+<i>AAAI'21/22/23</i>  <br>
+<i>IJCAI'22/23</i> <br>
 <!-- <p<i>ICDM'22/23, CCDM'22, PRCV'22, PRAI'22/23;</i> </p> -->
   
 <p style="margin-top: 8px;"><li><b>Reviewer for Journals</b>:</li></p>
-<p<i> IEEE TKDE  </i> </p>
-<p<i> IEEE TNNLS  </i> </p>
-<p<i> Information Fusion  </i> </p>
-<p<i> Neural Networks  </i> </p>
-<p<i> nformation Processing and Management </i> </p>
+<i> IEEE TKDE  </i> <br>
+<i> IEEE TNNLS  </i> <br>
+<i> Information Fusion  </i> <br>
+<i> Neural Networks  </i> <br>
+<i> nformation Processing and Management </i> </p>
 
 
 <p style="margin-top: 8px;"><li><b>Member</b>:</li></p>
-<p<i> IEEE Member  </i> </p>
-<p<i> ACM Member  </i> </p>
-<p<i> CCF Member  </i> </p>
-<p<i> BAAI-Qingyuan Club Member  </i> </p>
+<i> IEEE Member  </i> <br>
+<i> ACM Member  </i> <br>
+<i> CCF Member  </i> <br>
+<i> BAAI-Qingyuan Club Member  </i> <br>
   
 </ul>
