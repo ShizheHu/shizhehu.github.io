@@ -20,7 +20,7 @@
 <i> IEEE TNNLS  </i> <br>
 <i> Information Fusion  </i> <br>
 <i> Neural Networks  </i> <br>
-<i> Information Processing and Management </i>
+<!-- <i> Information Processing and Management </i>-->
 
 
 <p style="margin-top: 8px;"><li><b>Member</b>:</li></p>
