@@ -8,7 +8,7 @@
 <i>PRAI 2022</i>
 
   
-<p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</i></li></p>
+<p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
 <i>ACM MM'23</i> <br>
 <i>CVPR'22/23</i>  <br>
 <i>AAAI'21/22/23</i>  <br>
@@ -20,7 +20,7 @@
 <i> IEEE TNNLS  </i> <br>
 <i> Information Fusion  </i> <br>
 <i> Neural Networks  </i> <br>
-<i> nformation Processing and Management </i> </p>
+<i> Information Processing and Management </i>
 
 
 <p style="margin-top: 8px;"><li><b>Member</b>:</li></p>
