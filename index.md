@@ -7,6 +7,8 @@ layout: default
 <ul>
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">17-Jul-2023</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TIP</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">14-Jul-2023</font>] As "<b>PC member</b>" for <font color="green">AAAI'24</font>.</li></p> 
  
 <p style="margin-top: 6px;"><li>[<font color="red">17-Jan-2023</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TNNLS</font>.</li></p> 
