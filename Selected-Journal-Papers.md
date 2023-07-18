@@ -2,7 +2,7 @@
 ## 2023
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank A]</b> Chaoyang Zhang, Zhengzheng Lou, Qinglei Zhou, and</font> <b>Shizhe Hu (Corresponding author)</b>: <i><u> Multi-View Clustering via Triplex Information Maximization</u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>)</font>, Accepted, 2023. </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank A]</b></font> Chaoyang Zhang, Zhengzheng Lou, Qinglei Zhou, and <b>Shizhe Hu (Corresponding author)</b>: <i><u> Multi-View Clustering via Triplex Information Maximization</u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>)</font>, Accepted, 2023. </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Xiaoqiang Yan, Zhengzheng Lou, and Yangdong Ye: <i><u> Multiview Clustering with Propagating Information Bottleneck</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, 2023. <a href = "https://ieeexplore.ieee.org/document/10038628">[PDF]</a> </li></p> 
 
