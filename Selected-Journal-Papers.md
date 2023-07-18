@@ -2,6 +2,8 @@
 ## 2023
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank A]Chaoyang Zhang, Zhengzheng Lou, Qinglei Zhou, and</b></font> <b>Shizhe Hu (Corresponding author)</b>: <i><u> Multi-View Clustering via Triplex Information Maximization</u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>) </font> Accepted, 2023. <a href = "">[PDF]</a></li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Xiaoqiang Yan, Zhengzheng Lou, and Yangdong Ye: <i><u> Multiview Clustering with Propagating Information Bottleneck</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, 2023. <a href = "https://ieeexplore.ieee.org/document/10038628">[PDF]</a> </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF Rank B]</b></font> <b>Shizhe Hu</b>, Guoliang Zou, Chaoyang Zhang, Zhengzheng Lou, Ruilin Geng, and Yangdong Ye: <i><u>Joint Contrastive Triple-learning for Deep Multi-view Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, Accepted, 2023. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0306457323000213">[PDF]</a> <a href = "https://github.com/ShizheHu/Joint-Contrastive-Triple-learning">[Code]</a></li></p>
