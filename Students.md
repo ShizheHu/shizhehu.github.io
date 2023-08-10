@@ -30,7 +30,7 @@
   
 <p style="margin-top: 8px;"><li>科学研究中涉及到大量的凝练思考、批判创造、计算机编程与算法实验等，同时学术交流的过程锻炼了沟通的能力，无疑这些对于无论是选择继续读博深造或进入国企、私企的同学都有很重要的作用。</li></p>
   
-<p style="margin-top: 8px;"><li>“科研生活balance”：推崇健康快乐的学习方式和环境，定期组织健康有益的活动，比如台球、羽毛球、乒乓球、跑步等活动（活动中产生的一切费用，无需学生承担，全部免费）。</li></p>
+<p style="margin-top: 8px;"><li>“科研生活balance”：推崇健康快乐的学习方式和环境，定期组织健康有益的活动，比如台球、羽毛球、乒乓球、跑步等活动（活动中产生的一切费用无需学生承担）。</li></p>
   
 <p style="margin-top: 8px;"><li>对有意出国的同学，建议尽早进入实验室学习。良好的科研基础训练是出国留学的敲门砖。</li></p>
 
@@ -38,6 +38,13 @@
 
 ## 在读/已毕业硕士生
 <ul>
+
+<p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, 2023~2026 </li></p>
+
+<p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, 2023~2026 </li></p>
+  
+<p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+
 <p style="margin-top: 8px;"><li><b>Chengkun Zhang (张丞坤)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
   
 <p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
