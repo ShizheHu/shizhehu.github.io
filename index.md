@@ -21,7 +21,7 @@ layout: default
  
 <!-- <p style="margin-top: 6px;"><li>[<font color="red">24-Dec-2021</font>] Invited to be a member of "<b>The BAAI Young Scientist Association (Qingyuan Club)</b>".-->  
   
-<p style="margin-top: 6px;"><li>[<font color="red">04-Nov-2021</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TIP CCF-A)</font>.</li></p>  
+<p style="margin-top: 6px;"><li>[<font color="red">04-Nov-2021</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TIP (CCF-A)</font>.</li></p>  
 
 <p style="margin-top: 6px;"><li>[<font color="red">17-Sept-2020</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TCYB (CCF-B)</font>.</li></p>
 
