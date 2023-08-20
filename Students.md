@@ -36,12 +36,6 @@
 
 </ul>
 
-## 在读/已毕业博士生
-<ul>
- 
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye.</a> </li></p>
-
-</ul>
 
 ## 在读/已毕业硕士生
 <ul>
@@ -61,3 +55,14 @@
 <p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Published one paper on <b>ACM MM 2022 (CCF Rank A)</b>.</li></p>  
 
 </ul>
+
+
+# Ph.D Students
+
+## 在读/已毕业博士生
+<ul>
+ 
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye.</a> </li></p>
+
+</ul>
+
