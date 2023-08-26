@@ -25,7 +25,7 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">17-Sept-2020</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TCYB (CCF-B)</font>.</li></p>
 
-<!-- <p style="margin-top: 6px;"><li>[<font color="red">07-Feb-2020</font>] "<b>One paper</b>" is accepted by <font color="green">Chinese Journal of Computers (CJC))</font>.</li></p>-->
+<p style="margin-top: 6px;"><li>[<font color="red">07-Feb-2020</font>] "<b>One paper</b>" is accepted by <font color="green">Chinese Journal of Computers (CJC))</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">31-Oct-2019</font>] "<b>One paper</b>" is accepted by <font color="green">PR (CCF-B)</font>.</li></p>
 
