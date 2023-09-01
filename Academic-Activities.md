@@ -25,8 +25,9 @@
 <i> IEEE TNNLS  </i> <br>
 <i> Information Fusion  </i> <br>
 <i> Neural Networks  </i> <br>
-<i> International Journal of Machine Learning and Cybernetics  </i> <br>
 <i> Information Processing and Management </i> <br>
+<i> Knowledge-Based Systems </i> <br>
+<i> International Journal of Machine Learning and Cybernetics  </i> <br>
 <i> MultiMedia Tools and Applications </i> <br>
 <i> Scientific Reports </i> <br>
 <i> Cognitive Computation </i> <br>
