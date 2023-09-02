@@ -20,9 +20,9 @@
 <i>PRAI'22/23</i>
   
 <p style="margin-top: 8px;"><li><b>Reviewer for Journals</b>:</li></p>
-<i> IEEE TIP  </i> <br>
-<i> IEEE TKDE  </i> <br>
-<i> IEEE TNNLS  </i> <br>
+<i> IEEE Transactions on Image Processing (TIP) </i> <br>
+<i> IEEE Transactions on Knowledge and Data Engineering (TKDE)  </i> <br>
+<i> IEEE Transactions on Neural Networks and Learning Systems (TNNLS) </i> <br>
 <i> Information Fusion  </i> <br>
 <i> Neural Networks  </i> <br>
 <i> Information Processing and Management </i> <br>
