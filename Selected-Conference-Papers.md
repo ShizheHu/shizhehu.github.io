@@ -3,7 +3,7 @@
 
 <ol>
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF-A] </b></font><b>Shizhe Hu</b>, Ruilin Geng, Zhaoxu Cheng, Chaoyang Zhang, Guoliang Zou, Zhengzheng Lou, Yangdong Ye: <i><u>A Parameter-free Multi-view Information Bottleneck Clustering Method by Cross-view Weighting</u></i>. <font color="green">ACM MM 2022</font>. <a href = "https://dl.acm.org/doi/pdf/10.1145/3503161.3547985">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF-A] </b></font><b>Shizhe Hu</b>, Ruilin Geng, Zhaoxu Cheng, Chaoyang Zhang, Guoliang Zou, Zhengzheng Lou, Yangdong Ye: <i><u>A Parameter-free Multi-view Information Bottleneck Clustering Method by Cross-view Weighting</u></i>. <font color="green">ACM Multimedia (ACM MM) 2022: 3792-3800</font>. <a href = "https://dl.acm.org/doi/pdf/10.1145/3503161.3547985">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CCF-B] </b></font><b>Shizhe Hu</b>, Zhenquan Hou, Zhengzheng Lou, Yangdong Ye: <i><u>Content VS Context: How about "Walking Hand-In-Hand" for Image Clustering</u></i>. <font color="green">IEEE ICASSP 2020</font>. <a href = "https://ieeexplore.ieee.org/document/9053806">[PDF]</a></li></p>
 
