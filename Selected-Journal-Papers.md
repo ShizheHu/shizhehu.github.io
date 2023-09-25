@@ -8,7 +8,11 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> <b>Shizhe Hu</b>, Guoliang Zou, Chaoyang Zhang, Zhengzheng Lou, Ruilin Geng, and Yangdong Ye: <i><u>Joint Contrastive Triple-learning for Deep Multi-view Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, 60(3):103284, 2023. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0306457323000213">[PDF]</a> <a href = "https://github.com/ShizheHu/Joint-Contrastive-Triple-learning">[Code]</a> (CCF Rank B) </li></p>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TSMC-S]</b></font> Zhongchuan Sun, Bin Wu, <b>Shizhe Hu</b>, Mingming Zhang, and Yangdong Ye: <i><u>Attentive Adversarial Collaborative Filtering</u></i>. <font color="green"> IEEE Transactions on Systems, Man, and Cybernetics: Systems (<b>TSMC</b>)</font>, Accepted, 2023. (CCF Rank B)</li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TSMC-S]</b></font> Zhongchuan Sun, Bin Wu, <b>Shizhe Hu</b>, Mingming Zhang, and Yangdong Ye: <i><u>Attentive Adversarial Collaborative Filtering</u></i>. <font color="green"> IEEE Transactions on Systems, Man, and Cybernetics: Systems (<b>TSMC</b>)</font>, Accepted, 2023. <a href = "https://ieeexplore.ieee.org/abstract/document/10044264">[PDF]</a> (CCF Rank B)</li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EAAI]</b></font> Mingming Zhang, Dong liu, <b>Shizhe Hu</b>, Xiaoqiang Yan, Zhongchuan Sun, and Yangdong Ye: <i><u>Self-Supervised Temporal Autoencoder for Egocentric Action Segmentation</u></i>. <font color="green"> Engineering Applications of Artificial Intelligence (<b>EAAI</b>)</font>, Accepted, 2023. (SCI Q2) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Youwei Wang, Ying Wang, Zhongchuan Sun, Yinghao Li, <b>Shizhe Hu</b>, and Yangdong Ye: <i><u>Deep Purified Feature Mining Model for Joint Named Entity Recognition and Relation Extraction</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, Accepted, 2023. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457323002480?dgcid=coauthor">[PDF]</a> (CCF Rank B) </li></p>
 
 </ol>
 
