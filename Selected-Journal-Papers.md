@@ -36,6 +36,8 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing]</b></font> Xiaoqiang Yan, <b>Shizhe Hu</b>, Yiqiao Mao, Yangdong Ye, and Hui Yu: <i><u> Deep Multi-view Learning Methods: A Review</u></i>. <font color="green">Neurocomputing</font> 448: 106-129, 2021. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0925231221004768#!">[PDF]</a> (SCI Q2)</li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KBS]</b></font> Qiang Guo, Xin Zeng, <b>Shizhe Hu</b>, Sonephet Phoummixay and Yangdong Ye: <i><u> Learning a Deep Network with Cross-hierarchy Aggregation for Crowd Counting </u></i>. <font color="green"> Knowledge-Based Systems (<b>KBS</b>) </font> (213) 2021. <a href = "https://www.sciencedirect.com/science/article/pii/S0950705120308200">[PDF]</a> (SCI Q1) </li></p>
+
 </ol>
  
  
@@ -48,7 +50,11 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[InfSci]</b></font> <b>Shizhe Hu</b>, Xiaoqiang Yan, Yangdong Ye: <i><u>Joint Specific and Correlated Information Exploration for Multi-view Action Clustering</u></i>. <font color="green">Information Sciences </font> 524: 148-164, 2020. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0020025520302061?via%3Dihub">[PDF]</a> (CCF Rank B)</li></p> 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDD]</b></font> Xiaoqiang Yan, Zhengzheng Lou, <b>Shizhe Hu</b>, Yangdong Ye: <i><u> Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization</u></i>. <font color="green"> ACM Transactions on Knowledge Discovery from Data (<b>ACM TKDD</b>) </font> 14(2):1-23, 2020. <a href = "https://dl.acm.org/doi/abs/10.1145/3375394">[PDF]</a> (CCF Rank B) </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDD]</b></font> Xiaoqiang Yan, Zhengzheng Lou, <b>Shizhe Hu</b>, Yangdong Ye: <i><u> Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization</u></i>. <font color="green"> ACM Transactions on Knowledge Discovery from Data (<b>ACM TKDD</b>) </font> 14(2):1-23, 2020. <a href = "https://dl.acm.org/doi/abs/10.1145/3375394">[PDF]</a> (CCF Rank B) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ESWA]</b></font> Xin Zeng, Yunpeng Wu, <b>Shizhe Hu</b>, Ruobin Wang and Yangdong Ye: <i><u> DSPNet: Deep Scale Purifier Network for Dense Crowd Counting</u></i>. <font color="green"> Expert Systems With Applications (<b>ESWA</b>) </font> (141) 2020. <a href = "https://www.sciencedirect.com/science/article/pii/S0957417419306955">[PDF]</a> (SCI Q1) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ASC]</b></font> Mingming Zhang, Xiaoqiang Yan, <b>Shizhe Hu</b>, Yangdong Ye: <i><u> An Information Maximization Multi-task Clustering Method for Egocentric Temporal Segmentation</u></i>. <font color="green"> Applied Soft Computing (<b>ASC</b>) </font> (94) 2020. <a href = "https://www.sciencedirect.com/science/article/pii/S1568494620303653#fig2">[PDF]</a> (SCI Q2) </li></p>
 
 </ol>
  
