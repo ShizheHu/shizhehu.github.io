@@ -39,6 +39,6 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> <b>Shizhe Hu</b>, Xiaoqiang Yan, Yangdong Ye: <i><u> Dynamic Auto-weighted Multi-view Co-clustering</u></i>. <font color="green"> Pattern Recognition (<b>PR</b>) </font> (99) 2020.<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0031320319304029"> [PDF]</a> (CCF Rank B) </li></p>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CJC]</b></font> <b>Shizhe Hu</b>, Zhengzheng Lou, Ruobin Wang, Xiaoqiang Yan, Yangdong Ye: <i><u> Dual-Weighted Multi-View Clustering </u></i>. <font color="green">Chinese Journal of Computers (<b>CJC</b>)</font>. 43(9), 1708-1720, 2020. <a href = "http://cjc.ict.ac.cn/online/onlinepaper/08177-%E8%83%A1%E4%B8%96%E5%93%B2-202094103146.pdf">[PDF]</a> (CCF Rank A) </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机学报]</b></font> <b>胡世哲</b>, 娄铮铮，王若彬，闫小强，叶阳东: <i><u> 一种双重加权的多视角聚类方法 </u></i>. <font color="green">计算机学报</font>. 43(9), 1708-1720, 2020. <a href = "http://cjc.ict.ac.cn/online/onlinepaper/08177-%E8%83%A1%E4%B8%96%E5%93%B2-202094103146.pdf">[PDF]</a> (CCF Rank A) </li></p> 
 
 </ol>
