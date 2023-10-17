@@ -40,5 +40,9 @@
 <i> CCF Member  </i> <br>
 <i> CSIG Member  </i> <br>
 <i> BAAI-Qingyuan Club Member  </i> 
+
+<p style="margin-top: 8px;"><li><b>Committee</b>:</li></p>
+<i> CSIG-Big Visual Data  </i> 
+
   
 </ul>
