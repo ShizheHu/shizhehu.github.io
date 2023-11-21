@@ -5,8 +5,11 @@
  
 <p style="margin-top: 8px;"><li><b>Invited Speaker</b>: </li></p>  
 
-<i>PRAI 2022</i>
+<i>2022 5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2022) </i>
 
+<p style="margin-top: 8px;"><li><b>Session Chair</b>: </li></p>  
+
+<i> 2023 IEEE 23rd International Conference on Data Mining (ICDM 2023)</i>
   
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
 <i>ACM MM'23</i> <br>
