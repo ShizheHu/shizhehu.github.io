@@ -3,9 +3,9 @@
 
 <ul>
  
-<p style="margin-top: 8px;"><li><b>Invited Speaker</b>: </li></p>  
+<p style="margin-top: 8px;"><li><b>Talk</b>: </li></p>  
 
-<i> 5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2022) </i>
+<i> <b>Invited Speaker</b>: 5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2022) </i>
 
 <p style="margin-top: 8px;"><li><b>Chair</b>: </li></p>  
 
