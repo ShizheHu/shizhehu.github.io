@@ -7,7 +7,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE CVPR] </b></font>Xiaoqiang Yan, <b>Shizhe Hu</b>, Yangdong Ye: <i><u>Multi-task Clustering of Human Actions by Sharing Information</u></i>. <font color="green">CVPR 2017</font>. <a href = "https://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html">[PDF]</a> (CCF Rank A)</li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICASSP] </b></font><b>Shizhe Hu</b>, Zhenquan Hou, Zhengzheng Lou, Yangdong Ye: <i><u>Content VS Context: How about "Walking Hand-In-Hand" for Image Clustering</u></i>. <font color="green">IEEE ICASSP 2020</font>. <a href = "https://ieeexplore.ieee.org/document/9053806">[PDF]</a> (CCF Rank B) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE ICASSP] </b></font><b>Shizhe Hu</b>, Zhenquan Hou, Zhengzheng Lou, Yangdong Ye: <i><u>Content VS Context: How about "Walking Hand-In-Hand" for Image Clustering</u></i>. <font color="green">IEEE ICASSP 2020</font>. <a href = "https://ieeexplore.ieee.org/document/9053806">[PDF]</a> (CCF Rank B) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[SDM] </b></font>Xiaoqiang Yan, Yiqiao Mao, <b>Shizhe Hu</b>, Yangdong Ye: <i><u>Heterogeneous Dual-Task Clustering with Visual-Textual Information</u></i>. <font color="green">SDM 2020</font>. <a href = "https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.74">[PDF]</a> (CCF Rank B) </li></p>
 
