@@ -5,11 +5,11 @@
  
 <p style="margin-top: 8px;"><li><b>Talk</b>: </li></p>  
 
-<i> <b>Invited Speaker</b>: 5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2022) </i>
+<i> <b>Invited Speaker</b>: 5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2022) <a href = "http://www.prai.net/prai2022.html">[link]</a> </i>
 
 <p style="margin-top: 8px;"><li><b>Chair</b>: </li></p>  
 
-<i> <b>Session Chair</b>: 23rd IEEE International Conference on Data Mining (ICDM 2023): Session A3-III Federated Learning and Ensembles & Security and Privacy</i>
+<i> <b>Session Chair</b>: 23rd IEEE International Conference on Data Mining (ICDM 2023): Session A3-III Federated Learning and Ensembles & Security and Privacy <a href = "https://www.cloud-conf.net/icdm2023/registration.html">[link]</a></i>
   
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
 <i>ACM MM'23</i> <br>
