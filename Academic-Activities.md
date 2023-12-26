@@ -53,7 +53,7 @@
 
 
 <p style="margin-top: 8px;"><li><b>Committee</b>:</li></p>
-<i> CSIG-Big Visual Data  </i> 
+<i> 中国图象图形学学会视觉大数据专业委员会委员 (CSIG-Big Visual Data)  </i> 
 
   
 </ul>
