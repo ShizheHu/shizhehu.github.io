@@ -33,8 +33,10 @@
 <i> IEEE Transactions on Image Processing (TIP) </i> <br>
 <i> IEEE Transactions on Knowledge and Data Engineering (TKDE)  </i> <br>
 <i> IEEE Transactions on Neural Networks and Learning Systems (TNNLS) </i> <br>
+<i> IEEE Transactions on Multimedia (TMM)  </i> <br>
 <i> Information Fusion  </i> <br>
 <i> Neural Networks  </i> <br>
+<i> Artificial Intelligence Review </i> <br>
 <i> Information Processing and Management </i> <br>
 <i> Knowledge-Based Systems </i> <br>
 <i> International Journal of Machine Learning and Cybernetics  </i> <br>
