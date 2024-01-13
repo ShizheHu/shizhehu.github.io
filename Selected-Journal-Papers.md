@@ -3,7 +3,7 @@
 ## 2024
 <ol>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Chengkun Zhang, Guoliang Zou, Zhengzheng Lou, and Yangdong Ye: <i><u> Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, 2024. (CCF Rank B) </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Chengkun Zhang, Guoliang Zou, Zhengzheng Lou, and Yangdong Ye: <i><u> Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, 2024. <a href = "https://github.com/ShizheHu/Deep-Multi-view-Clustering-PGCL-DCL">[Code]</a> (CCF Rank B) </li></p> 
 
 
 </ol>
