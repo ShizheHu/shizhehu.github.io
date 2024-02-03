@@ -16,6 +16,7 @@
 
 
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
+<i>ICML'24</i> <br>
 <i>ACM MM'23/24</i> <br>
 <i>CVPR'22/23</i>  <br>
 <i>AAAI'21/22/23/24</i>  <br>
