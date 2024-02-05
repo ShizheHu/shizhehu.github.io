@@ -25,6 +25,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Shizhe Hu</b>, Zhengzheng Lou, Xiaoqiang Yan, and Yangdong Ye: <i><u> A Survey on Information Bottleneck </u></i>. <font color="green"> IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>, Accepted, 2024. (CCF Rank A) </li></p> 
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> <b>Shizhe Hu</b>, Zhengzheng Lou, and Yangdong Ye: <i><u> View-wise Versus Cluster-wise Weight: Which Is Better for Multi-view Clustering?</u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>) </font> 31: 58-71, 2022. <a href = "https://ieeexplore.ieee.org/document/9623366">[PDF]</a> (CCF Rank A) </li></p>  
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Chaoyang Zhang, Zhengzheng Lou, Qinglei Zhou, and <b>Shizhe Hu*</b>: <i><u> Multi-View Clustering via Triplex Information Maximization</u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>)</font>, 32: 4299-4313, 2023.  <a href = "https://ieeexplore.ieee.org/document/10194552">[PDF]</a> (CCF Rank A) </li></p>
