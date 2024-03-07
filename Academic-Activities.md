@@ -35,6 +35,7 @@
 <i> IEEE Transactions on Knowledge and Data Engineering (TKDE)  </i> <br>
 <i> IEEE Transactions on Neural Networks and Learning Systems (TNNLS) </i> <br>
 <i> IEEE Transactions on Multimedia (TMM)  </i> <br>
+<i> IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) </i> <br>
 <i> Information Fusion  </i> <br>
 <i> Neural Networks  </i> <br>
 <i> Artificial Intelligence Review </i> <br>
