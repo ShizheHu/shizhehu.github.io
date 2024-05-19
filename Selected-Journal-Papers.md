@@ -7,7 +7,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Chengkun Zhang, Guoliang Zou, Zhengzheng Lou, and Yangdong Ye: <i><u> Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, 2024. <a href = "https://ieeexplore.ieee.org/document/10416814">[PDF]</a> <a href = "https://github.com/ShizheHu/Deep-Multi-view-Clustering-PGCL-DCL">[Code]</a> (CCF Rank B) </li></p> 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Chaoyang Zhang, Hang Xue, Kai Nie, Xihui Wu, Zhengzheng Lou, Shouyi Yang, Qinglei Zhou, <b>Shizhe Hu*</b>: <i><u> Nice to Meet Images with Big Clusters and Features: A Cluster-weighted Multi-modal Co-clustering Method </u></i>. <font color="green"> Information Processing and Management (<b> IPM </b>)</font>, Accepted, 2024. (CCF Rank B) </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Chaoyang Zhang, Hang Xue, Kai Nie, Xihui Wu, Zhengzheng Lou, Shouyi Yang, Qinglei Zhou, <b>Shizhe Hu*</b>: <i><u> Nice to Meet Images with Big Clusters and Features: A Cluster-weighted Multi-modal Co-clustering Method </u></i>. <font color="green"> Information Processing and Management (<b> IPM </b>)</font>, Accepted, 2024. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457324000955">[PDF]</a> (CCF Rank B) </li></p> 
 
 
 </ol>
