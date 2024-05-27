@@ -38,6 +38,7 @@
 <i> IEEE Transactions on Multimedia (TMM)  </i> <br>
 <i> IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) </i> <br>
 <i> Information Fusion  </i> <br>
+<i> Pattern Recognition </i> <br>
 <i> Neural Networks  </i> <br>
 <i> Artificial Intelligence Review </i> <br>
 <i> Information Processing and Management </i> <br>
