@@ -32,6 +32,7 @@
   
 
 <p style="margin-top: 8px;"><li><b>Reviewer for Journals</b>:</li></p>
+<i> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) </i> <br>
 <i> IEEE Transactions on Image Processing (TIP) </i> <br>
 <i> IEEE Transactions on Knowledge and Data Engineering (TKDE)  </i> <br>
 <i> IEEE Transactions on Neural Networks and Learning Systems (TNNLS) </i> <br>
