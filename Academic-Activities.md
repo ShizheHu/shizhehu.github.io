@@ -62,5 +62,9 @@
 <p style="margin-top: 8px;"><li><b>Committee</b>:</li></p>
 <i> 中国图象图形学学会视觉大数据专业委员会委员 (CSIG-Big Visual Data)  </i> 
 
+<p style="margin-top: 8px;"><li><b>Additional Services</b>:</li></p>
+<i> 国家自然科学基金委函评专家 </i> 
+<i> 教育部学位中心研究生学位论文评审专家 </i> 
+
   
 </ul>
