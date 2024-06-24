@@ -1,6 +1,9 @@
 # Awards and Honors
 
 <ul>
+
+<p style="margin-top: 8px;"><li>ACM Rising Star Award, ACM Zhengzhou（2023 ACM China 新星奖郑州分会，）, 2023. <a href = "https://www.acmturc.com/2024/#/newStarAward">[Link]</a>. </li></p> 
+
 <p style="margin-top: 8px;"><li>ACM Outstanding Ph.D. Dissertation Award, ACM Zhengzhou（2021 ACM China 优秀博士论文奖郑州分会, 2021ACMCHINA-YB-C1602）, 2021. <a href = "https://www.acmturc.com/2023/cn/doctoral_thesis_award.html">[Link]</a>. </li></p> 
   
 <p style="margin-top: 8px;"><li>Second Prize of Natural Science Award of Henan Province for paper "Dynamic Auto-weighted Multi-view Co-clustering" (河南省自然科学学术二等奖), Henan Province, 2021. <a href = "https://hrss.henan.gov.cn/2021/12-20/2368125.html">[Link]</a>.</li></p>
