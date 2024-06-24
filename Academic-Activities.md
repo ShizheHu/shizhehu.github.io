@@ -9,6 +9,7 @@
 
 <i> <b>Spotlight Paper</b>: 2024 Chinese Congress on Image and Graphics (CCIG 2024) <a href = "http://ccig.csig.org.cn/spotlight/">[link]</a> </i>
 
+
 <p style="margin-top: 8px;"><li><b>Chair</b>: </li></p>  
 
 <i> <b>Session Chair</b>: 23rd IEEE International Conference on Data Mining (ICDM 2023): Session A3-III "Federated Learning and Ensembles & Security and Privacy" <a href = "https://www.cloud-conf.net/icdm2023/registration.html">[link]</a></i> <br>
