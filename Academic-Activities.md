@@ -5,9 +5,9 @@
  
 <p style="margin-top: 8px;"><li><b>Talk</b>: </li></p>  
 
-<i> <b>Invited Speaker</b>: 5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2022) <a href = "http://www.prai.net/prai2022.html">[link]</a> </i><br>
+<i> <b>Invited Speaker</b>: for the 5th Inter. Conf. Pattern Recognition and Artificial Intelligence (PRAI 2022) at Chengdu, China, 19-Aug-2022<a href = "http://www.prai.net/prai2022.html">[link]</a> </i><br>
 
-<i> <b>Spotlight Paper</b>: 2024 Chinese Congress on Image and Graphics (CCIG 2024) <a href = "http://ccig.csig.org.cn/spotlight/">[link]</a> </i>
+<i> <b>Spotlight Paper</b>: for 2024 Chinese Congress on Image and Graphics (CCIG 2024) at Xian, China, 24-May-2024<a href = "http://ccig.csig.org.cn/spotlight/">[link]</a> </i>
 
 
 <p style="margin-top: 8px;"><li><b>Chair</b>: </li></p>  
