@@ -5,7 +5,7 @@
  
 <p style="margin-top: 8px;"><li><b>Talk</b>: </li></p>  
 
-<i> <b>Invited Speaker</b>: 5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2022) <a href = "http://www.prai.net/prai2022.html">[link]</a> </i>
+<i> <b>Invited Speaker</b>: 5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2022) <a href = "http://www.prai.net/prai2022.html">[link]</a> </i><br>
 
 <i> <b>Spotlight Paper</b>: 2024 Chinese Congress on Image and Graphics (CCIG 2024) <a href = "http://ccig.csig.org.cn/spotlight/">[link]</a> </i>
 
