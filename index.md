@@ -39,5 +39,3 @@ layout: default
 <p style="margin-top: 6px;"><li>[<font color="red">13-Aug-2019</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TKDE (CCF-A)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">21-Jul-2017</font>]  "<b>One paper</b>" is accepted by <font color="green">IEEE CVPR (CCF-A)</font>.</li></p>
-
-</ul>
