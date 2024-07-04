@@ -10,7 +10,7 @@
   
 <p style="margin-top: 8px;"><li>Second Prize on Natural Science Award of Henan Province for paper "Dynamic Auto-weighted Multi-view Co-clustering" (河南省自然科学优秀学术论文二等奖，排名1/3，河南省人社厅、河南省科协), Henan Province, 2021.12. <a href = "https://hrss.henan.gov.cn/2021/12-20/2368125.html">[Link]</a>.</li></p>
 
-<p style="margin-top: 8px;"><li>Outstanding Ph.D. Dissertation Award (优秀博士学位论文), Zhengzhou University, 2021. <a href = "http://gs.zzu.edu.cn/info/1048/11414.htm">[Link]</a>.</li></p>
+<p style="margin-top: 8px;"><li>Outstanding Ph.D. Dissertation Award (郑州大学优秀博士学位论文), Zhengzhou University, 2021. <a href = "http://gs.zzu.edu.cn/info/1048/11414.htm">[Link]</a>.</li></p>
   
 <p style="margin-top: 8px;"><li>Excellent Graduate of Henan Province (河南省优秀应届毕业生), Department of Education of Henan Province, 2015, 2021. </li></p>  
 
