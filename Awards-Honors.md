@@ -8,7 +8,7 @@
 
 <p style="margin-top: 8px;"><li>ACM Outstanding Ph.D. Dissertation Award, ACM Zhengzhou（2021 ACM China 优秀博士论文奖郑州分会, 2021ACMCHINA-YB-C1602）, 2021. <a href = "https://www.acmturc.com/2023/cn/doctoral_thesis_award.html">[Link]</a>. </li></p> 
   
-<p style="margin-top: 8px;"><li>Second Prize on Natural Science Award of Henan Province for paper "Dynamic Auto-weighted Multi-view Co-clustering" (河南省自然科学学术二等奖), Henan Province, 2021. <a href = "https://hrss.henan.gov.cn/2021/12-20/2368125.html">[Link]</a>.</li></p>
+<p style="margin-top: 8px;"><li>Second Prize on Natural Science Award of Henan Province for paper "Dynamic Auto-weighted Multi-view Co-clustering" (河南省自然科学优秀学术论文二等奖，河南省人社厅、河南省科协), Henan Province, 2021.12. <a href = "https://hrss.henan.gov.cn/2021/12-20/2368125.html">[Link]</a>.</li></p>
 
 <p style="margin-top: 8px;"><li>Outstanding Ph.D. Dissertation Award (优秀博士学位论文), Zhengzhou University, 2021. <a href = "http://gs.zzu.edu.cn/info/1048/11414.htm">[Link]</a>.</li></p>
   
