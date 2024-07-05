@@ -18,7 +18,7 @@
 ## 2023
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Chaoyang Zhang, Zhengzheng Lou, Qinglei Zhou, and <b>Shizhe Hu*</b>: <i><u> Multi-View Clustering via Triplex Information Maximization</u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>)</font>, 32: 4299-4313, 2023. <a href = "https://ieeexplore.ieee.org/document/10194552">[PDF]</a> (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Chaoyang Zhang, Zhengzheng Lou, Qinglei Zhou, and <b>Shizhe Hu*</b>: <i><u> Multi-View Clustering via Triplex Information Maximization</u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>)</font>, 32: 4299-4313, Jul. 2023. <a href = "https://ieeexplore.ieee.org/document/10194552">[PDF]</a> (CCF Rank A) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Xiaoqiang Yan, Zhengzheng Lou, and Yangdong Ye: <i><u> Multiview Clustering with Propagating Information Bottleneck</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, 2023. <a href = "https://ieeexplore.ieee.org/document/10038628">[PDF]</a> (CCF Rank B) </li></p> 
 
@@ -37,9 +37,9 @@
 ## 2022
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> <b>Shizhe Hu</b>, Zhengzheng Lou, and Yangdong Ye: <i><u> View-wise Versus Cluster-wise Weight: Which Is Better for Multi-view Clustering?</u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>) </font> 31: 58-71, 2022. <a href = "https://ieeexplore.ieee.org/document/9623366">[PDF]</a> (CCF Rank A) </li></p>  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> <b>Shizhe Hu</b>, Zhengzheng Lou, and Yangdong Ye: <i><u> View-wise Versus Cluster-wise Weight: Which Is Better for Multi-view Clustering?</u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>) </font> 31: 58-71, Jan. 2022. <a href = "https://ieeexplore.ieee.org/document/9623366">[PDF]</a> (CCF Rank A) </li></p>  
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Yangdong Ye: <i><u>DMIB: Dual-correlated Multivariate Information Bottleneck for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font> 52(6): 4260-4274, 2022. <a href = "https://ieeexplore.ieee.org/document/9234635">[PDF]</a> (CCF Rank B) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Yangdong Ye: <i><u>DMIB: Dual-correlated Multivariate Information Bottleneck for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font> 52(6): 4260-4274, Jun. 2022. <a href = "https://ieeexplore.ieee.org/document/9234635">[PDF]</a> (CCF Rank B) </li></p>
 
 </ol>
 
