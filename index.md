@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">16-Jul-2024</font>] "<b>One paper</b>" is accepted by <font color="green">ACM MM'24 (CCF-A)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">21-Jun-2024</font>] "<b>2023 ACM China Rising Star Award (ACM Zhengzhou)</b>" is winned.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">17-Apr-2024</font>] "<b>One paper</b>" is accepted by <font color="green">IJCAI'24 (CCF-A)</font>.</li></p>
