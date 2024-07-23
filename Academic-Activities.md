@@ -12,7 +12,7 @@
 
 <p style="margin-top: 8px;"><li><b>Chair</b>: </li></p>  
 
-<i> <b>Session Chair</b>: the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024): Session ML " Multi-view Learning" <a href = "https://ijcai24.org/">[link]</a></i> <br>
+<i> <b>Session Chair</b>: 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024): Session ML " Multi-view Learning" <a href = "https://ijcai24.org/">[link]</a></i> <br>
 
 <i> <b>Session Chair</b>: 23rd IEEE International Conference on Data Mining (ICDM 2023): Session A3-III "Federated Learning and Ensembles & Security and Privacy" <a href = "https://www.cloud-conf.net/icdm2023/registration.html">[link]</a></i> <br>
 
