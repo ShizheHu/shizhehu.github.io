@@ -64,7 +64,9 @@
 
 
 <p style="margin-top: 8px;"><li><b>Committee</b>:</li></p>
-<i> 中国图象图形学学会视觉大数据专业委员会委员 (CSIG-Big Visual Data)  </i> 
+<i> 中国计算机学会多媒体专委会执行委员 (CCF-MM)  </i>  <br>
+<i> 中国图象图形学学会多媒体专业委员会执行委员 (CSIG-MM)  </i>  <br>
+<i> 中国图象图形学学会视觉大数据专业委员会委员 (CSIG-Big Visual Data)  </i>  <br>
 
 <p style="margin-top: 8px;"><li><b>Other Services</b>:</li></p>
 <i> 国家自然科学基金委函评专家 </i> <br>
