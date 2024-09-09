@@ -84,9 +84,9 @@
   
 <p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>：: Publish on <b>IJCAI'24 (CCF Rank A)</b>、<b>Information Processing and Management (CCF Rank B)</b>. </li></p>
   
-<!-- <p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Published one paper on <b>Information Processing and Management (CCF Rank B)</b>.</li></p>
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Published one paper on <b>Information Processing and Management (CCF Rank B)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU5OTA4GggxNDFkd3R5cw%3D%3D">[硕士学位论文]</a>.</li></p>
   
-<p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Published one paper on <b>ACM MM'22 (CCF Rank A)</b>.</li></p> -->
+<p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Published one paper on <b>ACM MM'22 (CCF Rank A)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU3NDYxGghmbmhvYjdhaA%3D%3D">[硕士学位论文]</a>.</li></p> 
 
 </ul>
 
