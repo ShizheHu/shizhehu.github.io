@@ -68,9 +68,9 @@
 
 <p style="margin-top: 8px;"><li><b>Shuaiju Li (李帅举)</b>, 2024~2027. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, 2023~2026, Co-supervision with Prof. Xin Yang.</li></p>
+<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, 2024~2027, Co-supervision with Prof. Xin Yang.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Tengfei Zhang (张腾飞)</b>, 2023~2026, Co-supervision with Prof. Bei Yang.</li></p>
+<p style="margin-top: 8px;"><li><b>Tengfei Zhang (张腾飞)</b>, 2024~2027, Co-supervision with Prof. Bei Yang.</li></p>
 
 <p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, 2023~2026. </li></p>
 
