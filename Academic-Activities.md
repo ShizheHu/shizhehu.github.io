@@ -61,6 +61,7 @@
 <i> ACM Member  </i> <br>
 <i> CCF Member  </i> <br>
 <i> CSIG Member  </i> <br>
+<i> CAA Member  </i> <br>
 <i> BAAI-Qingyuan Club Member  </i> 
 
 
