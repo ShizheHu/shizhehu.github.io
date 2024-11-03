@@ -10,7 +10,7 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 title: Shizhe Hu
-subtitle: Associate Research Fellow  <br/>Master Supervisor</br>   
+subtitle: Research Fellow  <br/>Master Supervisor</br>   
 
 # left_side:
 background_image: "./assets/ShizheHu.jpg"
