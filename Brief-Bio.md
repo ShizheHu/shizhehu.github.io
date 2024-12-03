@@ -33,12 +33,14 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> <b>Shizhe Hu</b>, Xiaoqiang Yan, Yangdong Ye: <i><u> Multi-task Image Clustering through Correlation Propagation</u></i>. <font color="green"> IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>) </font>. 33(3): 1113-1127, Mar. 2021. <a href = "https://ieeexplore.ieee.org/document/8812907">[PDF]</a> (CCF Rank A) </li></p> 
 
+<!--
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Xiaoqiang Yan, Zhengzheng Lou, and Yangdong Ye: <i><u> Multiview Clustering with Propagating Information Bottleneck</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, 35(7): 9915-9929, Jul. 2024. <a href = "https://ieeexplore.ieee.org/document/10038628">[PDF]</a> (CCF Rank B) </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Chengkun Zhang, Guoliang Zou, Zhengzheng Lou, and Yangdong Ye: <i><u> Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, 2024. <a href = "https://ieeexplore.ieee.org/document/10416814">[PDF]</a> <a href = "https://github.com/ShizheHu/Deep-Multi-view-Clustering-PGCL-DCL">[Code]</a> (CCF Rank B) </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Yangdong Ye: <i><u>DMIB: Dual-correlated Multivariate Information Bottleneck for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font> 52(6): 4260-4274, Jun. 2022. <a href = "https://ieeexplore.ieee.org/document/9234635">[PDF]</a> (CCF Rank B) </li></p>
-
+ -->
+ 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI'24] </b></font> Zhengzheng Lou#, Chaoyang Zhang#, Hang Xue, Yangdong Ye, Qinglei Zhou, <b>Shizhe Hu*</b>: <i><u>Self-supervised Weighted Information Bottleneck for Multi-view Clustering</u></i>. <font color="green">In the 33rd International Joint Conference on Artificial Intelligence (IJCAI), Aug. 2024. </font> (CCF Rank A, # denotes co-first author, * denotes the corresponding author) <a href = "https://www.ijcai.org/proceedings/2024/0513.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM'24] </b></font> Guoliang Zou#, Yangdong Ye#, Tongji Chen, <b>Shizhe Hu*</b>: <i><u>Learning Dual Enhanced Representation for Contrastive Multi-view Clustering</u></i>. <font color="green">ACM Multimedia (ACM MM), Oct. 2024.</font> (CCF Rank A, # denotes co-first author, * denotes the corresponding author) <a href = "https://dl.acm.org/doi/pdf/10.1145/3664647.3681030">[PDF]</a> <a href = "https://github.com/ShizheHu/ACMMM24_Code_LUCE-CMC">[Code]</a> </li></p>
@@ -47,8 +49,11 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> <b>Shizhe Hu</b>, Guoliang Zou, Chaoyang Zhang, Zhengzheng Lou, Ruilin Geng, and Yangdong Ye: <i><u>Joint Contrastive Triple-learning for Deep Multi-view Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, 60(3):103284, May. 2023. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0306457323000213">[PDF]</a> <a href = "https://github.com/ShizheHu/Joint-Contrastive-Triple-learning">[Code]</a> <a href = "https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:000924393900001"><font face="verdana" color="red"><b>[Highly Cited Paper]</b></font></a> (CCF Rank B) </li></p>
 
+
+<!-- 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> <b>Shizhe Hu</b>, Xiaoqiang Yan, Yangdong Ye: <i><u> Dynamic Auto-weighted Multi-view Co-clustering</u></i>. <font color="green"> Pattern Recognition (<b>PR</b>) </font> (99), Mar. 2020.<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0031320319304029"> [PDF]</a> (CCF Rank B) </li></p>
+ -->
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机学报]</b></font> <b>胡世哲</b>, 娄铮铮，王若彬，闫小强，叶阳东: <i><u> 一种双重加权的多视角聚类方法 </u></i>. <font color="green">计算机学报</font>. 43(9), 1708-1720, Sep. 2020. <a href = "http://cjc.ict.ac.cn/online/onlinepaper/08177-%E8%83%A1%E4%B8%96%E5%93%B2-202094103146.pdf">[PDF]</a> (CCF Rank A) </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机学报]</b></font> <b>胡世哲</b>, 娄铮铮，王若彬，闫小强，叶阳东: <i><u> 一种双重加权的多视角聚类方法 </u></i>. <font color="green">计算机学报</font>. 43(9), 1708-1720, Sep. 2020. <a href = "http://cjc.ict.ac.cn/online/onlinepaper/08177-%E8%83%A1%E4%B8%96%E5%93%B2-202094103146.pdf">[PDF]</a> (CCF Rank T1) </li></p> 
 
 </ol>
