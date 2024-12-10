@@ -33,13 +33,15 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE]</b></font> <b>Shizhe Hu</b>, Xiaoqiang Yan, Yangdong Ye: <i><u> Multi-task Image Clustering through Correlation Propagation</u></i>. <font color="green"> IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>) </font>. 33(3): 1113-1127, Mar. 2021. <a href = "https://ieeexplore.ieee.org/document/8812907">[PDF]</a> (CCF Rank A) </li></p> 
 
-
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Xiaoqiang Yan, Zhengzheng Lou, and Yangdong Ye: <i><u> Multiview Clustering with Propagating Information Bottleneck</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, 35(7): 9915-9929, Jul. 2024. <a href = "https://ieeexplore.ieee.org/document/10038628">[PDF]</a> (CCF Rank B) </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Chengkun Zhang, Guoliang Zou, Zhengzheng Lou, and Yangdong Ye: <i><u> Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, 2024. <a href = "https://ieeexplore.ieee.org/document/10416814">[PDF]</a> <a href = "https://github.com/ShizheHu/Deep-Multi-view-Clustering-PGCL-DCL">[Code]</a> (CCF Rank B) </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Yangdong Ye: <i><u>DMIB: Dual-correlated Multivariate Information Bottleneck for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font> 52(6): 4260-4274, Jun. 2022. <a href = "https://ieeexplore.ieee.org/document/9234635">[PDF]</a> (CCF Rank B) </li></p>
- 
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI'25] </b></font> <b>Shizhe Hu</b>, Jiahao Fan, Guoliang Zou*, Yangdong Ye*: <i><u>Multi-aspect Self-guided Deep Information Bottleneck for Multi-modal Clustering</u></i>. <font color="green"> AAAI Conference on Artificial Intelligence (AAAI), Feb. 2025.</font> (CCF Rank A, *denotes the corresponding author) <a href = "https://github.com/ShizheHu">[Code]</a> </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI'25] </b></font> <b>Shizhe Hu</b>, Binyan Tian, Weibo Liu, Yangdong Ye*: <i><u>Self-supervised Trusted Contrastive Multi-view Clustering with Uncertainty Refined</u></i>. <font color="green"> AAAI Conference on Artificial Intelligence (AAAI), Feb. 2025.</font> (CCF Rank A, *denotes the corresponding author) <a href = "https://github.com/ShizheHu">[Code]</a> </li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI'24] </b></font> Zhengzheng Lou#, Chaoyang Zhang#, Hang Xue, Yangdong Ye, Qinglei Zhou, <b>Shizhe Hu*</b>: <i><u>Self-supervised Weighted Information Bottleneck for Multi-view Clustering</u></i>. <font color="green">In the 33rd International Joint Conference on Artificial Intelligence (IJCAI), Aug. 2024. </font> (CCF Rank A, # denotes co-first author, * denotes the corresponding author) <a href = "https://www.ijcai.org/proceedings/2024/0513.pdf">[PDF]</a> </li></p>
 
