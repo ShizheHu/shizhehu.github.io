@@ -3,6 +3,8 @@
 
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI'25] </b></font> <b>Shizhe Hu</b>, Binyan Tian, Weibo Liu, Yangdong Ye*: <i><u>Self-supervised Trusted Contrastive Multi-view Clustering with Uncertainty Refined</u></i>. <font color="green"> AAAI Conference on Artificial Intelligence (AAAI), Feb. 2025.</font> (CCF Rank A, *denotes the corresponding author) <a href = "https://github.com/ShizheHu">[Code]</a> </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM'24] </b></font> Guoliang Zou#, Yangdong Ye#, Tongji Chen, <b>Shizhe Hu*</b>: <i><u>Learning Dual Enhanced Representation for Contrastive Multi-view Clustering</u></i>. <font color="green">ACM Multimedia (ACM MM), Oct. 2024.</font> (CCF Rank A, # denotes co-first author, * denotes the corresponding author) <a href = "https://dl.acm.org/doi/pdf/10.1145/3664647.3681030">[PDF]</a> <a href = "https://github.com/ShizheHu/ACMMM24_Code_LUCE-CMC">[Code]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI'24] </b></font> Zhengzheng Lou#, Chaoyang Zhang#, Hang Xue, Yangdong Ye, Qinglei Zhou, <b>Shizhe Hu*</b>: <i><u>Self-supervised Weighted Information Bottleneck for Multi-view Clustering</u></i>. <font color="green">In the 33rd International Joint Conference on Artificial Intelligence (IJCAI), Aug. 2024.</font> (CCF Rank A, # denotes co-first author, * denotes the corresponding author) <a href = "https://www.ijcai.org/proceedings/2024/0513.pdf">[PDF]</a> </li></p>
