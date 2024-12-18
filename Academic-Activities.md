@@ -20,7 +20,7 @@
 
 
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
-<i>ICML'24</i> <br>
+<i>ICML'24/25</i> <br>
 <i>NeurIPS'24</i> <br>
 <i>ACM MM'23/24</i> <br>
 <i>CVPR'22/23/25</i>  <br>
