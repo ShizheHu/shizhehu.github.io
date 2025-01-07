@@ -25,7 +25,7 @@
 <i>ACM MM'23/24</i> <br>
 <i>CVPR'22/23/25</i>  <br>
 <i>AAAI'21/22/23/24/25</i>  <br>
-<i>IJCAI'22/23/24</i> <br>
+<i>IJCAI'22/23/24/25</i> <br>
 <i>ECCV'22/24</i> <br>
 <i>ICDM'22/23/24</i> <br>
 <i>PAKDD'24</i> <br>
