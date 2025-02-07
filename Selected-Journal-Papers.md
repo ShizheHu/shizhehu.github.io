@@ -19,7 +19,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> Yiqiao Mao, Xiaoqiang Yan, <b>Shizhe Hu</b>, Yangdong Ye: <i><u> Contrastive cross-modal clustering with twin network </u></i>. <font color="green"> Pattern Recognition (<b> PR </b>)</font>, Accepted, 2024. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0031320324003960">[PDF]</a> (CCF Rank B) </li></p> 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机学报]</b></font> 张明明，闫小强，孙中川，<b>胡世哲</b>, 叶阳东: <i><u> 自监督流形结构的第一视角视频时序分割算法 </u></i>. <font color="green">计算机学报</font>. 2024. <a href = "">[PDF]</a> (CCF Rank A) </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机学报]</b></font> 张明明，闫小强，孙中川，<b>胡世哲</b>, 叶阳东: <i><u> 自监督流形结构的第一视角视频时序分割算法 </u></i>. <font color="green">计算机学报</font>. 2024. <a href = "">[PDF]</a> (CCF Rank T1) </li></p> 
 
 
 </ol>
