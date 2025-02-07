@@ -1,13 +1,19 @@
 # Selected Journal Papers
 
+## 2025
+<ol>
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Chengkun Zhang, Guoliang Zou, Zhengzheng Lou, and Yangdong Ye: <i><u> Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, 36(2): 3646-3658, Feb. 2025. <a href = "https://ieeexplore.ieee.org/document/10416814">[PDF]</a> <a href = "https://github.com/ShizheHu/Deep-Multi-view-Clustering-PGCL-DCL">[Code]</a> (CCF Rank B) </li></p> 
+
+</ol>
+
+
 ## 2024
 <ol>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> <b>Shizhe Hu</b>, Zhengzheng Lou, Xiaoqiang Yan, and Yangdong Ye: <i><u> A Survey on Information Bottleneck </u></i>. <font color="green"> IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>, 46(8): 5325-5344, Aug. 2024. <a href = "https://ieeexplore.ieee.org/document/10438074">[PDF]</a> <a href = "https://github.com/ShizheHu/shizhehu.github.io/blob/main/Poster_IBSurvey_TPAMI24_ChineseVersion.pdf">[Poster_ChineseVersion]</a> <a href = "https://github.com/ShizheHu/Awesome-Information-Bottleneck">[Github]</a> (CCF Rank A) </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Xiaoqiang Yan, Zhengzheng Lou, and Yangdong Ye: <i><u> Multiview Clustering with Propagating Information Bottleneck</u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, 35(7): 9915-9929, Jul. 2024. <a href = "https://ieeexplore.ieee.org/document/10038628">[PDF]</a> (CCF Rank B) </li></p> 
-
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Chengkun Zhang, Guoliang Zou, Zhengzheng Lou, and Yangdong Ye: <i><u> Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, 2024. <a href = "https://ieeexplore.ieee.org/document/10416814">[PDF]</a> <a href = "https://github.com/ShizheHu/Deep-Multi-view-Clustering-PGCL-DCL">[Code]</a> (CCF Rank B) </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Chaoyang Zhang, Hang Xue, Kai Nie, Xihui Wu, Zhengzheng Lou, Shouyi Yang, Qinglei Zhou, <b>Shizhe Hu*</b>: <i><u> Nice to Meet Images with Big Clusters and Features: A Cluster-weighted Multi-modal Co-clustering Method </u></i>. <font color="green"> Information Processing and Management (<b> IPM </b>)</font>, 61(5): 103735, Sept. 2024. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457324000955">[PDF]</a> (CCF Rank B) </li></p> 
 
