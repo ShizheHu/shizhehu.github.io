@@ -70,6 +70,12 @@
 
 <p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, 2024~2027, Co-supervision with Prof. Xin Yang.</li></p>
 
+<p style="margin-top: 8px;"><li><b>Chiyao Ma (马驰尧)</b>, 2024~2027, Co-supervision with Prof. Kai Nie.</li></p>
+
+<p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+
+<p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+
 <p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, 2023~2026. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, 2023~2026. </li></p>
