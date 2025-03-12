@@ -75,8 +75,12 @@
 <p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, 2023~2026. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, 2023~2026, Co-supervision with Prof. Xin Yang.</li></p>
+
+<p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, 2023~2026, Co-supervision with Prof. Xiaoheng Jiang.</li></p>
   
 <p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+
+<p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
 <p style="margin-top: 8px;"><li><b>Chengkun Zhang (张丞坤)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Published one paper on <b>IEEE TNNLS (CCF Rank B)</b>.</li></p>
   
