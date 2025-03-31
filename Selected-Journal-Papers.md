@@ -5,6 +5,8 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Chengkun Zhang, Guoliang Zou, Zhengzheng Lou, and Yangdong Ye: <i><u> Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, 36(2): 3646-3658, Feb. 2025. <a href = "https://ieeexplore.ieee.org/document/10416814">[PDF]</a> <a href = "https://github.com/ShizheHu/Deep-Multi-view-Clustering-PGCL-DCL">[Code]</a> (CCF Rank B) </li></p> 
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[InfSci]</b></font> Guoliang Zou, <b>Shizhe Hu</b>, Tongji Chen, Yunpeng Wu, Yangdong Ye*: <i><u>Dual Global Information Guidance for Deep Contrastive Multi-Modal Clustering</u></i>. <font color="green">Information Sciences </font> Accepted, Mar. 2025. (CCF Rank B)</li></p> 
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机学报]</b></font> 张明明，闫小强，孙中川，<b>胡世哲</b>, 叶阳东: <i><u> 自监督流形结构的第一视角视频时序分割算法 </u></i>. <font color="green">计算机学报</font>. Feb. 2025. <a href = "">[PDF]</a> (CCF Rank T1) </li></p> 
 
 </ol>
