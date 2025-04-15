@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">15-Apr-2025</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TIP (CCF-A)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">10-Dec-2024</font>] "<b>Two papers</b>" are accepted by <font color="green">AAAI'25 (CCF-A)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">05-Aug-2024</font>] The paper "<b>A Survey on Information Bottleneck</b>" is selected as the "Popular Articles in Jul. 2024" of <font color="green">IEEE TPAMI (CCF-A)</font>.</li></p>
