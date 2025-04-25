@@ -50,14 +50,12 @@
 </ul>
 
 
-## 在读/已毕业本科生
-
+## 在读博士研究生
 <ul>
-
-<p style="margin-top: 8px;"><li><b>Weibo Liu (刘伟博)</b>, 2022~2026：指导以刘伟博为负责人的2024年郑州大学大学生创新创业训练计划项目获得一般项目支持.</li></p>
+ 
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
 
 </ul>
-
 
 ## 在读硕士研究生
 
@@ -92,6 +90,16 @@
 
 </ul>
 
+
+## 在读本科生
+
+<ul>
+
+<p style="margin-top: 8px;"><li><b>Weibo Liu (刘伟博)</b>, 2022~2026：指导以刘伟博为负责人的2024年郑州大学大学生创新创业训练计划项目获得一般项目支持.</li></p>
+
+</ul>
+
+
 ## 已毕业硕士研究生
 
 <ul>
@@ -106,10 +114,5 @@
 
 </ul>
 
-## 在读/已毕业博士研究生
-<ul>
- 
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
 
-</ul>
 
