@@ -5,7 +5,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML'25] </b></font> Zhengzheng Lou, Hang Xue, Chaoyang Zhang, <b>Shizhe Hu*</b>: <i><u>A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method</u></i>. <font color="green"> Forty-second International Conference on Machine Learning (ICML), May. 2025.</font> (CCF Rank A, *denotes the corresponding author) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML'25] </b></font> Zhengzheng Lou, Ke Zhang, Yucong Zhang, <b>Shizhe Hu*</b>: <i><u>Super Deep Contrastive Information Bottleneck for Multi-modal Clustering</u></i>. <font color="green"> Forty-second International Conference on Machine Learning (ICML), May. 2025.</font> (CCF Rank A, *denotes the corresponding author) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML'25] </b></font> Zhengzheng Lou, Ke Zhang, Yucong Wu, <b>Shizhe Hu*</b>: <i><u>Super Deep Contrastive Information Bottleneck for Multi-modal Clustering</u></i>. <font color="green"> Forty-second International Conference on Machine Learning (ICML), May. 2025.</font> (CCF Rank A, *denotes the corresponding author) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI'25] </b></font> <b>Shizhe Hu</b>, Jiahao Fan, Guoliang Zou*, Yangdong Ye*: <i><u>Multi-aspect Self-guided Deep Information Bottleneck for Multi-modal Clustering</u></i>. <font color="green"> AAAI Conference on Artificial Intelligence (AAAI), 39(16), 17314-17322, April. 2025.</font> (CCF Rank A, *denotes the corresponding author) <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/33903">[PDF]</a> <a href = "https://github.com/ShizheHu">[Code]</a> </li></p>
 
