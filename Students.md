@@ -63,6 +63,27 @@
 
 </ul>
 
+## 学术研究的基本流程
+
+<ul>
+  
+<p style="margin-top: 8px;"><li>1、具备基础能力：编程代码能力、领域基础知识、中英文读写能力等。</li></p>
+  
+<p style="margin-top: 8px;"><li>2、确定研究方向：根据个人兴趣、科学问题的重要性、团队已有基础等，和我讨论确定具体的研究方向。</li></p>
+
+<p style="margin-top: 8px;"><li>3、大量阅读论文：阅读这个方向的重要论文与资料，如经典论文、近年论文、综述论文、博客、知乎专栏等。</li></p>
+
+<p style="margin-top: 8px;"><li>4、复现一些重要论文的结果：能正确的复现出重要论文的结果，后面才能判断实验结果不好，是coding能力不行，还是idea不行。</li></p>
+
+<p style="margin-top: 8px;"><li>5、形成初步idea：通过阅读论文以及和导师、同门讨论，确定初步的idea。</li></p>
+
+<p style="margin-top: 8px;"><li>6、验证并改进idea：根据验证结果以及相关论文阅读更新、迭代idea。</li></p>
+
+<p style="margin-top: 8px;"><li>7、不断迭代完善：反复执行5-6的流程。</li></p>
+
+<p style="margin-top: 8px;"><li>8、撰写论文：直到idea有效，开始撰写论文。</li></p>
+
+</ul>
 
 ## 在读博士研究生
 <ul>
