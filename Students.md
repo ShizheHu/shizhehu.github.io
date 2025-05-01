@@ -81,7 +81,7 @@
 
 <p style="margin-top: 8px;"><li>7、不断迭代完善：反复执行5-6的流程。</li></p>
 
-<p style="margin-top: 8px;"><li>8、撰写论文：直到idea有效，开始撰写论文。</li></p>
+<p style="margin-top: 8px;"><li>8、撰写论文：直到idea有效，开始撰写并持续完善论文。</li></p>
 
 </ul>
 
