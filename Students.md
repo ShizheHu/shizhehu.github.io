@@ -119,9 +119,9 @@
 
 <p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. </li></p>
   
-<p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A).</li></p>
 
-<p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A).</li></p>
 
 </ul>
 
@@ -141,7 +141,7 @@
 
 <p style="margin-top: 8px;"><li><b>Chengkun Zhang (张丞坤)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>IEEE TNNLS (CCF Rank B)</b>; 毕业去向：; 邮箱：.</li></p>
   
-<p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>：Publish papers on <b>IEEE TIP'25、IJCAI'24 (CCF Rank A)</b>、<b>IPM (CCF Rank B)</b>; 毕业去向：; 邮箱：. </li></p>
+<p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>：Publish papers on <b>IEEE TIP'25、ICML'25、IJCAI'24 (CCF Rank A)</b>、<b>IPM (CCF Rank B)</b>; 毕业去向：; 邮箱：. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>IPM (CCF Rank B)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU5OTA4GggxNDFkd3R5cw%3D%3D">[硕士学位论文]</a>; 毕业去向：郑州大学攻读博士学位; 邮箱：.</li></p>
   
