@@ -119,9 +119,9 @@
 
 <p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. </li></p>
   
-<p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A).</li></p>
+<p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A)</b>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A).</li></p>
+<p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A)</b>.</li></p>
 
 </ul>
 
