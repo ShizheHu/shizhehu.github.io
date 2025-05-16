@@ -109,6 +109,10 @@
 
 <p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, 2024~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
+<p style="margin-top: 8px;"><li><b>Wenlong Chen (陈文龙)</b>, 2024~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+
+<p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, 2024~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
+
 <p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, 2023~2026, Publish paper on <b>AAAI'25 (CCF Rank A)</b>.</li></p>
 
 <p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, 2023~2026, Publish paper on <b>AAAI'25 (CCF Rank A)</b>. </li></p>
