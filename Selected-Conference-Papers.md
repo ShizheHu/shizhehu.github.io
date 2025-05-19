@@ -4,7 +4,7 @@
 ## 2025
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML'25] </b></font> Zhengzheng Lou, Hang Xue, Chaoyang Zhang, <b>Shizhe Hu*</b>: <i><u>A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method</u></i>. <font color="green"> Forty-second International Conference on Machine Learning (ICML), May. 2025.</font> (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML'25] </b></font> Zhengzheng Lou, Hang Xue, Chaoyang Zhang, <b>Shizhe Hu*</b>: <i><u>A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method</u></i>. <font color="green"> Forty-second International Conference on Machine Learning (ICML), May. 2025.</font> (CCF Rank A) <a href = "https://github.com/ShizheHu/ICML25_Code_SDCIB">[Code]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML'25] </b></font> Zhengzheng Lou, Ke Zhang, Yucong Wu, <b>Shizhe Hu*</b>: <i><u>Super Deep Contrastive Information Bottleneck for Multi-modal Clustering</u></i>. <font color="green"> Forty-second International Conference on Machine Learning (ICML), May. 2025.</font> (CCF Rank A) </li></p>
 
