@@ -74,6 +74,7 @@
 <p style="margin-top: 8px;"><li><b>Other Services</b>:</li></p>
 <i> 国家自然科学基金委函评专家 </i> <br>
 <i> 教育部学位中心研究生学位论文评审专家 </i>  <br>
+<i> CNKI评审专家  </i> <br>
 <i> 凡科优秀评审专家  </i> <br>
 <i> 郑州大学计算机学科“英才计划”指导专家 </i> 
 
