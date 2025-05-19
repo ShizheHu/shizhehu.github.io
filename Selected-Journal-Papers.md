@@ -4,7 +4,7 @@
 ## 2025
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhengzheng Lou, Hang Xue, Yanzheng Wang, Chaoyang Zhang, Xin Yang, and <b>Shizhe Hu*</b>: <i><u> Parameter-free Deep Multi-modal Clustering with Reliable Contrastive Learning </u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>)</font>, Accept, Apr. 2025. <a href = "https://ieeexplore.ieee.org/document/10975134">[PDF]</a> <a href = "https://github.com/ShizheHu/TIP25_Code_PDMC-RCL">[Code]</a> (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhengzheng Lou, Hang Xue, Yanzheng Wang, Chaoyang Zhang, Xin Yang, and <b>Shizhe Hu*</b>: <i><u> Parameter-free Deep Multi-modal Clustering with Reliable Contrastive Learning </u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>)</font>, 34: 2628-2640, Apr. 2025. <a href = "https://ieeexplore.ieee.org/document/10975134">[PDF]</a> <a href = "https://github.com/ShizheHu/TIP25_Code_PDMC-RCL">[Code]</a> (CCF Rank A) </li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> <b>Shizhe Hu</b>, Chengkun Zhang, Guoliang Zou, Zhengzheng Lou, and Yangdong Ye*: <i><u> Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, 36(2): 3646-3658, Feb. 2025. <a href = "https://ieeexplore.ieee.org/document/10416814">[PDF]</a> <a href = "https://github.com/ShizheHu/Deep-Multi-view-Clustering-PGCL-DCL">[Code]</a> (CCF Rank B) </li></p> 
 
