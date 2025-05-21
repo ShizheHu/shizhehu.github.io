@@ -95,6 +95,15 @@
 ## 在读硕士研究生
 
 <ul>
+
+<p style="margin-top: 8px;"><li><b>Yuhang Jing (荆宇航)</b>, 2025~2028. </li></p>
+
+<p style="margin-top: 8px;"><li><b>Jingyi Zhao (赵靖一)</b>, 2025~2028. </li></p>
+
+<p style="margin-top: 8px;"><li><b>Qi Hu (胡琦)</b>, 2025~2028. </li></p>
+
+<p style="margin-top: 8px;"><li><b>Kewei Li (李科葳)</b>, 2025~2028. </li></p>
+
 <p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, 2024~2027. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, 2024~2027. </li></p>
