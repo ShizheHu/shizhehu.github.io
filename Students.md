@@ -102,6 +102,12 @@
 
 <p style="margin-top: 8px;"><li><b>Qi Hu (胡琦)</b>, 2025~2028. </li></p>
 
+<p style="margin-top: 8px;"><li><b>Yongkai Tian (田永凯)</b>, 2025~2028. </li></p>
+
+<p style="margin-top: 8px;"><li><b>Jintu Li (李锦途)</b>, 2025~2028. </li></p>
+
+<p style="margin-top: 8px;"><li><b>Qinjie Shi (史勤杰)</b>, 2025~2028. </li></p>
+
 <p style="margin-top: 8px;"><li><b>Kewei Li (李科葳)</b>, 2025~2028. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, 2024~2027. </li></p>
