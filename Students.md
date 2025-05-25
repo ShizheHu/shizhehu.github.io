@@ -162,9 +162,9 @@
   
 <p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>：Publish papers on <b>IEEE TIP'25、ICML'25、IJCAI'24 (CCF Rank A)</b>、<b>IPM (CCF Rank B)</b>; 毕业去向：东北大学攻读博士学位; 邮箱: xuehang2000@qq.com. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>IPM (CCF Rank B)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU5OTA4GggxNDFkd3R5cw%3D%3D">[硕士学位论文]</a>; 毕业去向：郑州大学攻读博士学位; 邮箱：.</li></p>
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>IPM (CCF Rank B)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU5OTA4GggxNDFkd3R5cw%3D%3D">[硕士学位论文]</a>; 毕业去向：郑州大学攻读博士学位; 邮箱：jimmyopop8@gmail.com.</li></p>
   
-<p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>ACM MM'22 (CCF Rank A)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU3NDYxGghmbmhvYjdhaA%3D%3D">[硕士学位论文]</a>; 毕业去向：中电科二七研究所; 邮箱：.</li></p> 
+<p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>ACM MM'22 (CCF Rank A)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU3NDYxGghmbmhvYjdhaA%3D%3D">[硕士学位论文]</a>; 毕业去向：中电科二七研究所; 邮箱：gengrl@ccnew.com.</li></p> 
 
 </ul>
 
