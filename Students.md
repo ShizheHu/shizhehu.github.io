@@ -110,7 +110,7 @@
 
 <p style="margin-top: 8px;"><li><b>Kewei Li (李科葳)</b>, 2025~2028. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Mengke Zhang (张梦珂)</b>, 2024~2027, Co-supervision with Prof. Kai Nie.</li></p>
+<p style="margin-top: 8px;"><li><b>Mengke Zhang (张梦珂)</b>, 2025~2028, Co-supervision with Prof. Kai Nie.</li></p>
 
 <p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, 2024~2027. </li></p>
 
