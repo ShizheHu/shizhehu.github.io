@@ -88,7 +88,7 @@
 ## 在读博士研究生
 <ul>
  
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25 (CCF Rank A)、IEEE TNNLS、Information Sciences'25 (CCF Rank B)</b>. </li></p>
 
 </ul>
 
@@ -138,7 +138,7 @@
 
 <p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, 2023~2026, Co-supervision with Prof. Xiaoheng Jiang.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>, Publish paper on <b>ACMMM'24 (CCF Rank A)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>, Publish paper on <b>ACMMM'24 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
   
 <p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A)</b>.</li></p>
 
@@ -166,7 +166,7 @@
 
 <p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on  <b>ACM MM'22 (CCF Rank A)、IPM (CCF Rank B)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU5OTA4GggxNDFkd3R5cw%3D%3D">[硕士学位论文]</a>; 毕业去向：郑州大学攻读博士学位; 邮箱：jimmyopop8@gmail.com.</li></p>
   
-<p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>ACM MM'22 (CCF Rank A)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU3NDYxGghmbmhvYjdhaA%3D%3D">[硕士学位论文]</a>; 毕业去向：中原证券; 邮箱：gengrl@ccnew.com.</li></p> 
+<p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>ACM MM'22 (CCF Rank A)、IPM (CCF Rank B)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU3NDYxGghmbmhvYjdhaA%3D%3D">[硕士学位论文]</a>; 毕业去向：中原证券; 邮箱：gengrl@ccnew.com.</li></p> 
 
 </ul>
 
