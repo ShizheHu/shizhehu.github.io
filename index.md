@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">16-May-2025</font>] "<b> Invitation to join the Editorial Board of</b>" <font color="green"> IP&M Journal (CCF-B)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">01-May-2025</font>] "<b>Two papers</b>" are accepted by <font color="green">ICML'25 (CCF-A)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">15-Apr-2025</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TIP (CCF-A)</font>.</li></p>
