@@ -18,6 +18,8 @@
 
 <i> <b>Workshop Chair</b>: 1th International Conference on Computer Vision and Deep Learning (CVDL 2024): Workshop on "New Multi-view Learning Models and its Application" <a href = "http://www.iccvdl.org/workshops/">[link]</a></i>
 
+<p style="margin-top: 8px;"><li><b> Associate Editor Or Editorial Board Member</b>:</li></p>
+<i> Information Processing and Management (IP&M) </i> 
 
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
 <i>ICML'24/25</i> <br>
