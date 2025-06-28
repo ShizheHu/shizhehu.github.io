@@ -3,11 +3,8 @@
 
 <ul>
  
-<p style="margin-top: 8px;"><li><b>Talk</b>: </li></p>  
-
-<i> <b>Invited Speaker</b>: for the 5th Inter. Conf. Pattern Recognition and Artificial Intelligence (PRAI 2022) at Chengdu, China, 19-Aug-2022<a href = "http://www.prai.net/prai2022.html">[link]</a> </i><br>
-
-<i> <b>Spotlight Paper</b>: for 2024 Chinese Congress on Image and Graphics (CCIG 2024) at Xian, China, 24-May-2024<a href = "http://ccig.csig.org.cn/spotlight/">[link]</a> </i>
+<p style="margin-top: 8px;"><li><b> Associate/Guest Editor Or Editorial Board Member</b>:</li></p>
+<i> <b>Editorial Board Member</b>: Information Processing and Management (IP&M), 2025.07-Now <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a> </i> 
 
 
 <p style="margin-top: 8px;"><li><b>Chair</b>: </li></p>  
@@ -18,8 +15,7 @@
 
 <i> <b>Workshop Chair</b>: 1th International Conference on Computer Vision and Deep Learning (CVDL 2024): Workshop on "New Multi-view Learning Models and its Application" <a href = "http://www.iccvdl.org/workshops/">[link]</a></i>
 
-<p style="margin-top: 8px;"><li><b> Associate Editor Or Editorial Board Member</b>:</li></p>
-<i> Information Processing and Management (IP&M), 2025.07-Now <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a> </i> 
+
 
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
 <i>ICML'24/25</i> <br>
@@ -56,6 +52,13 @@
 <i> Scientific Reports </i> <br>
 <i> Cognitive Computation </i> <br>
 <i> Symmetry </i>
+
+
+<p style="margin-top: 8px;"><li><b>Talk</b>: </li></p>  
+
+<i> <b>Invited Speaker</b>: for the 5th Inter. Conf. Pattern Recognition and Artificial Intelligence (PRAI 2022) at Chengdu, China, 19-Aug-2022<a href = "http://www.prai.net/prai2022.html">[link]</a> </i><br>
+
+<i> <b>Spotlight Paper</b>: for 2024 Chinese Congress on Image and Graphics (CCIG 2024) at Xian, China, 24-May-2024<a href = "http://ccig.csig.org.cn/spotlight/">[link]</a> </i>
 
 
 <p style="margin-top: 8px;"><li><b>Member</b>:</li></p>
