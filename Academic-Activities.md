@@ -3,7 +3,7 @@
 
 <ul>
  
-<p style="margin-top: 8px;"><li><b> Associate/Guest Editor Or Editorial Board Member</b>:</li></p>
+<p style="margin-top: 8px;"><li><b> Associate Editor/Guest Editor/Editorial Board Member</b>:</li></p>
 <i> <b>Editorial Board Member</b>: Information Processing and Management (IP&M), 2025.07-Now <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a> </i> 
 
 
