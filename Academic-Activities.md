@@ -7,7 +7,7 @@
 <i> <b>Editorial Board</b>: Information Processing and Management (IP&M), 2025.07-Now <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a> </i> 
 
 
-<p style="margin-top: 8px;"><li><b>Chair</b>: </li></p>  
+<p style="margin-top: 8px;"><li><b>Conference Chair</b>: </li></p>  
 
 <i> <b>Session Chair</b>: 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024): Session ML " Multi-view Learning" <a href = "https://ijcai24.org/">[link]</a></i> <br>
 
