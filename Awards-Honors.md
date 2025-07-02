@@ -2,7 +2,7 @@
 
 <ul>
 
-<p style="margin-top: 8px;"><li>Outstanding Communist Party Member (优秀共产党员), 中国共产党郑州大学委员会, 2025.06.30. </li></p> 
+<p style="margin-top: 8px;"><li>Exemplary Communist Party member (优秀共产党员), 中国共产党郑州大学委员会, 2025.06.30. </li></p> 
 
 <p style="margin-top: 8px;"><li>First Prize of Outstanding Scientific and Technological Paper of Henan Province for paper "View-wise Versus Cluster-wise Weight: Which Is Better for Multi-view Clustering?" (河南省教育厅科技成果奖优秀科技论文奖一等奖，排名1/3，豫教〔2024〕08027), Henan Province, 2024.07.02. <a href = "https://jyt.henan.gov.cn/2024/07-02/3016224.html">[Link]</a>.</li></p>
 
