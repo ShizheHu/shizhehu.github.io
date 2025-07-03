@@ -4,8 +4,8 @@
 <ul>
  
 <p style="margin-top: 8px;"><li><b> Associate Editor/Guest Editor/Editorial Board</b>:</li></p>
-<i> <b>Editorial Board</b>: Information Processing and Management (IP&M), 2025.07-Now <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a> </i> 
 
+<i> <b>Editorial Board</b>: Information Processing and Management (IP&M), 2025.07-Now <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a> </i> 
 
 <p style="margin-top: 8px;"><li><b>Conference Chair</b>: </li></p>  
 
