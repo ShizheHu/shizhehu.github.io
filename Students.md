@@ -86,10 +86,10 @@
 </ul>
 
 ## 在读博士研究生
-【论文均为[学生(共同)一作]或[(副)导师一作、学生二作]】
+【论文均为[学生(共同)一作/通讯]或[(副)导师一作、学生二作]】
 <ul>
  
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25(CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
 
 </ul>
 
