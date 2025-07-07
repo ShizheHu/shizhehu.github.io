@@ -86,13 +86,15 @@
 </ul>
 
 ## 在读博士研究生
+#(论文均为[学生一作]或[(副)导师一作、学生二作])
 <ul>
  
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25 (CCF Rank A)、IEEE TNNLS'25、Information Sciences'25 (CCF Rank B)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
 
 </ul>
 
 ## 在读硕士研究生
+#(论文均为[学生一作]或[(副)导师一作、学生二作])
 
 <ul>
 
@@ -134,29 +136,31 @@
 
 <p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, 2023~2026, Publish paper on <b>AAAI'25 (CCF Rank A)</b>. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, 2023~2026, Co-supervision with Prof. Xin Yang：Publish paper on <b>IEEE TIP'25 (CCF Rank A)</b>.</li></p>
+<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, 2023~2026, Co-supervision with Prof. Xin Yang.</li></p>
 
 <p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, 2023~2026, Co-supervision with Prof. Xiaoheng Jiang.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>, Publish paper on <b>ACMMM'24 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. </li></p>
   
 <p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A)</b>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A)</b>.</li></p>
+<p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
 </ul>
 
 
 ## 在读本科生
+#(论文均为[学生一作]或[(副)导师一作、学生二作])
 
 <ul>
 
-<p style="margin-top: 8px;"><li><b>Weibo Liu (刘伟博)</b>, 2022~2026：指导以刘伟博为负责人的2024年郑州大学大学生创新创业训练计划项目获得一般项目支持, Publish paper on <b>AAAI'25 (CCF Rank A)</b>.</li></p>
+<p style="margin-top: 8px;"><li><b>Weibo Liu (刘伟博)</b>, 2022~2026：指导以刘伟博为负责人的2024年郑州大学大学生创新创业训练计划项目获得一般项目支持.</li></p>
 
 </ul>
 
 
-## 已毕业硕士研究生(所发论文均为[学生一作]或[(副)导师一作、学生二作])
+## 已毕业硕士研究生
+#(论文均为[学生一作]或[(副)导师一作、学生二作])
 
 <ul>
 
