@@ -89,7 +89,7 @@
 【论文均为[学生(共同)一作/通讯]或[(副)导师一作、学生二作]】
 <ul>
  
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25(CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
 
 </ul>
 
@@ -167,7 +167,7 @@
 
 <p style="margin-top: 8px;"><li><b>Chengkun Zhang (张丞坤)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>IEEE TNNLS'25 (CCF Rank B)</b>; 毕业去向：数字马力公司; 邮箱：1239132802@qq.com.</li></p>
   
-<p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>：Publish papers on <b>IEEE TIP'25、ICML'25 (CCF Rank A)</b>; 毕业去向：东北大学攻读博士学位; 邮箱: xuehang2000@qq.com. </li></p>
+<p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>：Publish papers on <b>IEEE TIP'25、ICML'25 (CCF Rank A)</b>; 毕业去向：武汉大学攻读博士学位; 邮箱: xuehang2000@qq.com. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on  <b>IPM'23 (CCF Rank B)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU5OTA4GggxNDFkd3R5cw%3D%3D">[硕士学位论文]</a>; 毕业去向：郑州大学攻读博士学位; 邮箱：jimmyopop8@gmail.com.</li></p>
   
