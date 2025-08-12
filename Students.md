@@ -2,7 +2,7 @@
 
 ## 招生要求
 
-<ul>
+<ol>
 <p style="margin-top: 8px;"><li>具有自律、独处能力，科研是一项多努力才能多产出的活动，耐得住寂寞，方能守得住繁华。</li></p>
   
 <p style="margin-top: 8px;"><li>具有明确的读研导向，即为什么读研，而不是仅为了拿一张硕士毕业证。</li></p>
@@ -15,11 +15,11 @@
 
 <p style="margin-top: 8px;"><li>有前期科研经历者加分（学术竞赛、论文发表、课外学术活动等）。</li></p>
 
-</ul>
+</ol>
 
 ## 培养目标/要求
 
-<ul>
+<ol>
 
 <p style="margin-top: 8px;"><li>科研不容瑕疵。不允许任何形式的学术造假、剽窃等学术不端等行为。</li></p>
 
@@ -36,12 +36,12 @@
 <p style="margin-top: 8px;"><li>作为导师，我是研究生的第一负责人，任何非常规行为，请及时告知于我。</li></p>
 
 
-</ul>
+</ol>
 
 
 ## 培养方式
 
-<ul>
+<ol>
   
 <p style="margin-top: 8px;"><li> 前提：坚持师生平等关系，尊重学生各项权利。</li></p>
   
@@ -61,44 +61,44 @@
   
 <p style="margin-top: 8px;"><li>对有意出国的同学，建议尽早进入实验室学习。良好的科研基础训练是出国留学的敲门砖。</li></p>
 
-</ul>
+</ol>
 
 ## 学术研究的基本流程
 
-<ul>
+<ol>
   
-<p style="margin-top: 8px;"><li>1、具备基础能力：编程代码能力、领域基础知识、中英文读写能力等。</li></p>
+<p style="margin-top: 8px;"><li>具备基础能力：编程代码能力、领域基础知识、中英文读写能力等。</li></p>
   
-<p style="margin-top: 8px;"><li>2、确定研究方向：根据个人兴趣、科学问题的重要性、团队已有基础等，和我讨论确定具体的研究方向。</li></p>
+<p style="margin-top: 8px;"><li>确定研究方向：根据个人兴趣、科学问题的重要性、团队已有基础等，和我讨论确定具体的研究方向。</li></p>
 
-<p style="margin-top: 8px;"><li>3、大量阅读论文：阅读这个方向的重要论文与资料，如经典论文、近年论文、综述论文、博客、知乎专栏等。</li></p>
+<p style="margin-top: 8px;"><li>大量阅读论文：阅读这个方向的重要论文与资料，如经典论文、近年论文、综述论文、博客、知乎专栏等。</li></p>
 
-<p style="margin-top: 8px;"><li>4、复现一些重要论文的结果：能正确的复现出重要论文的结果，后面才能判断实验结果不好，是coding能力不行，还是idea不行。</li></p>
+<p style="margin-top: 8px;"><li>复现一些重要论文的结果：能正确的复现出重要论文的结果，后面才能判断实验结果不好，是coding能力不行，还是idea不行。</li></p>
 
-<p style="margin-top: 8px;"><li>5、形成初步idea：通过阅读论文以及和导师、同门讨论，确定初步的idea。</li></p>
+<p style="margin-top: 8px;"><li>形成初步idea：通过阅读论文以及和导师、同门讨论，确定初步的idea。</li></p>
 
-<p style="margin-top: 8px;"><li>6、验证并改进idea：根据验证结果以及相关论文阅读更新、迭代idea。</li></p>
+<p style="margin-top: 8px;"><li>验证并改进idea：根据验证结果以及相关论文阅读更新、迭代idea。</li></p>
 
-<p style="margin-top: 8px;"><li>7、不断迭代完善：反复执行5-6的流程。</li></p>
+<p style="margin-top: 8px;"><li>不断迭代完善：反复执行5-6的流程。</li></p>
 
-<p style="margin-top: 8px;"><li>8、撰写论文：直到idea有效，开始撰写并持续完善论文。</li></p>
+<p style="margin-top: 8px;"><li>撰写论文：直到idea有效，开始撰写并持续完善论文。</li></p>
 
-</ul>
+</ol>
 
 ## 在读博士研究生
 【论文均为[学生(共同)一作/通讯]或[(副)导师一作、学生二作]】
-<ul>
+<ol>
  
 <p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
 
-</ul>
+</ol>
 
 ## 在读硕士研究生
 【论文均为[学生(共同)一作]或[(副)导师一作、学生二作]】
 
 ### 2025~2028
 
-<ul>
+<ol>
 
 <p style="margin-top: 8px;"><li><b>Yuhang Jing (荆宇航)</b>, 2025~2028. </li></p>
 
@@ -116,12 +116,12 @@
 
 <p style="margin-top: 8px;"><li><b>Mengke Zhang (张梦珂)</b>, 2025~2028, Co-supervision with Prof. Kai Nie.</li></p>
 
-</ul>
+</ol>
 
 
 ### 2024~2027
 
-<ul>
+<ol>
   
 <p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, 2024~2027. </li></p>
 
@@ -141,11 +141,11 @@
 
 <p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, 2024~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
 
-</ul>
+</ol>
 
 ### 2023~2026
 
-<ul>
+<ol>
 
 <p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, 2023~2026, Publish paper on <b>AAAI'25 (CCF Rank A)</b>.</li></p>
 
@@ -161,7 +161,7 @@
 
 <p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
-</ul>
+</ol>
 
 
 ## 在读本科生
@@ -178,7 +178,7 @@
 
 【论文均为[学生(共同)一作]或[(副)导师一作、学生二作]】
 
-<ul>
+<ol>
 
 <p style="margin-top: 8px;"><li><b>Chengkun Zhang (张丞坤)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>IEEE TNNLS'25 (CCF Rank B)</b>; 毕业去向：数字马力公司; 邮箱：1239132802@qq.com.</li></p>
   
@@ -188,7 +188,7 @@
   
 <p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>ACM MM'22 (CCF Rank A)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU3NDYxGghmbmhvYjdhaA%3D%3D">[硕士学位论文]</a>; 毕业去向：中原证券; 邮箱：gengrl@ccnew.com.</li></p> 
 
-</ul>
+</ol>
 
 
 
