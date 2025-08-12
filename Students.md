@@ -190,6 +190,3 @@
 <p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>ACM MM'22 (CCF Rank A)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU3NDYxGghmbmhvYjdhaA%3D%3D">[硕士学位论文]</a>; 毕业去向：中原证券; 邮箱：gengrl@ccnew.com.</li></p> 
 
 </ol>
-
-
-
