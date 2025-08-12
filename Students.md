@@ -3,6 +3,7 @@
 ## 招生要求
 
 <ol>
+
 <p style="margin-top: 8px;"><li>具有自律、独处能力，科研是一项多努力才能多产出的活动，耐得住寂寞，方能守得住繁华。</li></p>
   
 <p style="margin-top: 8px;"><li>具有明确的读研导向，即为什么读研，而不是仅为了拿一张硕士毕业证。</li></p>
@@ -34,7 +35,6 @@
 <p style="margin-top: 8px;"><li>尽管我会全力培养和指导，但也有一点：达到毕业要求以取得学位是作为硕博生自己的任务。所以希望我们一起全力以赴，努力科研，有问题及时和我沟通交流。</li></p>
 
 <p style="margin-top: 8px;"><li>作为导师，我是研究生的第一负责人，任何非常规行为，请及时告知于我。</li></p>
-
 
 </ol>
 
@@ -87,6 +87,7 @@
 
 ## 在读博士研究生
 【论文均为[学生(共同)一作/通讯]或[(副)导师一作、学生二作]】
+
 <ol>
  
 <p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
