@@ -92,7 +92,7 @@
 
 <ol>
  
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>. [Research]: Information Bottleneck/Contrastive Learning/Continual Learning/Deep Multi-modal Clustering. [Co-supervision with]: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. [Publish]: <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>. <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck/Contrastive Learning/Continual Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-supervision with]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
 
 </ol>
 
