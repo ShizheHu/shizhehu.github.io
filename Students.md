@@ -103,21 +103,21 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Yuhang Jing (荆宇航)</b>, 2025~2028. </li></p>
+<p style="margin-top: 8px;"><li><b>Yuhang Jing (荆宇航)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
 
-<p style="margin-top: 8px;"><li><b>Jingyi Zhao (赵靖一)</b>, 2025~2028. </li></p>
+<p style="margin-top: 8px;"><li><b>Jingyi Zhao (赵靖一)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
 
-<p style="margin-top: 8px;"><li><b>Qi Hu (胡琦)</b>, 2025~2028. </li></p>
+<p style="margin-top: 8px;"><li><b>Qi Hu (胡琦)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>:. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yongkai Tian (田永凯)</b>, 2025~2028. </li></p>
+<p style="margin-top: 8px;"><li><b>Yongkai Tian (田永凯)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
 
-<p style="margin-top: 8px;"><li><b>Jintu Li (李锦途)</b>, 2025~2028. </li></p>
+<p style="margin-top: 8px;"><li><b>Jintu Li (李锦途)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>:. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Qinjie Shi (史勤杰)</b>, 2025~2028. </li></p>
+<p style="margin-top: 8px;"><li><b>Qinjie Shi (史勤杰)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
 
-<p style="margin-top: 8px;"><li><b>Kewei Li (李科葳)</b>, 2025~2028. </li></p>
+<p style="margin-top: 8px;"><li><b>Kewei Li (李科葳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
 
-<p style="margin-top: 8px;"><li><b>Mengke Zhang (张梦珂)</b>, <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Kai Nie.</li></p>
+<p style="margin-top: 8px;"><li><b>Mengke Zhang (张梦珂)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Kai Nie.</li></p>
 
 </ol>
 
