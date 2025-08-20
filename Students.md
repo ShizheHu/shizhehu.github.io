@@ -88,16 +88,18 @@
 ## 在读博士研究生
 【论文均为[学生(共同)一作/通讯]或[(副)导师一作、学生二作]】
 
+### 2023.09~2027.07
+
 <ol>
  
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2023~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, Research: Information Bottleneck/Contrastive Learning/Deep Multi-Modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish papers on <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
 
 </ol>
 
 ## 在读硕士研究生
 【论文均为[学生(共同)一作]或[(副)导师一作、学生二作]】
 
-### 2025~2028
+### 2025.09~2028.07
 
 <ol>
 
@@ -120,47 +122,47 @@
 </ol>
 
 
-### 2024~2027
+### 2024.09~2027.07
 
 <ol>
   
-<p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, 2024~2027. </li></p>
+<p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, Research: Trusted Learning/Information Bottleneck/Multi-modal Clustering. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, 2024~2027. </li></p>
+<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, Research: Contrastive Learning/Deep Multi-Modal Clustering. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Shuaiju Li (李帅举)</b>, 2024~2027. </li></p>
+<p style="margin-top: 8px;"><li><b>Shuaiju Li (李帅举)</b>, Research: Trusted Learning/Information Bottleneck/Multi-modal Clustering. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, 2024~2027, Co-supervision with Prof. Xin Yang.</li></p>
+<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, Research: Contrastive Learning/Deep Multi-Modal Clustering, Co-supervision with Prof. Xin Yang.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Chiyao Ma (马驰尧)</b>, 2024~2027, Co-supervision with Prof. Kai Nie.</li></p>
+<p style="margin-top: 8px;"><li><b>Chiyao Ma (马驰尧)</b>, Research: Federated Learning/Deep Multi-Modal Clustering, Co-supervision with Prof. Kai Nie.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, 2024~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, Research: Information Bottleneck/Deep Multi-Modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, 2024~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, Research: Information Bottleneck/Multi-Modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Wenlong Chen (陈文龙)</b>, 2024~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Wenlong Chen (陈文龙)</b>, Research: Federated Learning/Deep Multi-Modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, 2024~2027, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, Research: Information Bottleneck/Deep Multi-Modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
 
 </ol>
 
-### 2023~2026
+### 2023.09~2026.07
 
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, 2023~2026, Publish paper on <b>AAAI'25 (CCF Rank A)</b>.</li></p>
+<p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, Research: Trusted Learning/Contrastive Multi-view Clustering, Publish paper on <b>AAAI'25 (CCF Rank A)</b>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, 2023~2026, Publish paper on <b>AAAI'25 (CCF Rank A)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, Research: Information Bottleneck/Deep Multi-Modal Clustering, Publish paper on <b>AAAI'25 (CCF Rank A)</b>. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, 2023~2026, Co-supervision with Prof. Xin Yang.</li></p>
+<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, Research: Deep Multi-Modal Clustering, Co-supervision with Prof. Xin Yang.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, 2023~2026, Co-supervision with Prof. Xiaoheng Jiang.</li></p>
+<p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, Research: Trusted Multi-Modal Classification, Co-supervision with Prof. Xiaoheng Jiang.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. </li></p>
+<p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, Research: Contrastive Learning/Deep Multi-Modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. </li></p>
   
-<p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A)</b>.</li></p>
+<p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, Research: Contrastive Learning/Information Bottleneck/Multi-modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A)</b>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, 2023~2026, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, Research: Information Bottleneck Theory/Multi-view Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
 </ol>
 
@@ -179,14 +181,22 @@
 
 【论文均为[学生(共同)一作]或[(副)导师一作、学生二作]】
 
+### 2022.09~2025.07
+
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Chengkun Zhang (张丞坤)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>IEEE TNNLS'25 (CCF Rank B)</b>; 毕业去向：数字马力公司; 邮箱：1239132802@qq.com.</li></p>
+<p style="margin-top: 8px;"><li><b>Chengkun Zhang (张丞坤)</b>, Research: Deep Multi-view Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>IEEE TNNLS'25 (CCF Rank B)</b>; 毕业去向：数字马力公司; 邮箱：1239132802@qq.com.</li></p>
   
-<p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, 2022~2025, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>：Publish papers on <b>IEEE TIP'25、ICML'25 (CCF Rank A)</b>; 毕业去向：武汉大学攻读博士学位; 邮箱: xuehang2000@qq.com. </li></p>
+<p style="margin-top: 8px;"><li><b>Hang Xue (薛航)</b>, Research: Information Bottleneck Theory/Deep Multi-modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>：Publish papers on <b>IEEE TIP'25、ICML'25 (CCF Rank A)</b>; 毕业去向：武汉大学攻读博士学位; 邮箱: xuehang2000@qq.com. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on  <b>IPM'23 (CCF Rank B)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU5OTA4GggxNDFkd3R5cw%3D%3D">[硕士学位论文]</a>; 毕业去向：郑州大学攻读博士学位; 邮箱：jimmyopop8@gmail.com.</li></p>
+</ol>
+
+### 2020.09~2023.07
   
-<p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, 2020~2023, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>ACM MM'22 (CCF Rank A)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU3NDYxGghmbmhvYjdhaA%3D%3D">[硕士学位论文]</a>; 毕业去向：中原证券; 邮箱：gengrl@ccnew.com.</li></p> 
+<ol>
+  
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>, Research: Deep Multi-view Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on  <b>IPM'23 (CCF Rank B)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU5OTA4GggxNDFkd3R5cw%3D%3D">[硕士学位论文]</a>; 毕业去向：郑州大学攻读博士学位; 邮箱：jimmyopop8@gmail.com.</li></p>
+  
+<p style="margin-top: 8px;"><li><b>Ruilin Geng (耿瑞林)</b>, Research: Multi-view Information Bottleneck Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>: Publish paper on <b>ACM MM'22 (CCF Rank A)</b> <a href = "https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCFk0MTU3NDYxGghmbmhvYjdhaA%3D%3D">[硕士学位论文]</a>; 毕业去向：中原证券; 邮箱：gengrl@ccnew.com.</li></p> 
 
 </ol>
