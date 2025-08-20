@@ -128,21 +128,21 @@
   
 <p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, Research: Trusted Learning/Information Bottleneck/Multi-modal Clustering. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, Research: Contrastive Learning/Deep Multi-Modal Clustering. </li></p>
+<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, Research: Contrastive Learning/Deep Multi-modal Clustering. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Shuaiju Li (李帅举)</b>, Research: Trusted Learning/Information Bottleneck/Multi-modal Clustering. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, Research: Contrastive Learning/Deep Multi-Modal Clustering, Co-supervision with Prof. Xin Yang.</li></p>
+<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, Research: Contrastive Learning/Deep Multi-modal Clustering, Co-supervision with Prof. Xin Yang.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Chiyao Ma (马驰尧)</b>, Research: Federated Learning/Deep Multi-Modal Clustering, Co-supervision with Prof. Kai Nie.</li></p>
+<p style="margin-top: 8px;"><li><b>Chiyao Ma (马驰尧)</b>, Research: Federated Learning/Deep Multi-modal Clustering, Co-supervision with Prof. Kai Nie.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, Research: Information Bottleneck/Deep Multi-Modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, Research: Information Bottleneck/Deep Multi-modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, Research: Information Bottleneck/Multi-Modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, Research: Information Bottleneck/Multi-modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Wenlong Chen (陈文龙)</b>, Research: Federated Learning/Deep Multi-Modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Wenlong Chen (陈文龙)</b>, Research: Federated Learning/Deep Multi-modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, Research: Information Bottleneck/Deep Multi-Modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, Research: Information Bottleneck/Deep Multi-modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
 
 </ol>
 
@@ -152,13 +152,13 @@
 
 <p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, Research: Trusted Learning/Contrastive Multi-view Clustering, Publish paper on <b>AAAI'25 (CCF Rank A)</b>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, Research: Information Bottleneck/Deep Multi-Modal Clustering, Publish paper on <b>AAAI'25 (CCF Rank A)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, Research: Information Bottleneck/Deep Multi-modal Clustering, Publish paper on <b>AAAI'25 (CCF Rank A)</b>. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, Research: Deep Multi-Modal Clustering, Co-supervision with Prof. Xin Yang.</li></p>
+<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, Research: Deep Multi-modal Clustering, Co-supervision with Prof. Xin Yang.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, Research: Trusted Multi-Modal Classification, Co-supervision with Prof. Xiaoheng Jiang.</li></p>
+<p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, Research: Trusted Multi-modal Classification, Co-supervision with Prof. Xiaoheng Jiang.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, Research: Contrastive Learning/Deep Multi-Modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. </li></p>
+<p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, Research: Contrastive Learning/Deep Multi-modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. </li></p>
   
 <p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, Research: Contrastive Learning/Information Bottleneck/Multi-modal Clustering, Co-supervision with <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>, Publish paper on <b>ICML'25 (CCF Rank A)</b>.</li></p>
 
