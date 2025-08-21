@@ -92,7 +92,7 @@
 
 <ol>
  
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>. <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck/Contrastive Learning/Continual Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>. <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck/Continual Learning/Deep Multi-modal Fusion and Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ACM MM'24、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
 
 </ol>
 
@@ -126,13 +126,13 @@
 
 <ol>
   
-<p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Learning/Information Bottleneck/Multi-modal Clustering. </li></p>
+<p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck/Trusted Multi-modal Learning. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Contrastive Learning/Deep Multi-modal Clustering. </li></p>
+<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Shuaiju Li (李帅举)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Learning/Information Bottleneck/Multi-modal Clustering. </li></p>
+<p style="margin-top: 8px;"><li><b>Shuaiju Li (李帅举)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck/Trusted Multi-modal Learning. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Contrastive Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang.</li></p>
+<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang.</li></p>
 
 <p style="margin-top: 8px;"><li><b>Chiyao Ma (马驰尧)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Federated Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Kai Nie.</li></p>
 
@@ -150,17 +150,17 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Learning/Contrastive Multi-view Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'25 (CCF Rank A)</b>.</li></p>
+<p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-view Learning. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'25 (CCF Rank A)</b>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'25 (CCF Rank A)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck/Self-supervised Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'25 (CCF Rank A)</b>. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang.</li></p>
 
 <p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Classification. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xiaoheng Jiang.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Contrastive Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. </li></p>
+<p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. </li></p>
   
-<p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Contrastive Learning/Information Bottleneck/Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ICML'25 (CCF Rank A)</b>.</li></p>
+<p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ICML'25 (CCF Rank A)</b>.</li></p>
 
 <p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-view Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
