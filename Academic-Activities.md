@@ -7,16 +7,6 @@
 
 <i> <b>Editorial Board</b>: Information Processing and Management (IP&M), 2025.07-Now <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a> </i> 
 
-<p style="margin-top: 8px;"><li><b>Conference Chair</b>: </li></p>  
-
-<i> <b>Session Chair</b>: 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024): Session ML " Multi-view Learning" <a href = "https://ijcai24.org/">[link]</a></i> <br>
-
-<i> <b>Session Chair</b>: 23rd IEEE International Conference on Data Mining (ICDM 2023): Session A3-III "Federated Learning and Ensembles & Security and Privacy" <a href = "https://www.cloud-conf.net/icdm2023/registration.html">[link]</a></i> <br>
-
-<i> <b>Workshop Chair</b>: 1th International Conference on Computer Vision and Deep Learning (CVDL 2024): Workshop on "New Multi-view Learning Models and its Application" <a href = "http://www.iccvdl.org/workshops/">[link]</a></i>
-
-
-
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
 <i>ICML'24/25</i> <br>
 <i>NeurIPS'24</i> <br>
@@ -52,6 +42,15 @@
 <i> Scientific Reports </i> <br>
 <i> Cognitive Computation </i> <br>
 <i> Symmetry </i>
+
+
+<p style="margin-top: 8px;"><li><b>Conference Chair</b>: </li></p>  
+
+<i> <b>Session Chair</b>: 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024): Session ML " Multi-view Learning" <a href = "https://ijcai24.org/">[link]</a></i> <br>
+
+<i> <b>Session Chair</b>: 23rd IEEE International Conference on Data Mining (ICDM 2023): Session A3-III "Federated Learning and Ensembles & Security and Privacy" <a href = "https://www.cloud-conf.net/icdm2023/registration.html">[link]</a></i> <br>
+
+<i> <b>Workshop Chair</b>: 1th International Conference on Computer Vision and Deep Learning (CVDL 2024): Workshop on "New Multi-view Learning Models and its Application" <a href = "http://www.iccvdl.org/workshops/">[link]</a></i>
 
 
 <p style="margin-top: 8px;"><li><b>Talk</b>: </li></p>  
