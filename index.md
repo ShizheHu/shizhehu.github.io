@@ -8,7 +8,7 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>Master students</b>".
 
-<p style="margin-top: 6px;"><li>[<font color="red">26-Jun-2025</font>] "<b> Invitation to serve as the Guest Editor </b>" of <font color="green"> Entropy Journal (JCR Rank Q2, CAS Rank Q3) </font>.</li></p> 
+<!-- <p style="margin-top: 6px;"><li>[<font color="red">26-Jun-2025</font>] "<b> Invitation to serve as the Guest Editor </b>" of <font color="green"> Entropy Journal (JCR Rank Q2, CAS Rank Q3) </font>.</li></p> -->
 
 <p style="margin-top: 6px;"><li>[<font color="red">16-May-2025</font>] "<b> Invitation to join the Editorial Board</b>" of <font color="green"> IP&M Journal (CCF-B, CAS Rank Q1) <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a></font>.</li></p> 
 
