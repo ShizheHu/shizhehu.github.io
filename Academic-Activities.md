@@ -7,6 +7,10 @@
 
 <i> <b>Editorial Board</b>: Information Processing and Management (IP&M), 2025.07-Now <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a> </i> 
 
+
+<p style="margin-top: 8px;"><li><b>Area Chair/Senior Program Committee for Conferences</b>:</li></p>
+<i> <b>Area Chair</b>: ICLR'26 </i> 
+
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
 <i>ICML'24/25</i> <br>
 <i>NeurIPS'24</i> <br>
