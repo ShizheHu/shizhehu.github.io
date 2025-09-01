@@ -24,6 +24,13 @@
 
 </ol>
 
+## DeepSeek技术与应用
+
+<ol>
+<p style="margin-top: 8px;"><li> <b>DeepSeek技术与应用</b>, 人工智能专业本科生选修课, 2个学分, 共计36学时，5-16周，2024-2025年第二学期.</li></p>
+
+</ol>
+
 
 
 # Fundings
