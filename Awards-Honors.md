@@ -2,6 +2,8 @@
 
 <ul>
 
+<p style="margin-top: 8px;"><li>First Prize of Outstanding Scientific and Technological Paper of Henan Province for paper "Joint Contrastive Triple-learning for Deep Multi-view Clustering" (河南省教育厅科技成果奖优秀科技论文奖一等奖，排名1/5，豫教〔2025〕09859), Henan Province, 2025.06.16.</li></p>
+
 <p style="margin-top: 8px;"><li>Exemplary Communist Party member (优秀共产党员), 中国共产党郑州大学委员会, 2025.06.30. </li></p> 
 
 <p style="margin-top: 8px;"><li>第十六届蓝桥杯全国软件和信息技术专业人才大赛全国总决赛C/C++程序设计优秀指导教师, 工业与信息化部人才交流中心、蓝桥杯大赛组委会, 2025.06.23. </li></p> 
