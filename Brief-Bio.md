@@ -3,16 +3,7 @@
 
 # Brief Bio
 
-Associate research fellow and master supervisor, School of Computer and Artificial Intelligence, Zhengzhou University (ZZU), Zhengzhou, Henan, China. 
-
-My research interests include:\
-(1) Information Bottleneck Theory,\
-(2) Multi-view/Multi-modal Learning,\
-(3) Trustworthy Analysis,\
-(4) Clustering Analysis,\
-(5) Deep Learning,\
-(6) Unsupervised Representation Learning,\
-(7) Some Other Related Topics.
+Dr. Shizhe Hu is currently a research fellow affiliated with the School of Computer Science and Artificial Intelligence at Zhengzhou University. His primary research interests focus on <b> Information Bottleneck Theory, Multi-view/Multi-modal Learning, Trustworthy Analysis, Clustering Analysis, Unsupervised Representation Learning</b>. He obtained the Ph.D degree of Software Engineering from Zhengzhou University in 2021. He has published more than 20 papers on the TOP journals and conferences, such as IEEE TPAMI, TIP, TKDE, TNNLS, TCYB, Pattern Recognition, ICML, AAAI, IJCAI and ACM MM. In addition, He is the member of Editorial Board of the Journal 《Information Processing and Management》, and the Area Chair of ICLR'26. He served as the reviewer of more than 30 international journals and conferences, including IEEE TPAMI, TNNLS, TIP, ICML, NeurIPS, AAAI, IJCAI, CVPR, ACM MM, etc.
 
 Please drop me a message if you have interests with me by email: <u>ieshizhehu@zzu.edu.cn</u> or <u>ieshizhehu@gmail.com</u>. 
 
