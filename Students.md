@@ -154,7 +154,7 @@
 
 <p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Self-supervised Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'25 (CCF Rank A)</b>. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang.</li></p>
+<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>NeurIPS'25 (CCF Rank A)</b></li></p>
 
 <p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Classification. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xiaoheng Jiang.</li></p>
 
