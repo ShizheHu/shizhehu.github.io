@@ -81,6 +81,7 @@
 
 <p style="margin-top: 8px;"><li><b>Other Services</b>:</li></p>
 <i> 国家自然科学基金委函评专家 </i> <br>
+<i> 中国自动化学会专家库成员 </i> <br>
 <i> 教育部学位中心研究生学位论文评审专家 </i>  <br>
 <i> CNKI评审专家  </i> <br>
 <i> 凡科优秀评审专家  </i> <br>
