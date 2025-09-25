@@ -2,19 +2,19 @@
 
 <ul>
 
-<p style="margin-top: 8px;"><li>First Prize of Outstanding Scientific and Technological Paper of Henan Province for paper "Joint Contrastive Triple-learning for Deep Multi-view Clustering" (河南省教育厅科技成果奖优秀科技论文奖一等奖，排名1/5，豫教〔2025〕09859), Henan Province, 2025.06.16.</li></p>
+<p style="margin-top: 8px;"><li>First Prize of Outstanding Scientific and Technological Paper of Henan Province for paper "Joint Contrastive Triple-learning for Deep Multi-view Clustering" 【河南省教育厅科技成果奖优秀科技论文奖一等奖，排名1/5，豫教〔2025〕09859, 2025.06.16】.</li></p>
 
-<p style="margin-top: 8px;"><li>Exemplary Communist Party member (优秀共产党员), 中国共产党郑州大学委员会, 2025.06.30. </li></p> 
+<p style="margin-top: 8px;"><li>Exemplary Communist Party member 【优秀共产党员, 中国共产党郑州大学委员会, 2025.06.30】. </li></p> 
 
 <p style="margin-top: 8px;"><li>第十六届蓝桥杯全国软件和信息技术专业人才大赛全国总决赛C/C++程序设计优秀指导教师, 工业与信息化部人才交流中心、蓝桥杯大赛组委会, 2025.06.23. </li></p> 
 
-<p style="margin-top: 8px;"><li>First Prize of Outstanding Scientific and Technological Paper of Henan Province for paper "View-wise Versus Cluster-wise Weight: Which Is Better for Multi-view Clustering?" (河南省教育厅科技成果奖优秀科技论文奖一等奖，排名1/3，豫教〔2024〕08027), Henan Province, 2024.07.02. <a href = "https://jyt.henan.gov.cn/2024/07-02/3016224.html">[Link]</a>.</li></p>
+<p style="margin-top: 8px;"><li>First Prize of Outstanding Scientific and Technological Paper of Henan Province for paper "View-wise Versus Cluster-wise Weight: Which Is Better for Multi-view Clustering?" 【河南省教育厅科技成果奖优秀科技论文奖一等奖，排名1/3，豫教〔2024〕08027, 2024.07.02】. <a href = "https://jyt.henan.gov.cn/2024/07-02/3016224.html">[Link]</a>.</li></p>
 
-<p style="margin-top: 8px;"><li>ACM Rising Star Award, ACM Zhengzhou（2023 ACM China 新星奖郑州分会，2023ACMCHINA-XX-C1802）, 2023.07.05. <a href = "https://www.acmturc.com/2024/#/newStarAward">[Link]</a>. </li></p> 
+<p style="margin-top: 8px;"><li>ACM Rising Star Award, ACM Zhengzhou【2023 ACM China 新星奖郑州分会，2023ACMCHINA-XX-C1802, 2023.07.05】. <a href = "https://www.acmturc.com/2024/#/newStarAward">[Link]</a>. </li></p> 
 
-<p style="margin-top: 8px;"><li>ACM Outstanding Ph.D. Dissertation Award, ACM Zhengzhou（2021 ACM China 优秀博士论文奖郑州分会, 2021ACMCHINA-YB-C1602）, 2021. <a href = "https://www.acmturc.com/2023/cn/doctoral_thesis_award.html">[Link]</a>. </li></p> 
+<p style="margin-top: 8px;"><li>ACM Outstanding Ph.D. Dissertation Award, ACM Zhengzhou【2021 ACM China 优秀博士论文奖郑州分会, 2021ACMCHINA-YB-C1602, 2021】. <a href = "https://www.acmturc.com/2023/cn/doctoral_thesis_award.html">[Link]</a>. </li></p> 
   
-<p style="margin-top: 8px;"><li>Second Prize on Natural Science Award of Henan Province for paper "Dynamic Auto-weighted Multi-view Co-clustering" (河南省自然科学优秀学术论文二等奖，排名1/3，河南省人社厅、河南省科协), Henan Province, 2021.12. <a href = "https://hrss.henan.gov.cn/2021/12-20/2368125.html">[Link]</a>.</li></p>
+<p style="margin-top: 8px;"><li>Second Prize on Natural Science Award of Henan Province for paper "Dynamic Auto-weighted Multi-view Co-clustering" 【河南省自然科学优秀学术论文二等奖，排名1/3，河南省人社厅、河南省科协, 2021.12】. <a href = "https://hrss.henan.gov.cn/2021/12-20/2368125.html">[Link]</a>.</li></p>
 
 <p style="margin-top: 8px;"><li>Outstanding Ph.D. Dissertation Award (郑州大学优秀博士学位论文), Zhengzhou University, 2021. <a href = "http://gs.zzu.edu.cn/info/1048/11414.htm">[Link]</a>.</li></p>
   
