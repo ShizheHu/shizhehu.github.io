@@ -8,7 +8,7 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>Master students</b>".
 
-<p style="margin-top: 6px;"><li>[<font color="red">11-Oct-2025</font>] "<b>  Invitation to serve as Guest Editor of an Information Bottleneck related Special Issue in Technologies Journal</b>".</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">11-Oct-2025</font>] "<b>  Invitation to serve as Guest Editor of an Information Bottleneck related Special Issue in Technologies Journal</b>".  <a href = "https://www.mdpi.com/journal/technologies/special_issues/F4TJV60252">[Link]</a> </li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">18-Sep-2025</font>] "<b>One paper</b>" is accepted by <font color="green">NeurIPS'25 (CCF-A)</font>.</li></p>
 
