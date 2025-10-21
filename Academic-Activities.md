@@ -71,6 +71,7 @@
 <i> CCF Member  </i> <br>
 <i> CSIG Member  </i> <br>
 <i> CAA Member  </i> <br>
+<i> CAAI Member (终身会员)  </i> <br>
 <i> BAAI-Qingyuan Club Member  </i> 
 
 
