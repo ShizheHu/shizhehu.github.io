@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">11-Oct-2025</font>] "<b>  Invitation to serve as Guest Editor of an Information Bottleneck related Special Issue in Technologies Journal, </b>".</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">18-Sep-2025</font>] "<b>One paper</b>" is accepted by <font color="green">NeurIPS'25 (CCF-A)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">28-Aug-2025</font>] "<b>  Invitation to serve as Area Chair </b>" of <font color="green"> ICLR 2026 </font>.</li></p>
