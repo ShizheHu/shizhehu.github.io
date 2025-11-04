@@ -150,9 +150,9 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-view Learning. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'25 (CCF Rank A)</b>.</li></p>
+<p style="margin-top: 8px;"><li><b>Binyan Tian (田斌艳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-view Learning. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'25 (CCF Rank A)</b>;  <font face="verdana" color="blue"><b>[荣誉]</b></font>：郑州大学2025年研究生国家奖学金.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Self-supervised Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'25 (CCF Rank A)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Self-supervised Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'25 (CCF Rank A)</b>;  <font face="verdana" color="blue"><b>[荣誉]</b></font>：郑州大学2025年研究生国家奖学金. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>NeurIPS'25 (CCF Rank A)</b></li></p>
 
