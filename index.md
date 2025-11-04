@@ -6,7 +6,9 @@ layout: default
 
 <ul>
 
-<p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>Master students</b>".
+<p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
+
+<p style="margin-top: 6px;"><li>[<font color="red">04-Nov-2025</font>] "<b> Congratulations to my master's student (Jiahao Fan, Binyan Tian) on being awarded the National Scholarship!</b>".</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">11-Oct-2025</font>] "<b>  Invitation to serve as Guest Editor of an Information Bottleneck related Special Issue in Technologies Journal</b>".  <a href = "https://www.mdpi.com/journal/technologies/special_issues/F4TJV60252">[Link]</a> </li></p>
 
