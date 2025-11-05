@@ -4,7 +4,7 @@
 ## 2025
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS'25] </b></font> Yanzheng Wang#, Xin Yang#, Yujun Wang, <b>Shizhe Hu*</b>, Mingliang Xu*: <i><u>Diversity-oriented Deep Multi-modal Clustering</u></i>. <font color="green"> Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>)</font>, Accepted, Dec. 2025. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS'25] </b></font> Yanzheng Wang#, Xin Yang#, Yujun Wang, <b>Shizhe Hu*</b>, Mingliang Xu*: <i><u>Diversity-oriented Deep Multi-modal Clustering</u></i>. <font color="green"> Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>)</font>, Accepted, Dec. 2025. (CCF Rank A) <a href = "https://openreview.net/pdf?id=cT54nK58lH">[PDF]</a> </li></p>
 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML'25] </b></font> Zhengzheng Lou, Hang Xue, Chaoyang Zhang, <b>Shizhe Hu*</b>: <i><u>A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method</u></i>. <font color="green"> Forty-second International Conference on Machine Learning (<b>ICML</b>)</font>, May. 2025. (CCF Rank A) <a href = "https://openreview.net/pdf?id=3GOaybsKfJ">[PDF]</a> </li></p>
