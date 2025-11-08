@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">08-Nov-2025</font>] "<b>One papers</b>" are accepted by <font color="green">AAAI'25 (CCF-A, Oral)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">05-Nov-2025</font>] "<b> Serving as <font color="green">Guest Editor</font> of multi-view learning Special Issue in <font color="green">Pattern Recognition</font></b>".  <a href = "https://www.sciencedirect.com/special-issue/327380/evolving-multi-view-learning-from-theory-to-high-impact-applications">[Link]</a> </li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">04-Nov-2025</font>] "<b> Congratulations to my master's students (Jiahao Fan, Binyan Tian) awarded <font color="green">National Scholarship 2025!</font></b>".</li></p>
