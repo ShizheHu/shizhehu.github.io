@@ -1,6 +1,14 @@
 # Selected Conference Papers
 (# denotes co-first author, * denotes the corresponding author)
 
+
+## 2025
+<ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI'26] Guoliang Zou#, Tongji Chen#, Sijia Li, Jin Qin, </b></font> <b>Shizhe Hu*</b>, Yangdong Ye*: <i><u>	Interest-driven Deep Multi-modal Clustering</u></i>. <font color="green"> AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</font> 2026. (CCF Rank A) </li></p>
+
+</ol>
+
+ 
 ## 2025
 <ol>
 
