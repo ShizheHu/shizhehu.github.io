@@ -43,6 +43,8 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EAAI]</b></font> Mingming Zhang, Dong liu, <b>Shizhe Hu</b>, Xiaoqiang Yan, Zhongchuan Sun, and Yangdong Ye: <i><u>Self-Supervised Temporal Autoencoder for Egocentric Action Segmentation</u></i>. <font color="green"> Engineering Applications of Artificial Intelligence (<b>EAAI</b>)</font>, Accepted, 2023. (SCI Q2) </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ESWA]</b></font> Xiaoqiang Yan, Xiangyu Yu, <b>Shizhe Hu</b> and Yangdong Ye: <i><u>Mutual Boost Network for attributed graph clustering</u></i>. <font color="green"> Expert Syst. Appl. (<b>EESWA</b>)</font>, 229 (PartA), 2023. (SCI Q1) </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Youwei Wang, Ying Wang, Zhongchuan Sun, Yinghao Li, <b>Shizhe Hu</b>, and Yangdong Ye: <i><u>Deep Purified Feature Mining Model for Joint Named Entity Recognition and Relation Extraction</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, Accepted, 2023. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457323002480?dgcid=coauthor">[PDF]</a> (CCF Rank B) </li></p>
 
 </ol>
