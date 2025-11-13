@@ -26,6 +26,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> Yiqiao Mao, Xiaoqiang Yan, <b>Shizhe Hu</b>, Yangdong Ye: <i><u> Contrastive cross-modal clustering with twin network </u></i>. <font color="green"> Pattern Recognition (<b> PR </b>)</font>, Accepted, 2024. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0031320324003960">[PDF]</a> (CCF Rank B) </li></p> 
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Briefings Bioinform.]</b></font> Zhengzheng Lou, Xiaojiao Wei, Yuanhao Hu, <b>Shizhe Hu</b>, Yucong Wu, Zhen Tian: <i><u> Clustering scRNA-seq data with the cross-view collaborative information fusion strategy </u></i>. <font color="green"> Briefings Bioinform. (<b> BIB </b>)</font>, 25(6), 2024. <a href = "https://academic.oup.com/bib/article/25/6/bbae511/7821218?login=false">[PDF]</a> (CCF Rank B) </li></p> 
 </ol>
 
 
