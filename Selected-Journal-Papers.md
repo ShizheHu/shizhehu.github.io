@@ -71,6 +71,8 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KBS]</b></font> Qiang Guo, Xin Zeng, <b>Shizhe Hu</b>, Sonephet Phoummixay and Yangdong Ye: <i><u> Learning a Deep Network with Cross-hierarchy Aggregation for Crowd Counting </u></i>. <font color="green"> Knowledge-Based Systems (<b>KBS</b>) </font> (213) 2021. <a href = "https://www.sciencedirect.com/science/article/pii/S0950705120308200">[PDF]</a> (SCI Q1) </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机科学]</b></font> 鲁博仁, <b>胡世哲</b>, 娄铮铮*, 叶阳东: <i><u> 面向铁路文本分类的字符级特征提取方法 </u></i>. <font color="green">计算机科学</font>. 48(3), 220-226, Mar. 2021. <a href = "https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19785">[PDF]</a> (CCF Rank T2) </li></p> 
+
 </ol>
  
  
