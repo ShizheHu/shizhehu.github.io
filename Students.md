@@ -18,6 +18,8 @@
 
 </ol>
 
+<br>
+
 ## 培养目标/要求
 
 <ol>
@@ -38,6 +40,7 @@
 
 </ol>
 
+<br>
 
 ## 培养方式
 
@@ -63,6 +66,8 @@
 
 </ol>
 
+<br>
+
 ## 学术研究的基本流程
 
 <ol>
@@ -85,6 +90,8 @@
 
 </ol>
 
+<br>
+
 ## 在读博士研究生
 【论文均为[学生(共同)一作/通讯]或[(副)导师一作、学生二作]】
 
@@ -95,6 +102,8 @@
 <p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>. <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Continual Learning/Deep Multi-modal Fusion and Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ACM MM'24、AAAI'26 <font face="verdana" color="red"><b>[Oral]</b></font>、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)</b>. </li></p>
 
 </ol>
+
+<br>
 
 ## 在读硕士研究生
 【论文均为[学生(共同)一作]或[(副)导师一作、学生二作]】
@@ -166,6 +175,7 @@
 
 </ol>
 
+<br>
 
 ## 在读本科生
 【论文均为[学生(共同)一作]】
@@ -176,6 +186,8 @@
 
 </ol>
 
+
+<br>
 
 ## 已毕业硕士研究生
 
