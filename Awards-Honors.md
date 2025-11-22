@@ -1,5 +1,7 @@
 # Awards and Honors
 
+## 2025
+
 <ul>
 
 <p style="margin-top: 8px;"><li>First Prize of Outstanding Scientific and Technological Paper of Henan Province for paper "Joint Contrastive Triple-learning for Deep Multi-view Clustering" 【河南省教育厅科技成果奖优秀科技论文奖一等奖，排名1/5，豫教〔2025〕09859, 2025.06.16】.</li></p>
@@ -8,9 +10,33 @@
 
 <p style="margin-top: 8px;"><li>第十六届蓝桥杯全国软件和信息技术专业人才大赛全国总决赛C/C++程序设计优秀指导教师, 工业与信息化部人才交流中心、蓝桥杯大赛组委会, 2025.06.23. </li></p> 
 
+</ul>
+
+<br>
+
+## 2024
+
+<ul>
+
 <p style="margin-top: 8px;"><li>First Prize of Outstanding Scientific and Technological Paper of Henan Province for paper "View-wise Versus Cluster-wise Weight: Which Is Better for Multi-view Clustering?" 【河南省教育厅科技成果奖优秀科技论文奖一等奖，排名1/3，豫教〔2024〕08027, 2024.07.02】. <a href = "https://jyt.henan.gov.cn/2024/07-02/3016224.html">[Link]</a>.</li></p>
 
+</ul>
+
+<br>
+
+## 2023
+
+<ul>
+  
 <p style="margin-top: 8px;"><li>ACM Rising Star Award, ACM Zhengzhou【2023 ACM China 新星奖郑州分会，2023ACMCHINA-XX-C1802, 2023.07.05】. <a href = "https://www.acmturc.com/2024/#/newStarAward">[Link]</a>. </li></p> 
+
+</ul>
+
+<br>
+
+## 2021
+
+<ul>
 
 <p style="margin-top: 8px;"><li>ACM Outstanding Ph.D. Dissertation Award, ACM Zhengzhou【2021 ACM China 优秀博士论文奖郑州分会, 2021ACMCHINA-YB-C1602, 2021.07】. <a href = "https://www.acmturc.com/2023/cn/doctoral_thesis_award.html">[Link]</a>. </li></p> 
   
@@ -21,7 +47,15 @@
 <p style="margin-top: 8px;"><li>Excellent Graduate of Henan Province (河南省优秀应届毕业生), Department of Education of Henan Province, 2015, 2021. </li></p>  
 
 <p style="margin-top: 8px;"><li>Best Paper Award in the 15th Forum of Postgraduates（第十五届研究生学术论坛“最佳论文奖”），Zhengzhou University, 2021. </li></p>
-  
+
+</ul>
+
+<br>
+
+## Before 2021
+
+<ul>
+
 <p style="margin-top: 8px;"><li>Outstanding Achievement Award（研究生优秀成果奖）, Zhengzhou University, 2020. </li></p>  
   
 <p style="margin-top: 8px;"><li>National Scholarship for Ph.D. Candidates（博士生国家奖学金）, Ministry of Education of the People's Republic of China, 2020. </li></p>  
