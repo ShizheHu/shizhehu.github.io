@@ -12,8 +12,6 @@
 
 </ul>
 
-<br>
-
 ## 2024
 
 <ul>
@@ -22,8 +20,6 @@
 
 </ul>
 
-<br>
-
 ## 2023
 
 <ul>
@@ -31,8 +27,6 @@
 <p style="margin-top: 8px;"><li>ACM Rising Star Award, ACM Zhengzhou【2023 ACM China 新星奖郑州分会，2023ACMCHINA-XX-C1802, 2023.07.05】. <a href = "https://www.acmturc.com/2024/#/newStarAward">[Link]</a>. </li></p> 
 
 </ul>
-
-<br>
 
 ## 2021
 
@@ -49,8 +43,6 @@
 <p style="margin-top: 8px;"><li>Best Paper Award in the 15th Forum of Postgraduates（第十五届研究生学术论坛“最佳论文奖”），Zhengzhou University, 2021. </li></p>
 
 </ul>
-
-<br>
 
 ## Before 2021
 
