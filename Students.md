@@ -80,6 +80,8 @@
 
 <p style="margin-top: 8px;"><li>复现一些重要论文的结果：能正确的复现出重要论文的结果，后面才能判断实验结果不好，是coding能力不行，还是idea不行。</li></p>
 
+<p style="margin-top: 8px;"><li>发现领域内存在的重要挑战与问题，寻求相关解决方案</li></p>
+
 <p style="margin-top: 8px;"><li>形成初步idea：通过阅读论文以及和导师、同门讨论，确定初步的idea。</li></p>
 
 <p style="margin-top: 8px;"><li>验证并改进idea：根据验证结果以及相关论文阅读更新、迭代idea。</li></p>
