@@ -1,4 +1,4 @@
-# Awards and Honors
+# Awards, Honors and Patents
 
 ## 2025
 
@@ -57,3 +57,13 @@
 <p style="margin-top: 8px;"><li>National Scholarship for Undergraduates（本科生国家奖学金）, Ministry of Education of the People's Republic of China, 2013. </li></p> 
 
 </ul>
+
+## Patents
+
+<ul>
+  
+<p style="margin-top: 8px;"><li>叶阳东, 张明明, 闫小强, 孙中川, 胡世哲: 流形结构的视频时序分割方法, 已授权, 专利号: CN202310203565.9, 授权公告号: CN116229321A, 申请日期: 2023-03-05, 授权通知时间: 2025-12-15. </li></p>  
+
+</ul>
+
+
