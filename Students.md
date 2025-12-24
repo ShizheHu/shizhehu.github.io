@@ -137,15 +137,15 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. </li></p>
+<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>FCS'26 (CCF Rank T1)</b>; </li></p>
   
-<p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. </li></p>
+<p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>ICLR'26 (CAAI Rank A)</b>; </li></p>
 
 <p style="margin-top: 8px;"><li><b>Shuaiju Li (李帅举)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang.</li></p>
+<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>FITEE'26 (CCF Rank T1)</b>; <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>IEEE TIP'26 (CCF Rank A)</b>; <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
 <p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
@@ -153,7 +153,7 @@
 
 <p style="margin-top: 8px;"><li><b>Wenlong Chen (陈文龙)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Federated Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>CVPR'26 (CCF Rank A)</b>; <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>.</li></p>
 
 </ol>
 
@@ -173,7 +173,7 @@
 
 <p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-view Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Classification. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xiaoheng Jiang.</li></p>
+<p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Classification. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>模式识别与人工智能'25 (CCF Rank T2)</b>; <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xiaoheng Jiang.</li></p>
 
 </ol>
 
