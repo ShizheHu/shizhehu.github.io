@@ -4,6 +4,8 @@
 ## 2026
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Tongji Chen#, Guoliang Zou#, <b>Shizhe Hu*</b>, Yangdong Ye∗: <i><u>Cross-modal Information Propagation for Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, Accepted, 2026. (CCF Rank B) </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机工程与应用]</b></font> 胡援浩, 娄铮铮, <b>胡世哲</b>, 张朝阳*, 焦重阳, 周清雷: <i><u> LGDLight：线图注意力驱动的区域交通信号控制 </u></i>. <font color="green">计算机工程与应用</font>. 2026. <a href = "https://link.cnki.net/urlid/11.2127.TP.20250228.1005.004">[PDF]</a> (CCF Rank T2) </li></p> 
 
 </ol>
