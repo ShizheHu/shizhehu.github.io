@@ -147,7 +147,7 @@
 
 <p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>IEEE TIP'26 (CCF Rank A)</b> </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+<p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>FCS'26 (CCF Rank T1)</b></li></p>
 
 <p style="margin-top: 8px;"><li><b>Chiyao Ma (马驰尧)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Federated Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Kai Nie.</li></p>
 
