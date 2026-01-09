@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">09-Jan-2026</font>] "<b> Serve as Associate Editor </b>" of <font color="green"> Pattern Recognition (CCF-B, CAS Rank Q1) <a href = "https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board">[Link]</a></font>.</li></p> 
+
 <p style="margin-top: 6px;"><li>[<font color="red">31-Dec-2025</font>] "<b> Serve as Associate Editor </b>" of <font color="green"> IEEE TIP Journal (CCF-A, CAS Rank Q1) <a href = "https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing/editorial-board">[Link]</a></font>.</li></p> 
 
 <p style="margin-top: 6px;"><li>[<font color="red">20-Nov-2025</font>] "<b>  Invitation to serve as Area Chair </b>" of <font color="green"> ICML 2026 </font>.</li></p>
