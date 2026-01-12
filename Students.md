@@ -171,7 +171,7 @@
  
 <p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ICML'25 (CCF Rank A)</b>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-view Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>IEEE TNNLS'25 (CCF Rank B)、CVPR'26 (CCF Rank A) </b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-view Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>IEEE TNNLS'26 (CCF Rank B).</b> <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b> CVPR'26 (CCF Rank A) </b>. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Classification. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xiaoheng Jiang. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>中国图象图形学报'26 (CCF Rank T2)</b>. </li></p>
 
