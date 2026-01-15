@@ -16,7 +16,10 @@
 <i> <b> Guest Editor</b>: Technologies Journal, 2025.10, Special Issue: Advances in the Information Bottleneck: Theory, Methods, and Applications <a href = "https://www.mdpi.com/journal/technologies/special_issues/F4TJV60252">[Link]</a> </i> 
 
 <p style="margin-top: 8px;"><li><b>Area Chair/Senior Program Committee for Conferences</b>:</li></p>
-<i> <b>Area Chair</b>: ICLR'26、ICML'26 </i> 
+
+<i> <b>Area Chair</b>: ICLR'26、ICML'26 </i>  <br>
+
+<i> <b> Senior Program Committee (SPC) </b>: IJCAI-ECAI'26 </i> 
 
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
 <i>ICML'24/25</i> <br>
