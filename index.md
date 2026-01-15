@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">15-Jan-2026</font>] "<b>  Invitation to serve as Senior Program Committee (SPC) </b>" of <font color="green"> IJCAI-ECAI 2026 </font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">12-Jan-2026</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TNNLS (CCF-B)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">09-Jan-2026</font>] "<b> Serve as Associate Editor </b>" of <font color="green"> Pattern Recognition (CCF-B, CAS Rank Q1) <a href = "https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board">[Link]</a></font>.</li></p> 
