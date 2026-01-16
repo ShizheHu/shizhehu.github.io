@@ -4,6 +4,8 @@
 ## 2026
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[FCS]</b></font> <b>Shizhe Hu</b>, Jinlan Wang, Jiahao Fan, Sijia Li, Jin Qin, Xiaoheng Jiang, Pei Lv, and Mingliang Xu*: <i><u> Relational Contrastive Multi-view Clustering </u></i>. <font color="green"> Frontiers of Computer Science (<b>FCS</b>)</font>, Accepted, Jan. 2026. (CCF Rank B) </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhengzheng Lou, Yucong Wu, Ke Zhang, Chaoyang Zhang, Bo Ji, and <b>Shizhe Hu*</b>: <i><u> Structure-enhanced Self-supervised Weighted Information Bottleneck for Multi-view Clustering </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, Jan. 2026. (CCF Rank B) </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Tongji Chen#, Guoliang Zou#, <b>Shizhe Hu*</b>, Yangdong Ye*: <i><u>Cross-modal Information Propagation for Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, Accepted, 2026. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457325005369">[PDF]</a> (CCF Rank B) </li></p>
