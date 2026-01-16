@@ -137,7 +137,7 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>FCS'26 (CCF Rank T1)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>FCS'26 (CCF Rank T1)</b>. </li></p>
   
 <p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. <font face="verdana" color="blue"><b>[Under Review]</b></font>: <b>ICLR'26 (CAAI Rank A)</b>. </li></p>
 
