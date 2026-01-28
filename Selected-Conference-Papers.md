@@ -4,8 +4,12 @@
 
 ## 2026
 <ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR'26]</b></font> <b>Shizhe Hu</b>, Zhangwen Gou, Shuaiju Li, Jin Qin, Xiaoheng Jiang, Pei Lv, Mingliang Xu*: <i><u>	Calibrated Information Bottleneck for Trusted Multi-modal Clustering </u></i>. <font color="green"> In International Conference on Learning Representations (<b>ICLR</b>)</font> 2026. <font face="verdana" color="red"><b>[  ]</b></font> (CAAI Rank A) </li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI'26]</b></font> Guoliang Zou#, Tongji Chen#, Sijia Li, Jin Qin, Yangdong Ye*, <b>Shizhe Hu*</b>: <i><u>	Interest-driven Deep Multi-modal Clustering</u></i>. <font color="green"> AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</font> 2026. <font face="verdana" color="red"><b>[ Oral ]</b></font> (CCF Rank A) </li></p>
+
+ . , 2026.
 
 </ol>
 
