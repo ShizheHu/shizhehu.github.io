@@ -114,9 +114,9 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Jingyi Zhao (赵靖一)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. </li></p>
-
 <p style="margin-top: 8px;"><li><b>Yuhang Jing (荆宇航)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
+
+<p style="margin-top: 8px;"><li><b>Jingyi Zhao (赵靖一)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Qi Hu (胡琦)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
 
