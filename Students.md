@@ -151,9 +151,9 @@
 
 <p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Chiyao Ma (马驰尧)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Federated Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Kai Nie.</li></p>
-
 <p style="margin-top: 8px;"><li><b>Wenlong Chen (陈文龙)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Federated Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+
+<p style="margin-top: 8px;"><li><b>Chiyao Ma (马驰尧)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Federated Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Kai Nie.</li></p>
 
 </ol>
 
@@ -165,9 +165,9 @@
 
 <p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Self-supervised Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'25 (CCF Rank A)</b>;  <font face="verdana" color="blue"><b>[荣誉]</b></font>：郑州大学2025年研究生国家奖学金. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> NeurIPS'25 (CCF Rank A).</b></li></p>
-
 <p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'26 <font face="verdana" color="red"><b> [Oral] </b></font> (CCF Rank A)、IPM'26 (CCF Rank B) </b>. </li></p>  
+
+<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> NeurIPS'25 (CCF Rank A).</b></li></p>
  
 <p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ICML'25 (CCF Rank A)</b>.</li></p>
 
