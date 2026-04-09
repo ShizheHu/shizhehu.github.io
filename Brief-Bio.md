@@ -12,8 +12,10 @@ Also you can contact me with WeChat ID (微信号): hushizhe_zzu.
 DBLP: [[DBLP]](https://dblp.org/pid/208/4268.html)\
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=AwzvxQEAAAAJ&hl=en&authuser=1&oi=ao)
 
-## Representative Work 
+# Representative Work 
 (\# denotes co-first author, \* denotes the corresponding author)
+
+## Journals
 
 <ol>
 
@@ -35,6 +37,16 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB]</b></font> <b>Shizhe Hu</b>, Zenglin Shi, Yangdong Ye*: <i><u>DMIB: Dual-correlated Multivariate Information Bottleneck for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font> 52(6): 4260-4274, Jun. 2022. (CCF Rank B) <a href = "https://ieeexplore.ieee.org/document/9234635">[PDF]</a> </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> <b>Shizhe Hu</b>, Guoliang Zou, Chaoyang Zhang, Zhengzheng Lou, Ruilin Geng, and Yangdong Ye*: <i><u>Joint Contrastive Triple-learning for Deep Multi-view Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, 60(3):103284, May. 2023. (CCF Rank B) <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0306457323000213">[PDF]</a> <a href = "https://github.com/ShizheHu/Joint-Contrastive-Triple-learning">[Code]</a> <a href = "https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:000924393900001"><font face="verdana" color="red"><b>[Highly Cited Paper]</b></font></a> </li></p>
+  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机学报]</b></font> <b>胡世哲</b>, 娄铮铮，王若彬，闫小强，叶阳东*: <i><u> 一种双重加权的多视角聚类方法 </u></i>. <font color="green">计算机学报</font>. 43(9), 1708-1720, Sep. 2020. (CCF Rank T1) <a href = "http://cjc.ict.ac.cn/online/onlinepaper/08177-%E8%83%A1%E4%B8%96%E5%93%B2-202094103146.pdf">[PDF]</a> </li></p> 
+
+</ol>
+
+## Conferences
+
+<ol>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICLR'26]</b></font> <b>Shizhe Hu</b>, Zhangwen Gou, Shuaiju Li, Jin Qin, Xiaoheng Jiang, Pei Lv, Mingliang Xu*: <i><u>	Calibrated Information Bottleneck for Trusted Multi-modal Clustering </u></i>. <font color="green"> In International Conference on Learning Representations (<b>ICLR</b>)</font> 2026. (CCF Rank A) <a href = "https://openreview.net/pdf?id=iedlZOdI0d">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS'25] </b></font> Yanzheng Wang#, Xin Yang#, Yujun Wang, <b>Shizhe Hu*</b>, Mingliang Xu*: <i><u>Diversity-oriented Deep Multi-modal Clustering</u></i>. <font color="green"> Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>)</font>, Accepted, Dec. 2025. (CCF Rank A)  <a href = "https://openreview.net/pdf?id=cT54nK58lH">[PDF]</a> </li></p>
@@ -53,8 +65,5 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM'22] </b></font><b>Shizhe Hu</b>, Ruilin Geng, Zhaoxu Cheng, Chaoyang Zhang, Guoliang Zou, Zhengzheng Lou, Yangdong Ye*: <i><u>A Parameter-free Multi-view Information Bottleneck Clustering Method by Cross-view Weighting</u></i>. <font color="green"><b> ACM MM </b></font> Oct. 2022. (CCF Rank A) <a href = "https://dl.acm.org/doi/pdf/10.1145/3503161.3547985">[PDF]</a> <a href = "https://github.com/ShizheHu/shizhehu.github.io/blob/main/PPT_ACMMM2022_PMIB_16%E6%AF%949.pptx">[PPT]</a> <a href = "https://github.com/ShizheHu/shizhehu.github.io/blob/main/Poster_ACMMM2022.pdf">[Poster]</a> <a href = "https://pan.baidu.com/s/1llese3pdjRlYdPqVWBGvfQ?pwd=fyne">[Video Presentation]</a> </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> <b>Shizhe Hu</b>, Guoliang Zou, Chaoyang Zhang, Zhengzheng Lou, Ruilin Geng, and Yangdong Ye*: <i><u>Joint Contrastive Triple-learning for Deep Multi-view Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, 60(3):103284, May. 2023. (CCF Rank B) <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0306457323000213">[PDF]</a> <a href = "https://github.com/ShizheHu/Joint-Contrastive-Triple-learning">[Code]</a> <a href = "https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:000924393900001"><font face="verdana" color="red"><b>[Highly Cited Paper]</b></font></a> </li></p>
-  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机学报]</b></font> <b>胡世哲</b>, 娄铮铮，王若彬，闫小强，叶阳东*: <i><u> 一种双重加权的多视角聚类方法 </u></i>. <font color="green">计算机学报</font>. 43(9), 1708-1720, Sep. 2020. (CCF Rank T1) <a href = "http://cjc.ict.ac.cn/online/onlinepaper/08177-%E8%83%A1%E4%B8%96%E5%93%B2-202094103146.pdf">[PDF]</a> </li></p> 
 
 </ol>
