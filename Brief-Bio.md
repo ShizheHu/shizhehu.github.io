@@ -69,9 +69,9 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 
 <ol>
 
-
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[FCS]</b></font> <b>Shizhe Hu</b>, Jinlan Wang, Jiahao Fan, Sijia Li, Jin Qin, Xiaoheng Jiang, Pei Lv, and Mingliang Xu*: <i><u> Relational Contrastive Multi-view Clustering</u></i>. <font color="green"> Frontiers of Computer Science (<b>FCS</b>)</font>, Accepted, Jan. 2026.  <a href = "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51585-z">[PDF]</a> (CCF Rank T1) </li></p>
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机学报]</b></font> <b>胡世哲</b>, 娄铮铮，王若彬，闫小强，叶阳东*: <i><u> 一种双重加权的多视角聚类方法 </u></i>. <font color="green">计算机学报</font>. 43(9), 1708-1720, Sep. 2020. (CCF Rank T1) <a href = "http://cjc.ict.ac.cn/online/onlinepaper/08177-%E8%83%A1%E4%B8%96%E5%93%B2-202094103146.pdf">[PDF]</a> </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机学报]</b></font> <b>胡世哲</b>, 娄铮铮，王若彬，闫小强，叶阳东*: <i><u> 一种双重加权的多视角聚类方法 </u></i>. <font color="green">计算机学报</font>. 43(9), 1708-1720, Sep. 2020. <a href = "http://cjc.ict.ac.cn/online/onlinepaper/08177-%E8%83%A1%E4%B8%96%E5%93%B2-202094103146.pdf">[PDF]</a> (CCF Rank T1) </li></p> 
 
 </ol>
 
