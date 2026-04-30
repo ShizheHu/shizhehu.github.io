@@ -11,6 +11,8 @@
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI'26]</b></font> Guoliang Zou#, Tongji Chen#, Sijia Li, Jin Qin, Yangdong Ye*, <b>Shizhe Hu*</b>: <i><u>	Interest-driven Deep Multi-modal Clustering</u></i>. <font color="green"> AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</font> 2026. <font face="verdana" color="red"><b>[ Oral ]</b></font> (CCF Rank A) <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/40167">[PDF]</a> </li></p>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI'26] </b></font> Youwei Wang, Qiwei Miao, Haichuan Fang, Yangdong Ye, <b>Shizhe Hu*</b>: <i><u>Empowering Self-Balance of Deep Information Bottleneck for Multimodal Clustering</u></i>. <font color="green">In the 35rd International Joint Conference on Artificial Intelligence (<b>IJCAI</b>)</font>, Bremen, Germany, August 15-21, 2026. (CCF Rank B) <a href = "">[PDF]</a> </li></p>
+
 </ol>
 
  
