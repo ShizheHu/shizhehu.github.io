@@ -10,7 +10,7 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">01-May-2026</font>] "<b>One papers</b>" is accepted by <font color="green">ICML'26 (CCF-A)</font>.</li></p>
 
-<p style="margin-top: 6px;"><li>[<font color="red">01-May-2026</font>] "<b>One paper</b>" is accepted by <font color="green">IJCAI'26 (CCF-B)</font>, respectively.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">01-May-2026</font>] "<b>One paper</b>" is accepted by <font color="green">IJCAI'26 (CCF-B)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">26-Jan-2026</font>] "<b>One paper</b>" is accepted by <font color="green">ICLR'26 (CCF-A)</font>.</li></p>
 
