@@ -17,6 +17,8 @@
 
 <p style="margin-top: 8px;"><li><b>Area Chair/Senior Program Committee for Conferences</b>:</li></p>
 
+<i> <b> EACC </b>: VALSE 2026-2027 </i>  <br>
+
 <i> <b>Area Chair (AC)</b>: ICLR'26、ICML'26 </i>  <br>
 
 <i> <b> Senior Program Committee (SPC) </b>: IJCAI-ECAI'26 </i> 
