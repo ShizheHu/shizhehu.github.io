@@ -17,7 +17,7 @@
 
 <p style="margin-top: 8px;"><li><b>Area Chair/Senior Program Committee for Conferences</b>:</li></p>
 
-<i> <b> EACC </b>: VALSE 2026-2027 </i>  <br>
+<i> <b> EACC </b>: VALSE 2026-2027 <a href = "https://valser.org/portal.php">[Link]</a> </i>  <br>
 
 <i> <b>Area Chair (AC)</b>: ICLR'26、ICML'26 </i>  <br>
 
