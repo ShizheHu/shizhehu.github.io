@@ -29,7 +29,11 @@ menu:
     link: /Brief-Bio
     icon: ""
 
-  - text: Courses and Fundings
+  - text: Books and Courses 
+    link: /Courses
+    icon: ""
+
+  - text: Fundings
     link: /Fundings
     icon: ""
 
