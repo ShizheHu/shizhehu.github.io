@@ -79,7 +79,7 @@
 
 
 <p style="margin-top: 8px;"><li><b>Member</b>:</li></p>
-<i> IEEE Member  </i> <br>
+<i> IEEE Senior Member  </i> <br>
 <i> ACM Member  </i> <br>
 <i> CCF Member  </i> <br>
 <i> CSIG Member  </i> <br>
