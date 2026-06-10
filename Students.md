@@ -145,7 +145,7 @@
 
 <p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang. </li></p>
+<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> EITEE (CCF Rank T1).</b> </li></p>
 
 <p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. </li></p>
 
@@ -167,7 +167,7 @@
 
 <p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/">Prof. Yangdong Ye</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'26 <font face="verdana" color="red"><b> [Oral] </b></font> (CCF Rank A)、IPM'26 (CCF Rank B) </b>. </li></p>  
 
-<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> NeurIPS'25 (CCF Rank A).</b></li></p>
+<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> NeurIPS'25 (CCF Rank A)、EITEE (CCF Rank T1).</b></li></p>
  
 <p style="margin-top: 8px;"><li><b>Ke Zhang (张珂)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ICML'25 (CCF Rank A)</b>.</li></p>
 
