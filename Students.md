@@ -157,24 +157,6 @@
 
 </ol>
 
-<br>
-
-# 在读 (本科) / Undergraduate
-【论文均为[学生(共同)一作]】
-
-<ol>
-
-<p style="margin-top: 8px;"><li><b>Weibo Liu (刘伟博)</b>, 2022~2026：指导以刘伟博为负责人的2024年郑州大学大学生创新创业训练计划项目获得一般项目支持.</li></p>
-
-</ol>
-
-
-<br>
-
-# 已毕业 (硕士) / Masters
-
-【论文均为[学生(共同)一作]或[(副)导师一作、学生二作]】
-
 ## 2023.09~2026.07
 
 <ol>
@@ -194,6 +176,24 @@
 <p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Classification. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xiaoheng Jiang. </li></p>
 
 </ol>
+
+<br>
+
+# 在读 (本科) / Undergraduate
+【论文均为[学生(共同)一作]】
+
+<ol>
+
+<p style="margin-top: 8px;"><li><b>Weibo Liu (刘伟博)</b>, 2022~2026：指导以刘伟博为负责人的2024年郑州大学大学生创新创业训练计划项目获得一般项目支持.</li></p>
+
+</ol>
+
+
+<br>
+
+# 已毕业 (硕士) / Masters
+
+【论文均为[学生(共同)一作]或[(副)导师一作、学生二作]】
 
 ## 2022.09~2025.07
 
