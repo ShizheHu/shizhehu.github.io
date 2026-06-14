@@ -110,6 +110,24 @@
 # 在读 (硕士) / Master Candidate
 【论文均为[学生(共同)一作]或[(副)导师一作、学生二作]】
 
+## 2026.09~2029.07
+
+<ol>
+  
+<p style="margin-top: 8px;"><li><b>Yi Zhou (周祎)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
+
+<p style="margin-top: 8px;"><li><b>Ziyang Lu (卢子杨)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
+
+<p style="margin-top: 8px;"><li><b>Yujia Li (李羽佳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
+
+<p style="margin-top: 8px;"><li><b>Wenhao Chen (谌文浩)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
+
+<p style="margin-top: 8px;"><li><b>Chao Wu (吴超)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
+
+
+</ol>
+
+
 ## 2025.09~2028.07
 
 <ol>
