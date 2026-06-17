@@ -209,7 +209,7 @@
 
 <p style="margin-top: 8px;"><li><b>Yucong Wu (吴雨聪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-view Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>IEEE TNNLS'26 (CCF Rank B).</b>. <font face="verdana" color="blue"><b>[毕业去向]</b></font>: 郑州大学攻读博士学位. <font face="verdana" color="blue"><b>[邮箱]</b></font>: wyc7513@163.com. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Classification. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xiaoheng Jiang. <font face="verdana" color="blue"><b>[毕业去向]</b></font>: XXXX. <font face="verdana" color="blue"><b>[邮箱]</b></font>: XXXXXXXXXXX. </li></p>
+<p style="margin-top: 8px;"><li><b>Kefan Sun (孙柯凡)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Classification. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xiaoheng Jiang. <font face="verdana" color="blue"><b>[毕业去向]</b></font>: 千寻智能. <font face="verdana" color="blue"><b>[邮箱]</b></font>: kefan_sun@gs.zzu.edu.cn. </li></p>
 
 </ol>
 
