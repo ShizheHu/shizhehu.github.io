@@ -165,8 +165,6 @@
 
 <p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Xin Yang. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> EITEE (CCF Rank T1).</b> </li></p>
 
-<p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. </li></p>
-
 <p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ICML'26 (CCF Rank A)</b>. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Wenlong Chen (陈文龙)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Federated Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
@@ -192,6 +190,14 @@
 # 已毕业 (硕士) / Masters
 
 【论文均为[学生(共同)一作]或[(副)导师一作、学生二作]】
+
+## 2024.09~2026.07
+
+<ol>
+
+<p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>. <font face="verdana" color="blue"><b>[深造去向]</b></font>: 硕博连读-郑州大学. <font face="verdana" color="blue"><b>[邮箱]</b></font>: my53160915@gs.zzu.edu.cn. </li></p>
+
+</ol>
 
 ## 2023.09~2026.07
 
