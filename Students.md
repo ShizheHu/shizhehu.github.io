@@ -124,6 +124,8 @@
 
 <p style="margin-top: 8px;"><li><b>Chao Wu (吴超)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
 
+<p style="margin-top: 8px;"><li><b>Sen Hui (惠森)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Prof. Yi Xiao.</li></p>
+
 
 </ol>
 
