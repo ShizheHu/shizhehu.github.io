@@ -97,6 +97,15 @@
 # 在读 (博士) / PhD Candidate
 【论文均为[学生(共同)一作/通讯]或[(副)导师一作、学生二作]】
 
+## 2026.09~2030.07
+
+<ol>
+ 
+<p style="margin-top: 8px;"><li><b>Yali Huang (黄雅丽)</b>. <font face="verdana" color="blue"><b>[Research]</b></font>: Embodied Intelligence/Trusted Multi-modal Learning/Unmanned vehicle/Deep Multi-modal Fusion. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>XXX</b>. </li></p>
+
+</ol>
+
+
 ## 2023.09~2027.07
 
 <ol>
