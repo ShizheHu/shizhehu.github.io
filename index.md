@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">29-Jun-2026</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TIP (CCF-A)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">02-Jun-2026</font>]  Promoted to <font color="green">IEEE Senior Member</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">07-May-2026</font>] "<b>  To serve as EACC </b>" of <font color="green"> VALSE 2026-2027 </font> <a href = "https://valser.org/portal.php">[Link]</a> .</li></p>
