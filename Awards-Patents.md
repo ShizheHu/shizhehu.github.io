@@ -6,6 +6,8 @@
 
 <ul>
 
+<p style="margin-top: 8px;"><li> 2025年度河南省事业单位定期奖励人员 (个人嘉奖), 2026.06.30】. </li></p> 
+
 <p style="margin-top: 8px;"><li>First Prize of Outstanding Scientific and Technological Paper of Henan Province for paper "Joint Contrastive Triple-learning for Deep Multi-view Clustering" 【河南省教育厅科技成果奖优秀科技论文奖一等奖，排名1/5，豫教〔2025〕09859, 2025.06.16】.</li></p>
 
 <p style="margin-top: 8px;"><li>Exemplary Communist Party member 【优秀共产党员, 中国共产党郑州大学委员会, 2025.06.30】. </li></p> 
