@@ -10,11 +10,11 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Information Fusion]</b></font> Guoliang Zou, <b>Shizhe Hu*</b>, Tongji Chen, Yangdong Ye*: <i><u> Stop Pushing Friends Away: Trustworthy Hybrid Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Fusion</font>, Accepted, Jun. 2026.  <a href = "https://www.sciencedirect.com/science/article/abs/pii/S1566253526004434">[PDF]</a> </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Tongji Chen#, Guoliang Zou#, <b>Shizhe Hu*</b>, Yangdong Ye*: <i><u>Cross-modal Information Propagation for Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, Accepted, 2026. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457325005369">[PDF]</a> (CCF Rank B) </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EITEE]</b></font> Yanzheng Wang#, Yujun Wang#, Fengshuo Dai, Xin Yang, Xiaoheng Jiang, Pei Lv, <b>Shizhe Hu*</b>, Mingliang Xu*: <i><u> Multi-stage Contrastive Multi-modal Clustering with Consistency Retained </u></i>. <font color="green"> ENGINEERING Information Technology & Electronic Engineering (<b>EITEE</b>)</font>, Accepted, Jun. 2026.  (CCF Rank T1) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[FCS]</b></font> <b>Shizhe Hu</b>, Jinlan Wang, Jiahao Fan, Sijia Li, Jin Qin, Xiaoheng Jiang, Pei Lv, and Mingliang Xu*: <i><u> Relational Contrastive Multi-view Clustering</u></i>. <font color="green"> Frontiers of Computer Science (<b>FCS</b>)</font>, Accepted, Jan. 2026.  <a href = "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51585-z">[PDF]</a> (CCF Rank T1) </li></p>
-
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Tongji Chen#, Guoliang Zou#, <b>Shizhe Hu*</b>, Yangdong Ye*: <i><u>Cross-modal Information Propagation for Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, Accepted, 2026. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457325005369">[PDF]</a> (CCF Rank B) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机工程与应用]</b></font> 胡援浩, 娄铮铮, <b>胡世哲</b>, 张朝阳*, 焦重阳, 周清雷: <i><u> LGDLight：线图注意力驱动的区域交通信号控制 </u></i>. <font color="green">计算机工程与应用</font>. 2026. <a href = "https://link.cnki.net/urlid/11.2127.TP.20250228.1005.004">[PDF]</a> (CCF Rank T2) </li></p> 
 
