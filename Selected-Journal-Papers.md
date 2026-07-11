@@ -16,6 +16,8 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[FCS]</b></font> <b>Shizhe Hu</b>, Jinlan Wang, Jiahao Fan, Sijia Li, Jin Qin, Xiaoheng Jiang, Pei Lv, and Mingliang Xu*: <i><u> Relational Contrastive Multi-view Clustering</u></i>. <font color="green"> Frontiers of Computer Science (<b>FCS</b>)</font>, Accepted, Jan. 2026.  <a href = "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51585-z">[PDF]</a> (CCF Rank T1) </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机工程]</b></font> 姜晓恒，孙柯凡，邵蒙恩，<b>胡世哲*</b>，徐明亮: <i><u> 联合类对抗学习和动态融合的可信多模态分类 </u></i>. <font color="green">计算机工程</font>. 2026. (CCF Rank T2) </li></p> 
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机工程与应用]</b></font> 胡援浩, 娄铮铮, <b>胡世哲</b>, 张朝阳*, 焦重阳, 周清雷: <i><u> LGDLight：线图注意力驱动的区域交通信号控制 </u></i>. <font color="green">计算机工程与应用</font>. 2026. <a href = "https://link.cnki.net/urlid/11.2127.TP.20250228.1005.004">[PDF]</a> (CCF Rank T2) </li></p> 
 
 </ol>
