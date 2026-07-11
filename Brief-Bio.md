@@ -78,6 +78,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EITEE]</b></font> Yanzheng Wang#, Yujun Wang#, Fengshuo Dai, Xin Yang, Xiaoheng Jiang, Pei Lv, <b>Shizhe Hu*</b>, Mingliang Xu*: <i><u> Multi-stage Contrastive Multi-modal Clustering with Consistency Retained </u></i>. <font color="green"> ENGINEERING Information Technology & Electronic Engineering (<b>EITEE</b>)</font>, Accepted, Jun. 2026.  <a href = "">[PDF]</a> (CCF Rank T1) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[FCS]</b></font> <b>Shizhe Hu</b>, Jinlan Wang, Jiahao Fan, Sijia Li, Jin Qin, Xiaoheng Jiang, Pei Lv, and Mingliang Xu*: <i><u> Relational Contrastive Multi-view Clustering</u></i>. <font color="green"> Frontiers of Computer Science (<b>FCS</b>)</font>, Accepted, Jan. 2026.  <a href = "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51585-z">[PDF]</a> (CCF Rank T1) </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机工程]</b></font> 姜晓恒, 孙柯凡, 邵蒙恩, <b>胡世哲*</b>, 徐明亮: <i><u> 联合类对抗学习和动态融合的可信多模态分类 </u></i>. <font color="green">计算机工程</font>. 2026. (CCF Rank T2) </li></p> 
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机学报]</b></font> <b>胡世哲</b>, 娄铮铮，王若彬，闫小强，叶阳东*: <i><u> 一种双重加权的多视角聚类方法 </u></i>. <font color="green">计算机学报</font>. 43(9), 1708-1720, Sep. 2020. <a href = "http://cjc.ict.ac.cn/online/onlinepaper/08177-%E8%83%A1%E4%B8%96%E5%93%B2-202094103146.pdf">[PDF]</a> (CCF Rank T1) </li></p> 
 
