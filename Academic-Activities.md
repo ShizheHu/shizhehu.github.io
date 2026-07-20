@@ -21,7 +21,7 @@
 
 <i> <b>Area Chair (AC)</b>: ICLR'26、ICML'26 </i>  <br>
 
-<i> <b> Senior Program Committee (SPC) </b>: IJCAI-ECAI'26 </i> 
+<i> <b> Senior Program Committee (SPC) </b>: AAAI'27、IJCAI-ECAI'26 </i> 
 
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
 <i>ICML'24/25</i> <br>
