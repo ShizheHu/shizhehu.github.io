@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">21-Jul-2026</font>] "<b>  Invitation to serve as Senior Program Committee (SPC) </b>" of <font color="green"> AAAI 2027 </font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">10-Jul-2026</font>] "<b>One paper</b>" is accepted by <font color="green">ACM MM'26 (CCF-A)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">29-Jun-2026</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TIP (CCF-A)</font>.</li></p>
