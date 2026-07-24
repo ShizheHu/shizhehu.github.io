@@ -4,7 +4,7 @@
 ## 2026
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhengzheng Lou, Mingyang Lv, Yuhan Zhan, Yingxuan Li, Chaoyang Zhang, and <b>Shizhe Hu*</b>: <i><u> Granular Information Bottleneck for Deep Multi-modal Clustering </u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>)</font>, Accepted, Jun. 2026. (CCF Rank A) <a href = "https://ieeexplore.ieee.org/document/11602744">[PDF]</a> </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhengzheng Lou, Mingyang Lv, Yuhan Zhan, Yingxuan Li, Chaoyang Zhang, and <b>Shizhe Hu*</b>: <i><u> Granular Information Bottleneck for Deep Multi-modal Clustering </u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>)</font>, vol. 35, pp. 7307-7318, Jul. 2026. (CCF Rank A) <a href = "https://ieeexplore.ieee.org/document/11602744">[PDF]</a> </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhengzheng Lou, Yucong Wu, Ke Zhang, Chaoyang Zhang, Bo Ji, and <b>Shizhe Hu*</b>: <i><u> Structure-enhanced Self-supervised Weighted Information Bottleneck for Multiview Clustering </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, Accepted, Jan. 2026. <a href = "https://ieeexplore.ieee.org/document/11365587">[PDF]</a> (CCF Rank B) </li></p> 
 
