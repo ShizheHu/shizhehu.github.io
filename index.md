@@ -24,6 +24,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">26-Jan-2026</font>] "<b>One paper</b>" is accepted by <font color="green">ICLR'26 (CCF-A)</font>.</li></p>
 
+<p style="margin-top: 6px;"><li>[<font color="red">23-Jan-2026</font>] "<b> Serving as <font color="green">Leading Guest Editor</font> of Multi-view Fusion and Learning Special Issue in <font color="green"> Information Fusion </font></b>".  <a href = "https://www.sciencedirect.com/special-issue/329767/multi-view-fusion-and-learning-on-low-quality-data-foundation-models-in-theories-algorithms-and-applications">[Link]</a> </li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">15-Jan-2026</font>] "<b>  Invitation to serve as Senior Program Committee (SPC) </b>" of <font color="green"> IJCAI-ECAI 2026 </font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">12-Jan-2026</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TNNLS (CCF-B)</font>.</li></p>
