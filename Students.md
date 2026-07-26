@@ -149,6 +149,10 @@
 
 <p style="margin-top: 8px;"><li><b>Kewei Li (李科葳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
 
+<p style="margin-top: 8px;"><li><b>Shuai Xi (席帅)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: <a href = "http://www5.zzu.edu.cn/mlis/info/1011/1031.htm">Prof. Zhengzheng Lou</a>.</li></p>
+
+<p style="margin-top: 8px;"><li><b>Yuliang Yan (闫玉良)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. <font face="verdana" color="blue"><b>[Co-Supervisor]</b></font>: Dr. Chaoyang Zhang.</li></p>
+
 <p style="margin-top: 8px;"><li><b>Yongkai Tian (田永凯)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Learning/Embodied Intelligence/Unmanned vehicle. </li></p>
 
 <p style="margin-top: 8px;"><li><b>Jintu Li (李锦途)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Learning/Embodied Intelligence/Unmanned vehicle. </li></p>
