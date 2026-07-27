@@ -101,7 +101,7 @@
 
 <ol>
  
-<p style="margin-top: 8px;"><li><b>Yali Huang (黄雅丽)</b>. <font face="verdana" color="blue"><b>[Project]</b></font>: 国自然面上、安防机器人. <font face="verdana" color="blue"><b>[Research]</b></font>: Embodied Intelligence/Trusted Multi-modal Learning/Unmanned vehicle/Deep Multi-modal Fusion. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>XXX</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Yali Huang (黄雅丽)</b>. <font face="verdana" color="blue"><b>[Research]</b></font>: Embodied Intelligence/Trusted Multi-modal Learning/Unmanned vehicle/Deep Multi-modal Fusion. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>XXX</b>. </li></p>
 
 </ol>
 
@@ -110,7 +110,7 @@
 
 <ol>
  
-<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>. <font face="verdana" color="blue"><b>[Project]</b></font>: 国自然面上. <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Continual Learning/Deep Multi-modal Fusion and Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ACM MM'26、ACM MM'24、AAAI'26 <font face="verdana" color="red"><b>[Oral]</b></font>、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)、 Information Fusion'26、Pattern Recognition'26 (CCF Rank B)、IPM'26 (CCF Rank B)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>. <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Continual Learning/Deep Multi-modal Fusion and Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ACM MM'26、ACM MM'24、AAAI'26 <font face="verdana" color="red"><b>[Oral]</b></font>、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)、 Information Fusion'26、Pattern Recognition'26 (CCF Rank B)、IPM'26 (CCF Rank B)</b>. </li></p>
 
 </ol>
 
@@ -143,25 +143,25 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Yuhang Jing (荆宇航)</b>, <font face="verdana" color="blue"><b>[Project]</b></font>: 省揭榜挂帅-大模型评测. <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
+<p style="margin-top: 8px;"><li><b>Yuhang Jing (荆宇航)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Qi Hu (胡琦)</b>, <font face="verdana" color="blue"><b>[Project]</b></font>: 省揭榜挂帅-大模型评测. <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
+<p style="margin-top: 8px;"><li><b>Qi Hu (胡琦)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Kewei Li (李科葳)</b>, <font face="verdana" color="blue"><b>[Project]</b></font>: 省揭榜挂帅-大模型评测. <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
+<p style="margin-top: 8px;"><li><b>Kewei Li (李科葳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Shuai Xi (席帅)</b>, <font face="verdana" color="blue"><b>[Project]</b></font>: 省揭榜挂帅-大模型评测. <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
+<p style="margin-top: 8px;"><li><b>Shuai Xi (席帅)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Yuliang Yan (闫玉良)</b>, <font face="verdana" color="blue"><b>[Project]</b></font>: 省揭榜挂帅-大模型评测. <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
+<p style="margin-top: 8px;"><li><b>Yuliang Yan (闫玉良)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Yongkai Tian (田永凯)</b>, <font face="verdana" color="blue"><b>[Project]</b></font>: 安防机器人. <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Learning/Embodied Intelligence/Unmanned vehicle. </li></p>
+<p style="margin-top: 8px;"><li><b>Yongkai Tian (田永凯)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Learning/Embodied Intelligence/Unmanned vehicle. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Jintu Li (李锦途)</b>, <font face="verdana" color="blue"><b>[Project]</b></font>: 安防机器人. <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Learning/Embodied Intelligence/Unmanned vehicle. </li></p>
+<p style="margin-top: 8px;"><li><b>Jintu Li (李锦途)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Learning/Embodied Intelligence/Unmanned vehicle. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Qinjie Shi (史勤杰)</b>, <font face="verdana" color="blue"><b>[Project]</b></font>: 安防机器人. <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Learning/Embodied Intelligence/Unmanned vehicle. </li></p>
+<p style="margin-top: 8px;"><li><b>Qinjie Shi (史勤杰)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Learning/Embodied Intelligence/Unmanned vehicle. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Jingyi Zhao (赵靖一)</b>, <font face="verdana" color="blue"><b>[Project]</b></font>: 国自然面上. <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. </li></p>
+<p style="margin-top: 8px;"><li><b>Jingyi Zhao (赵靖一)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Mengke Zhang (张梦珂)</b>, <font face="verdana" color="blue"><b>[Project]</b></font>: 国自然面上. <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
+<p style="margin-top: 8px;"><li><b>Mengke Zhang (张梦珂)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
 
 </ol>
 
