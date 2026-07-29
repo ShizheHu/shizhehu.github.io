@@ -10,7 +10,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Information Fusion]</b></font> Guoliang Zou, <b>Shizhe Hu*</b>, Tongji Chen, Yangdong Ye*: <i><u> Stop Pushing Friends Away: Trustworthy Hybrid Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Fusion</font>, Accepted, Jun. 2026.  <a href = "https://www.sciencedirect.com/science/article/abs/pii/S1566253526004434">[PDF]</a> </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> Guoliang Zou, <b>Shizhe Hu*</b>, Sijia Li, Yuyang Du, Tongji Chen, Yangdong Ye*: <i><u> Reliable Continual Multi-modal Clustering</u></i>. <font color="green"> Pattern Recognition</font>, Accepted, Jul. 2026. </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> Guoliang Zou, <b>Shizhe Hu*</b>, Sijia Li, Yuyang Du, Tongji Chen, Yangdong Ye*: <i><u> Reliable Continual Multi-modal Clustering</u></i>. <font color="green"> Pattern Recognition</font>, 114527, Dec. 2026. <a href = "https://www.sciencedirect.com/science/article/pii/S0031320326014913">[PDF]</a> (CCF Rank B) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Tongji Chen#, Guoliang Zou#, <b>Shizhe Hu*</b>, Yangdong Ye*: <i><u>Cross-modal Information Propagation for Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, Accepted, 2026. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457325005369">[PDF]</a> (CCF Rank B) </li></p>
 
