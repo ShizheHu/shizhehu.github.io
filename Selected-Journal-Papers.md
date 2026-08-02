@@ -3,6 +3,8 @@
 
 ## 2026
 <ol>
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> <b>Shizhe Hu</b>, Jiahao Fan, Yucong Wu, Jinlan Wang, Xiaoheng Jiang, Pei Lv, Mingliang Xu*: <i><u> To the Best of Trust: Full-Stage Trusted Multi-modal Clustering </u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>)</font>, Accepted, Aug. 2026. (CCF Rank A) </li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Zhengzheng Lou, Mingyang Lv, Yuhan Zhan, Yingxuan Li, Chaoyang Zhang, and <b>Shizhe Hu*</b>: <i><u> Granular Information Bottleneck for Deep Multi-modal Clustering </u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>)</font>, 35: 7307-7318, Jul. 2026. (CCF Rank A) <a href = "https://ieeexplore.ieee.org/document/11602744">[PDF]</a> </li></p> 
 
