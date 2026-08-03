@@ -91,6 +91,7 @@
 
 
 <p style="margin-top: 8px;"><li><b>Committee</b>:</li></p>
+<i> 中国计算机学会人工智能与模式识别专业委员会执行委员 (CCF TCAIPR)  </i>  <br>
 <i> 中国计算机学会多媒体专委会执行委员 (CCF-MM)  </i>  <br>
 <i> 中国图象图形学学会多媒体专委会执行委员 (CSIG-MM)  </i>  <br>
 <i> 中国图象图形学学会视觉大数据专委会执行委员 (CSIG-BVD)  </i>  <br>
