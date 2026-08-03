@@ -91,12 +91,12 @@
 
 
 <p style="margin-top: 8px;"><li><b>Committee</b>:</li></p>
-<i> 中国计算机学会人工智能与模式识别专业委员会执行委员 (CCF TCAIPR)  </i>  <br>
-<i> 中国计算机学会多媒体专委会执行委员 (CCF-MM)  </i>  <br>
-<i> 中国图象图形学学会多媒体专委会执行委员 (CSIG-MM)  </i>  <br>
-<i> 中国图象图形学学会视觉大数据专委会执行委员 (CSIG-BVD)  </i>  <br>
-<i> 中国自动化学会模式识别与机器智能专委会执行委员 (CAA-PRMI)  </i>  <br>
-<i> 中国人工智能学会机器学习专委会通讯委员 (CAAI-ML)  </i>  <br>
+<i> 中国计算机学会，人工智能与模式识别专业委员会，执行委员 (CCF TCAIPR)  </i>  <br>
+<i> 中国计算机学会，多媒体专委会，执行委员 (CCF-MM)  </i>  <br>
+<i> 中国图像图形学会，多媒体专委会，执行委员 (CSIG-MM)  </i>  <br>
+<i> 中国图像图形学会，视觉大数据专委会，执行委员 (CSIG-BVD)  </i>  <br>
+<i> 中国自动化学会，模式识别与机器智能专委会，执行委员 (CAA-PRMI)  </i>  <br>
+<i> 中国人工智能学会，机器学习专委会，通讯委员 (CAAI-ML)  </i>  <br>
 
 
 <p style="margin-top: 8px;"><li><b>Other Services</b>:</li></p>
