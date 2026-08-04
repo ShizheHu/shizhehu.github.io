@@ -195,6 +195,8 @@
 
 <ol>
 
+<p style="margin-top: 8px;"><li><b>Kai Chen (陈锴)</b>, 2023~2027：指导23级本科生陈锴以第一作者发表中科院TOP一区、CCF B类推荐期刊Pattern Recognition 论文一篇.</li></p>
+
 <p style="margin-top: 8px;"><li><b>Weibo Liu (刘伟博)</b>, 2022~2026：指导以刘伟博为负责人的2024年郑州大学大学生创新创业训练计划项目获得一般项目支持.</li></p>
 
 </ol>
