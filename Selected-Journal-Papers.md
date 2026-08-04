@@ -14,6 +14,8 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> Guoliang Zou, <b>Shizhe Hu*</b>, Sijia Li, Yuyang Du, Tongji Chen, Yangdong Ye*: <i><u> Reliable Continual Multi-modal Clustering</u></i>. <font color="green"> Pattern Recognition</font>, 114527, Dec. 2026. <a href = "https://www.sciencedirect.com/science/article/pii/S0031320326014913">[PDF]</a> (CCF Rank B) </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> Kai Chen, Qiming Wang, Zhuoyue Qin, Youwei Wang*, <b>Shizhe Hu*</b>: <i><u> SpongeNet: Preserving Forgery Traces by Knowledge Sponge with Binary Information Bottleneck for Deepfake Detection </u></i>. <font color="green"> Pattern Recognition</font>, Aug. 2026.  (CCF Rank B) </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Tongji Chen#, Guoliang Zou#, <b>Shizhe Hu*</b>, Yangdong Ye*: <i><u>Cross-modal Information Propagation for Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, Accepted, 2026. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457325005369">[PDF]</a> (CCF Rank B) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EITEE]</b></font> Yanzheng Wang#, Yujun Wang#, Fengshuo Dai, Xin Yang, Xiaoheng Jiang, Pei Lv, <b>Shizhe Hu*</b>, Mingliang Xu*: <i><u> Multi-stage Contrastive Multi-modal Clustering with Consistency Retained </u></i>. <font color="green"> ENGINEERING Information Technology & Electronic Engineering (<b>EITEE</b>)</font>, Accepted, Jun. 2026.  <a href = "https://ieeexplore.ieee.org/abstract/document/11618957">[PDF]</a> (CCF Rank T1) </li></p>
