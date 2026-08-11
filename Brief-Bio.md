@@ -24,7 +24,6 @@ Also you can contact me with WeChat ID (微信号): hushizhe_zzu.
 My Latest CV: <a href = "https://github.com/ShizheHu/shizhehu.github.io/blob/main/CV_ShizheHu_202607.pdf">[PDF]</a>
 
 DBLP: [[DBLP]](https://dblp.org/pid/208/4268.html)\
-
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=AwzvxQEAAAAJ&hl=en&authuser=1&oi=ao)
 
 
