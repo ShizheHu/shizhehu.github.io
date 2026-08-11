@@ -13,15 +13,20 @@ His primary research interests focus on <b> Information Bottleneck Theory, Multi
 
 胡世哲，郑州大学直聘研究员，博导，IEEE Senior Member，河南省优青。主要研究具身多模态感知、可信多模态学习、信息瓶颈 (Information Bottleneck，IB)等。已以第一/通讯作者在IEEE TPAMI、TIP、TKDE、FCS、计算机学报等重要期刊及ICLR、NeurIPS、ICML等重要国际会议发表论文30余篇，发表后得到国内外广泛关注和积极评价。信息瓶颈IB理论综述“A Survey on Information Bottleneck”被顶级国际期刊IEEE TPAMI评选为 “最受欢迎文章”之一。担任期IEEE Transactions on Image Processing (TIP) 和 Pattern Recognition (PR) 的副编辑 (AE)，以及会议ICLR 和ICML的领域主席 (AC)。现任VALSE第九届执行AC、CCF人工智能与模式识别专委会（CCF-AI）执行委员、CSIG青工委委员等。主持国自然面上/青年项目、河南省优青项目、省重大科技专项子课题等。获得荣誉包括ACM郑州分会优博奖与新星奖、省教育厅科技成果一等奖。主讲《高级语言程序设计》、《数据库系统原理》等本科课程，培养硕博生10余人。
 
+# Contact Information 
 
 Please drop me a message if you have interests with me by email: <u>ieshizhehu@zzu.edu.cn</u> or <u>ieshizhehu@gmail.com</u>. 
 
 Also you can contact me with WeChat ID (微信号): hushizhe_zzu. 
 
+# My CV and Homepage
+
 My Latest CV: <a href = "https://github.com/ShizheHu/shizhehu.github.io/blob/main/CV_ShizheHu_202607.pdf">[PDF]</a>
 
 DBLP: [[DBLP]](https://dblp.org/pid/208/4268.html)\
+
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=AwzvxQEAAAAJ&hl=en&authuser=1&oi=ao)
+
 
 # Representative Work 
 (\# denotes co-first author, \* denotes the corresponding author)
