@@ -1,6 +1,10 @@
 ---
 ---
 
+# 个人简介
+
+胡世哲，郑州大学直聘研究员，博导，IEEE Senior Member，河南省优青。主要研究具身多模态感知、可信多模态学习、信息瓶颈 (Information Bottleneck，IB)等。已以第一/通讯作者在IEEE TPAMI、TIP、TKDE、FCS、计算机学报等重要期刊及ICLR、NeurIPS、ICML等重要国际会议发表论文30余篇，发表后得到国内外广泛关注和积极评价。信息瓶颈IB理论综述“A Survey on Information Bottleneck”被顶级国际期刊IEEE TPAMI评选为 “最受欢迎文章”之一。担任期IEEE Transactions on Image Processing (TIP) 和 Pattern Recognition (PR) 的副编辑 (AE)，以及会议ICLR 和ICML的领域主席 (AC)。现任VALSE第九届执行AC、CCF人工智能与模式识别专委会（CCF-AI）执行委员、CSIG青工委委员等。主持国自然面上/青年项目、河南省优青项目、省重大科技专项子课题等。获得荣誉包括ACM郑州分会优博奖与新星奖、省教育厅科技成果一等奖。主讲《高级语言程序设计》、《数据库系统原理》等本科课程，培养硕博生10余人。
+
 # Brief Bio
 
 Dr. Shizhe Hu is currently a research fellow affiliated with the School of Computer Science and Artificial Intelligence at Zhengzhou University. He obtained the Ph.D degree of Software Engineering from Zhengzhou University in 2021, supervised by Professor Yangdong Ye. He obtained the honors of ACM Rising Star Award, ACM Zhengzhou, 2023 and ACM Outstanding Ph.D. Dissertation Award, ACM Zhengzhou, 2021. 
@@ -8,10 +12,6 @@ Dr. Shizhe Hu is currently a research fellow affiliated with the School of Compu
 Dr. Hu presided over five projects, including the National Natural Science Foundation of China, China Postdoctoral Science Foundation, Sub‑project​ of Henan Province Major Industrial "Challenge-Based Innovation" and Henan Province Outstanding Youth Science Fund Program.
 
 His primary research interests focus on <b> Information Bottleneck Theory, Multi-view/Multi-modal Learning, Trustworthy Analysis, Continual Learning, Granular Computing, Federated Learning, Clustering Analysis, Unsupervised Representation Learning, and Large Model Evaluation and Safety</b>. He has published more than 30 papers on the TOP journals and conferences, such as IEEE TPAMI, TIP, TKDE, TNNLS, TCYB, Information Fusion, Pattern Recognition, ICLR, NeurIPS, ICML, CVPR, AAAI, IJCAI and ACM MM. In addition, He also served as the Associate Editor (AE) of IEEE Transactions on Image Processing (IEEE TIP) and Pattern Recognition (PR), and Editorial Board member of Information Processing and Management (IP&M), and also served as the Area Chair (AC) of ICLR and ICML, and Senior Program Committee (SPC) of AAAI and IJCAI-ECAI. He served as the reviewer of more than 30 international journals and conferences, including IEEE TPAMI, TNNLS, TIP, ICML, NeurIPS, AAAI, IJCAI, CVPR, ACM MM, etc. He is an IEEE Senior Member.
-
-# 个人简介
-
-胡世哲，郑州大学直聘研究员，博导，IEEE Senior Member，河南省优青。主要研究具身多模态感知、可信多模态学习、信息瓶颈 (Information Bottleneck，IB)等。已以第一/通讯作者在IEEE TPAMI、TIP、TKDE、FCS、计算机学报等重要期刊及ICLR、NeurIPS、ICML等重要国际会议发表论文30余篇，发表后得到国内外广泛关注和积极评价。信息瓶颈IB理论综述“A Survey on Information Bottleneck”被顶级国际期刊IEEE TPAMI评选为 “最受欢迎文章”之一。担任期IEEE Transactions on Image Processing (TIP) 和 Pattern Recognition (PR) 的副编辑 (AE)，以及会议ICLR 和ICML的领域主席 (AC)。现任VALSE第九届执行AC、CCF人工智能与模式识别专委会（CCF-AI）执行委员、CSIG青工委委员等。主持国自然面上/青年项目、河南省优青项目、省重大科技专项子课题等。获得荣誉包括ACM郑州分会优博奖与新星奖、省教育厅科技成果一等奖。主讲《高级语言程序设计》、《数据库系统原理》等本科课程，培养硕博生10余人。
 
 # Contact Information 
 
