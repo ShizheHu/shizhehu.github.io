@@ -92,7 +92,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EITEE]</b></font> Yanzheng Wang#, Yujun Wang#, Fengshuo Dai, Xin Yang, Xiaoheng Jiang, Pei Lv, <b>Shizhe Hu*</b>, Mingliang Xu*: <i><u> Multi-stage Contrastive Multi-modal Clustering with Consistency Retained </u></i>. <font color="green"> ENGINEERING Information Technology & Electronic Engineering (<b>EITEE</b>)</font>, Accepted, Jun. 2026.  <a href = "https://ieeexplore.ieee.org/abstract/document/11618957">[PDF]</a> <font face="verdana" color="red"><b>[Cover Article 封面文章 in Aug. 2026]</b></font> (CCF Rank T1) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EITEE]</b></font> Yanzheng Wang#, Yujun Wang#, Fengshuo Dai, Xin Yang, Xiaoheng Jiang, Pei Lv, <b>Shizhe Hu*</b>, Mingliang Xu*: <i><u> Multi-stage Contrastive Multi-modal Clustering with Consistency Retained </u></i>. <font color="green"> ENGINEERING Information Technology & Electronic Engineering (<b>EITEE</b>)</font>, Accepted, Jun. 2026.  <a href = "https://ieeexplore.ieee.org/abstract/document/11618957">[PDF]</a> <font face="verdana" color="red"><b>[Cover Article (封面文章) in Aug. 2026]</b></font> (CCF Rank T1) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[FCS]</b></font> <b>Shizhe Hu</b>, Jinlan Wang, Jiahao Fan, Sijia Li, Jin Qin, Xiaoheng Jiang, Pei Lv, and Mingliang Xu*: <i><u> Relational Contrastive Multi-view Clustering</u></i>. <font color="green"> Frontiers of Computer Science (<b>FCS</b>)</font>, Accepted, Jan. 2026.  <a href = "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51585-z">[PDF]</a> (CCF Rank T1) </li></p>
 
