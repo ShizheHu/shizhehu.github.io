@@ -176,7 +176,7 @@
 
 <p style="margin-top: 8px;"><li><b>Shuaiju Li (李帅举)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> EITEE (CCF Rank T1).</b> </li></p>
+<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> EITEE (CCF Rank T1, <font face="verdana" color="red"><b>[Cover Article (封面文章) in Aug. 2026]</b></font>).</b> </li></p>
 
 <p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ACM MM'26 (CCF Rank A)</b>. </li></p>
 
@@ -224,7 +224,7 @@
 
 <p style="margin-top: 8px;"><li><b>Jiahao Fan (范嘉豪)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Self-supervised Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'25、IEEE TIP'26 (CCF Rank A)</b>;  <font face="verdana" color="blue"><b>[荣誉]</b></font>：郑州大学2025年研究生国家奖学金. <font face="verdana" color="blue"><b>[毕业去向]</b></font>: 郑州大学攻读博士学位. <font face="verdana" color="blue"><b>[邮箱]</b></font>: fanjiahao_zz@outlook.com. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> NeurIPS'25 (CCF Rank A)、EITEE (CCF Rank T1).</b> <font face="verdana" color="blue"><b>[毕业去向]</b></font>: 东南大学攻读博士学位. <font face="verdana" color="blue"><b>[邮箱]</b></font>: wyz123456111@gmail.com.</li></p>
+<p style="margin-top: 8px;"><li><b>Yanzheng Wang (王彦铮)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> NeurIPS'25 (CCF Rank A)、EITEE (CCF Rank T1, <font face="verdana" color="red"><b>[Cover Article (封面文章) in Aug. 2026]</b></font>).</b> <font face="verdana" color="blue"><b>[毕业去向]</b></font>: 东南大学攻读博士学位. <font face="verdana" color="blue"><b>[邮箱]</b></font>: wyz123456111@gmail.com.</li></p>
 
 <p style="margin-top: 8px;"><li><b>Tongji Chen (陈同济)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>AAAI'26 <font face="verdana" color="red"><b> [Oral] </b></font> (CCF Rank A)、IPM'26 (CCF Rank B) </b>. <font face="verdana" color="blue"><b>[毕业去向]</b></font>: 曙光信息产业有限公司. <font face="verdana" color="blue"><b>[邮箱]</b></font>: iechentj@163.com. </li></p>  
 
