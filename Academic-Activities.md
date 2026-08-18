@@ -11,6 +11,8 @@
 
 <i> <b>Editorial Board</b>: Information Processing and Management (IP&M), 2025.07-Now <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a> </i> <br>
 
+<br>
+
 <i> <b> Leading Guest Editor</b>: Informatioin Fusion Journal, DDL: 30. Aug, 2026, Special Issue: Multi-view Fusion and Learning on Low-quality Data: Foundation Models in Theories, Algorithms and Applications <a href = "https://www.sciencedirect.com/special-issue/329767/multi-view-fusion-and-learning-on-low-quality-data-foundation-models-in-theories-algorithms-and-applications">[Link]</a> </i>  <br>
 
 <i> <b> Leading Guest Editor</b>: Technologies Journal, DDL: 28. Feb, 2027, Special Issue: Information-Theoretic Foundations for Modern AI: From Information Bottleneck to Learning Systems <a href = "https://www.mdpi.com/journal/technologies/special_issues/F4TJV60252">[Link]</a> </i> <br>
