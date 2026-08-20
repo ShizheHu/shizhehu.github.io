@@ -77,6 +77,28 @@
 
 <p style="margin-top: 8px;"><li><b>Talk</b>: </li></p>  
 
+<i> <b> Host </b>: VALSE Webinar 26-23期 总第428期 多模态学习探索：结构、协同与统一, 19-Aug-2026<a href = "https://mp.weixin.qq.com/s/QnXjtmUiFMUZCEjQDQAIYg?scene=1&click_id=1401247333">[link]</a> </i><br>
+
+<i> <b> Host </b>: ChinaMM 中国多媒体大会 2026，专题论坛：非理想场景下的多模态智能：鲁棒感知、复杂推理与融合应用, 01-Aug-2026<a href = "https://chinamm.csig.org.cn/2026/forum.html">[link]</a> </i><br>
+
+<i> <b> Host </b>: CCIG 中国图像图形大会 2026，专题论坛: 大模型泛化的边界：长尾挑战与持续学习论坛, 31-May-2026<a href = "https://ccig.csig.org.cn/2026/11410/list.html">[link]</a> </i><br>
+
+<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+
+<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+
+<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+
+<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+
+<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+
+<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+
+<i> <b> Invited Speaker </b>: 信息理论驱动的复杂多模态数据融合与聚类, 安徽工业大学计算机科学与技术学院邀请，15-Mar-2026 <a href = "https://cs.ahut.edu.cn/info/1077/4418.htm">[link]</a>  <a href = "https://cs.ahut.edu.cn/info/1076/4432.htm">[link]</a> </i><br>
+
+<i> <b> Invited Speaker </b>: DeepSeek大模型核心技术与应用实践, 11-Mar-2025<a href = "https://www.sohu.com/a/871337863_120125238">[link]</a> </i><br>
+
 <i> <b>Invited Speaker</b>: for the 5th Inter. Conf. Pattern Recognition and Artificial Intelligence (PRAI 2022) at Chengdu, China, 19-Aug-2022<a href = "http://www.prai.net/prai2022.html">[link]</a> </i><br>
 
 <i> <b>Spotlight Paper</b>: for 2024 Chinese Congress on Image and Graphics (CCIG 2024) at Xian, China, 24-May-2024<a href = "http://ccig.csig.org.cn/spotlight/">[link]</a> </i>
