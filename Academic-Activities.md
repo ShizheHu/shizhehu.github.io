@@ -83,13 +83,13 @@
 
 <i> <b> Host </b>: CCIG 中国图像图形大会 2026，专题论坛: 大模型泛化的边界：长尾挑战与持续学习论坛, 31-May-2026<a href = "https://ccig.csig.org.cn/2026/11410/list.html">[link]</a> </i><br>
 
-<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+<i> <b> Invited Speaker </b>: 开展DeepSeek大模型专题培训，郑州航空港, 18-Feb-2025 <a href = "https://www7.zzu.edu.cn/csai/info/1146/3118.htm">[link]</a> </i><br>
 
-<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+<i> <b> Invited Speaker </b>: 《DeepSeek大模型核心技术与应用实践》, 开封大学“开大讲坛”第三十九讲，校领导班子成员出席讲座，23-May-2025<a href = "http://www.lianpp.com/kfu/mu_www/info/1236/24833.htm">[link]</a> </i><br>
 
-<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+<i> <b> Invited Speaker </b>: 大模型赋能高校行政教辅工作减负增效：工具、场景与实践, 河南牧业经济学院龙子湖校区 人工智能赋能行政办公减负增效专题培训，16-Dec-2025 <a href = "https://www.hnuahe.edu.cn/info/1033/12325.htm">[link]</a>  <a href = "https://jsfzzx.hnuahe.edu.cn/info/1126/1837.htm">[link]</a>  </i><br>
 
-<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+<i> <b> Invited Speaker </b>: 人工智能与 DeepSeek 大模型技术应用, 第一期“河南经贸职业学院AI大讲堂”， 19-Nov-2025<a href = "https://jsjgc.henetc.edu.cn/info/1012/5409.htm">[link]</a> </i><br>
 
 <i> <b> Invited Speaker </b>: DeepSeek大模型核心技术与应用实践, 省医临床医学院专题报告，24-Apr-2025<a href = "https://www7.zzu.edu.cn/sylcyxy/info/1115/2785.htm">[link]</a> </i><br>
 
