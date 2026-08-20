@@ -91,13 +91,13 @@
 
 <i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
 
-<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+<i> <b> Invited Speaker </b>: DeepSeek大模型核心技术与应用实践, 省医临床医学院专题报告，24-Apr-2025<a href = "https://www7.zzu.edu.cn/sylcyxy/info/1115/2785.htm">[link]</a> </i><br>
 
-<i> <b> Invited Speaker </b>: , 31-May-2026<a href = "">[link]</a> </i><br>
+<i> <b> Invited Speaker </b>: 拥抱AI时代，解锁交叉学科科研新素养,计算机与人工智能学院“研途同行·导学下午茶”活动，18-05-2026<a href = "https://www5.zzu.edu.cn/ygb/info/1071/10535.htm">[link]</a> </i><br>
 
 <i> <b> Invited Speaker </b>: 信息理论驱动的复杂多模态数据融合与聚类, 安徽工业大学计算机科学与技术学院邀请，15-Mar-2026 <a href = "https://cs.ahut.edu.cn/info/1077/4418.htm">[link]</a>  <a href = "https://cs.ahut.edu.cn/info/1076/4432.htm">[link]</a> </i><br>
 
-<i> <b> Invited Speaker </b>: DeepSeek大模型核心技术与应用实践, 11-Mar-2025<a href = "https://www.sohu.com/a/871337863_120125238">[link]</a> </i><br>
+<i> <b> Invited Speaker </b>: DeepSeek大模型核心技术与应用实践, 郑州医药健康职业学院作专题报告，11-Mar-2025<a href = "https://www.sohu.com/a/871337863_120125238">[link]</a> </i><br>
 
 <i> <b>Invited Speaker</b>: for the 5th Inter. Conf. Pattern Recognition and Artificial Intelligence (PRAI 2022) at Chengdu, China, 19-Aug-2022<a href = "http://www.prai.net/prai2022.html">[link]</a> </i><br>
 
