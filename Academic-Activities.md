@@ -13,11 +13,11 @@
 
 <br>
 
-<i> <b> Leading Guest Editor</b>: Informatioin Fusion Journal, DDL: 30. Aug, 2026, Special Issue: Multi-view Fusion and Learning on Low-quality Data: Foundation Models in Theories, Algorithms and Applications <a href = "https://www.sciencedirect.com/special-issue/329767/multi-view-fusion-and-learning-on-low-quality-data-foundation-models-in-theories-algorithms-and-applications">[Link]</a> </i>  <br>
+<i> <b> Leading Guest Editor</b>: Informatioin Fusion Journal, From 31-Jan-2026 To 31-Oct-2026, Special Issue: Multi-view Fusion and Learning on Low-quality Data: Foundation Models in Theories, Algorithms and Applications <a href = "https://www.sciencedirect.com/special-issue/329767/multi-view-fusion-and-learning-on-low-quality-data-foundation-models-in-theories-algorithms-and-applications">[Link]</a> </i>  <br>
 
-<i> <b> Leading Guest Editor</b>: Technologies Journal, DDL: 28. Feb, 2027, Special Issue: Information-Theoretic Foundations for Modern AI: From Information Bottleneck to Learning Systems <a href = "https://www.mdpi.com/journal/technologies/special_issues/F4TJV60252">[Link]</a> </i> <br>
+<i> <b> Leading Guest Editor</b>: Technologies Journal, From 21-Oct-2025 To 28-Feb-2027, Special Issue: Information-Theoretic Foundations for Modern AI: From Information Bottleneck to Learning Systems <a href = "https://www.mdpi.com/journal/technologies/special_issues/F4TJV60252">[Link]</a> </i> <br>
 
-<i> <b> Guest Editor</b>: Pattern Recognition Journal, DDL: 31. Oct, 2026, Special Issue: Evolving Multi-View Learning: From Theory to High-Impact Applications <a href = "https://www.sciencedirect.com/special-issue/327380/evolving-multi-view-learning-from-theory-to-high-impact-applications">[Link]</a> </i>  <br>
+<i> <b> Guest Editor</b>: Pattern Recognition Journal, from 15-Nov-2025 to 31-Oct-2026, Special Issue: Evolving Multi-View Learning: From Theory to High-Impact Applications <a href = "https://www.sciencedirect.com/special-issue/327380/evolving-multi-view-learning-from-theory-to-high-impact-applications">[Link]</a> </i>  <br>
 
 <p style="margin-top: 8px;"><li><b>Area Chair/Senior Program Committee for Conferences</b>:</li></p>
 
