@@ -135,6 +135,8 @@
 
 <p style="margin-top: 8px;"><li><b>Sen Hui (惠森)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
 
+<p style="margin-top: 8px;"><li><b>Biyun Jia (贾碧云)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
+
 
 </ol>
 
