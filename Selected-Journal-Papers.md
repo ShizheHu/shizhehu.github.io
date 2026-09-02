@@ -4,7 +4,7 @@
 ## 2027
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[FCS]</b></font> <b>Shizhe Hu</b>, Jinlan Wang, Jiahao Fan, Sijia Li, Jin Qin, Xiaoheng Jiang, Pei Lv, and Mingliang Xu*: <i><u> Relational Contrastive Multi-view Clustering</u></i>. <font color="green"> Frontiers of Computer Science (<b>FCS</b>)</font>, Accepted, Jan. 2026. (CCF Rank T1) <a href = "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51585-z">[PDF]</a>  <a href = "https://github.com/ShizheHu/RCMVC-FCS2026">[Code]</a>  </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[FCS]</b></font> <b>Shizhe Hu</b>, Jinlan Wang, Jiahao Fan, Sijia Li, Jin Qin, Xiaoheng Jiang, Pei Lv, and Mingliang Xu*: <i><u> Relational Contrastive Multi-view Clustering</u></i>. <font color="green"> Frontiers of Computer Science (<b>FCS</b>)</font>, 2027, 21 (2): 2102320. (CCF Rank T1) <a href = "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51585-z">[PDF]</a>  <a href = "https://github.com/ShizheHu/RCMVC-FCS2026">[Code]</a>  </li></p>
 
 </ol>
 
