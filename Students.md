@@ -92,6 +92,7 @@
 
 </ol>
 
+
 <br>
 
 # 在读 (博士) / PhD Candidate
@@ -113,6 +114,7 @@
 <p style="margin-top: 8px;"><li><b>Guoliang Zou (邹国梁)</b>. <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Continual Learning/Deep Multi-modal Fusion and Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ACM MM'26、ACM MM'24、AAAI'26 <font face="verdana" color="red"><b>[Oral]</b></font>、AAAI'25 (CCF Rank A)、Information Sciences'25 (CCF Rank B)、 Information Fusion'26、Pattern Recognition'26 (CCF Rank B)、IPM'26 (CCF Rank B)</b>. </li></p>
 
 </ol>
+
 
 <br>
 
