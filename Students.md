@@ -186,7 +186,7 @@
 
 <br>
 
-# 在读 (本科) / Undergraduate
+# 在读/已毕业 (本科) / Undergraduate
 【论文均为[学生(共同)一作]】
 
 <ol>
