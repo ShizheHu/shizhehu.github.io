@@ -10,6 +10,8 @@
 
 ## 2026
 <ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PrePrint]</b></font> Long Shi*, Yunshan Ye, Yuexin Chen, Jie Liu, Zongbo Han, <b>Shizhe Hu</b>, Cai Xu, Jie Wen, Gang Kou, Wei Zhao, Ziyu Guan, Changqing Zhang, and Badong Chen*: <i><u> A Survey of Multi-view Learning: An Evidential Perspective </u></i>. <font color="green"> ResearchGate (<b> Preprint</b>) </font>, Jul. 2026. <a href = "https://www.researchgate.net/publication/409001816_A_Survey_of_Multi-view_Learning_An_Evidential_Perspective">[PDF]</a> </li></p> 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> <b>Shizhe Hu</b>, Jiahao Fan, Yucong Wu, Jinlan Wang, Xiaoheng Jiang, Pei Lv, Mingliang Xu*: <i><u> To the Best of Trust: Full-Stage Trusted Multi-modal Clustering </u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>) </font>, 35: 8635-8647, Aug. 2026. (CCF Rank A) <a href = "https://ieeexplore.ieee.org/document/11646956">[PDF]</a> </li></p> 
 
