@@ -139,15 +139,15 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Yuhang Jing (荆宇航)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
+<p style="margin-top: 8px;"><li><b>Yuhang Jing (荆宇航)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety (Dataset Automatic Augmentation). </li></p>
 
-<p style="margin-top: 8px;"><li><b>Qi Hu (胡琦)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
+<p style="margin-top: 8px;"><li><b>Qi Hu (胡琦)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety (Dataset Construction). </li></p>
 
-<p style="margin-top: 8px;"><li><b>Kewei Li (李科葳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. </li></p>
+<p style="margin-top: 8px;"><li><b>Kewei Li (李科葳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety (Dataset Automatic Augmentation). </li></p>
 
-<p style="margin-top: 8px;"><li><b>Shuai Xi (席帅)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
+<p style="margin-top: 8px;"><li><b>Shuai Xi (席帅)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety (Dataset Automatic Augmentation). <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Yuliang Yan (闫玉良)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
+<p style="margin-top: 8px;"><li><b>Yuliang Yan (闫玉良)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety (Dataset Contamination Mitigation). <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
 
 <p style="margin-top: 8px;"><li><b>Yongkai Tian (田永凯)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Trusted Multi-modal Learning/Embodied Intelligence/Unmanned vehicle. </li></p>
 
