@@ -139,9 +139,9 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Yuhang Jing (荆宇航)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety (Dataset Automatic Augmentation). </li></p>
-
 <p style="margin-top: 8px;"><li><b>Qi Hu (胡琦)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety (Dataset Construction). </li></p>
+
+<p style="margin-top: 8px;"><li><b>Yuhang Jing (荆宇航)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety (Dataset Automatic Augmentation). </li></p>
 
 <p style="margin-top: 8px;"><li><b>Kewei Li (李科葳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Large Model Evaluation and Safety (Dataset Automatic Augmentation). </li></p>
 
