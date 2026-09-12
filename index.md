@@ -8,6 +8,10 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">09-Sep-2026</font>] "<b> Congratulations to my PhD student (Guoliang Zou) awarded <font color="green">National Scholarship 2026!</font></b>".</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">09-Sep-2026</font>] "<b> Congratulations to my master's students (Zhangwen Gou, Yuhan Zhan, Mingyang Lv) awarded <font color="green">National Scholarship 2026!</font></b>".</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">31-Aug-2026</font>] "<b>  Our article "Multi-stage Contrastive Multi-modal Clustering with Consistency Retained" has been selected as </b> <font color="green">" Cover Article (封面文章) in Aug. 2026 "</font> of EITEE journal .</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">13-Aug-2026</font>] "<b>  Invitation to serve as Area Chair </b>" of <font color="green"> ICLR 2027 </font>.</li></p>
