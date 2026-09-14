@@ -4,7 +4,10 @@
 ## 2027
 <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> Kai Chen, Qiming Wang, Zhuoyue Qin, Youwei Wang*, <b>Shizhe Hu*</b>: <i><u> SpongeNet: Preserving Forgery Traces by Knowledge Sponge with Binary Information Bottleneck for Deepfake Detection </u></i>. <font color="green"> Pattern Recognition</font>, Feb. 2027. (CCF Rank B)  <a href = "https://www.sciencedirect.com/science/article/pii/S0031320326015657">[PDF]</a> <a href = "https://github.com/1Happ-cyber/Deepfake-SpongeNet">[Code]</a> </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[FCS]</b></font> <b>Shizhe Hu</b>, Jinlan Wang, Jiahao Fan, Sijia Li, Jin Qin, Xiaoheng Jiang, Pei Lv, and Mingliang Xu*: <i><u> Relational Contrastive Multi-view Clustering</u></i>. <font color="green"> Frontiers of Computer Science (<b>FCS</b>)</font>, 2027, 21 (2): 2102320. (CCF Rank T1) <a href = "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51585-z">[PDF]</a>  <a href = "https://github.com/ShizheHu/RCMVC-FCS2026">[Code]</a>  </li></p>
+
 
 </ol>
 
@@ -21,13 +24,11 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS]</b></font> Zhengzheng Lou, Yucong Wu, Ke Zhang, Chaoyang Zhang, Bo Ji, and <b>Shizhe Hu*</b>: <i><u> Structure-enhanced Self-supervised Weighted Information Bottleneck for Multiview Clustering </u></i>. <font color="green"> IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>, 2026, 37 (8): 3727 - 3740. <a href = "https://ieeexplore.ieee.org/document/11365587">[PDF]</a> (CCF Rank B) </li></p> 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Information Fusion]</b></font> Guoliang Zou, <b>Shizhe Hu*</b>, Tongji Chen, Yangdong Ye*: <i><u> Stop Pushing Friends Away: Trustworthy Hybrid Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Fusion</font>, Accepted, Jun. 2026.  <a href = "https://www.sciencedirect.com/science/article/abs/pii/S1566253526004434">[PDF]</a> </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Information Fusion]</b></font> Guoliang Zou, <b>Shizhe Hu*</b>, Tongji Chen, Yangdong Ye*: <i><u> Stop Pushing Friends Away: Trustworthy Hybrid Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Fusion</font>, 104565, Dec. 2026.  <a href = "https://www.sciencedirect.com/science/article/abs/pii/S1566253526004434">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> Guoliang Zou, <b>Shizhe Hu*</b>, Sijia Li, Yuyang Du, Tongji Chen, Yangdong Ye*: <i><u> Reliable Continual Multi-modal Clustering</u></i>. <font color="green"> Pattern Recognition</font>, 114527, Dec. 2026. <a href = "https://www.sciencedirect.com/science/article/pii/S0031320326014913">[PDF]</a> (CCF Rank B) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR]</b></font> Kai Chen, Qiming Wang, Zhuoyue Qin, Youwei Wang*, <b>Shizhe Hu*</b>: <i><u> SpongeNet: Preserving Forgery Traces by Knowledge Sponge with Binary Information Bottleneck for Deepfake Detection </u></i>. <font color="green"> Pattern Recognition</font>, Aug. 2026. (CCF Rank B)  <a href = "https://www.sciencedirect.com/science/article/pii/S0031320326015657">[PDF]</a> <a href = "https://github.com/1Happ-cyber/Deepfake-SpongeNet">[Code]</a> </li></p>
-
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Tongji Chen#, Guoliang Zou#, <b>Shizhe Hu*</b>, Yangdong Ye*: <i><u>Cross-modal Information Propagation for Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, Accepted, 2026. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457325005369">[PDF]</a> (CCF Rank B) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Tongji Chen#, Guoliang Zou#, <b>Shizhe Hu*</b>, Yangdong Ye*: <i><u>Cross-modal Information Propagation for Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, 104595, Jun 2026. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457325005369">[PDF]</a> (CCF Rank B) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EITEE]</b></font> Yanzheng Wang#, Yujun Wang#, Fengshuo Dai, Xin Yang, Xiaoheng Jiang, Pei Lv, <b>Shizhe Hu*</b>, Mingliang Xu*: <i><u> Multi-stage Contrastive Multi-modal Clustering with Consistency Retained </u></i>. <font color="green"> ENGINEERING Information Technology & Electronic Engineering (<b>EITEE</b>)</font>, 27 (8): 1-13, August 2026.  <a href = "https://ieeexplore.ieee.org/abstract/document/11618957">[PDF]</a> <font face="verdana" color="red"><b>[Cover Article (封面文章) in Aug. 2026]</b></font> <a href = "https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=11344065"> <font face="verdana" color="red"><b>[Popular Articles in Jul. 2026]</b></font></a> (CCF Rank T1) </li></p>
 
