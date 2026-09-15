@@ -18,24 +18,25 @@
 # 在读 (硕士) / Master Candidate
 【论文均为[学生(共同)一作]或[(副)导师一作、学生二作]】
 
-## 2026.09~2029.07
+## 2024.09~2027.07
 
 <ol>
+
+<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>FCS'26 (CCF Rank T1)</b>. </li></p>
   
-<p style="margin-top: 8px;"><li><b>Yi Zhou (周祎)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
+<p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ICLR'26 (CCF Rank A)</b>.  <font face="verdana" color="blue"><b>[荣誉]</b></font>：郑州大学2026年研究生国家奖学金. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Ziyang Lu (卢子杨)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
+<p style="margin-top: 8px;"><li><b>Shuaiju Li (李帅举)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yujia Li (李羽佳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
+<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> EITEE (CCF Rank T1, <font face="verdana" color="red"><b>[Cover Article (封面文章) in Aug. 2026]</b></font>).</b> </li></p>
 
-<p style="margin-top: 8px;"><li><b>Wenhao Chen (谌文浩)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
+<p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ACM MM'26 (CCF Rank A)</b>. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Chao Wu (吴超)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
+<p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ICML'26 (CCF Rank A)</b>.  <font face="verdana" color="blue"><b>[荣誉]</b></font>：郑州大学2026年研究生国家奖学金. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Sen Hui (惠森)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: .</li></p>
+<p style="margin-top: 8px;"><li><b>Wenlong Chen (陈文龙)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Federated Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
 
-<p style="margin-top: 8px;"><li><b>Biyun Jia (贾碧云)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
-
+<p style="margin-top: 8px;"><li><b>Chiyao Ma (马驰尧)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Federated Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
 
 </ol>
 
@@ -66,28 +67,27 @@
 
 </ol>
 
-
-## 2024.09~2027.07
+## 2026.09~2029.07
 
 <ol>
-
-<p style="margin-top: 8px;"><li><b>Jinlan Wang (王金兰)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>FCS'26 (CCF Rank T1)</b>. </li></p>
   
-<p style="margin-top: 8px;"><li><b>Zhangwen Gou (苟章文)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ICLR'26 (CCF Rank A)</b>.  <font face="verdana" color="blue"><b>[荣誉]</b></font>：郑州大学2026年研究生国家奖学金. </li></p>
+<p style="margin-top: 8px;"><li><b>Yi Zhou (周祎)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
 
-<p style="margin-top: 8px;"><li><b>Shuaiju Li (李帅举)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. </li></p>
+<p style="margin-top: 8px;"><li><b>Ziyang Lu (卢子杨)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> EITEE (CCF Rank T1, <font face="verdana" color="red"><b>[Cover Article (封面文章) in Aug. 2026]</b></font>).</b> </li></p>
+<p style="margin-top: 8px;"><li><b>Yujia Li (李羽佳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
 
-<p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ACM MM'26 (CCF Rank A)</b>. </li></p>
+<p style="margin-top: 8px;"><li><b>Wenhao Chen (谌文浩)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yuhan Zhan (詹玉寒)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ICML'26 (CCF Rank A)</b>.  <font face="verdana" color="blue"><b>[荣誉]</b></font>：郑州大学2026年研究生国家奖学金. </li></p>
+<p style="margin-top: 8px;"><li><b>Chao Wu (吴超)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: . </li></p>
 
-<p style="margin-top: 8px;"><li><b>Wenlong Chen (陈文龙)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Federated Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
+<p style="margin-top: 8px;"><li><b>Sen Hui (惠森)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: .</li></p>
 
-<p style="margin-top: 8px;"><li><b>Chiyao Ma (马驰尧)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Federated Learning/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
+<p style="margin-top: 8px;"><li><b>Biyun Jia (贾碧云)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>.</li></p>
+
 
 </ol>
+
 
 <br>
 
