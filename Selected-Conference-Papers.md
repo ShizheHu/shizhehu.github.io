@@ -13,7 +13,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ACM MM'26] </b></font> Guoliang Zou#, Sijia Li#, Jinlan Wang, Tianyi Zhang, Pantongtong Li, Yangdong Ye*, <b>Shizhe Hu*</b>: <i><u>Proxy Information Bottleneck for Multi-modal Clustering</u></i>. <font color="green">ACM Multimedia (<b>ACM MM</b>)</font>, Rio de Janeiro, Brazil, 10–14 Nov. 2026. (CCF Rank A)  </li></p>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI'26] </b></font> Youwei Wang, Qiwei Miao, Haichuan Fang, Yangdong Ye, <b>Shizhe Hu*</b>: <i><u>Empowering Self-Balance of Deep Information Bottleneck for Multimodal Clustering</u></i>. <font color="green">In the 35rd International Joint Conference on Artificial Intelligence (<b>IJCAI</b>)</font>, Bremen, Germany, August 15th - 21th, 2026. (CCF Rank B) </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI'26] </b></font> Youwei Wang, Qiwei Miao, Haichuan Fang, Yangdong Ye, <b>Shizhe Hu*</b>: <i><u>Empowering Self-Balance of Deep Information Bottleneck for Multimodal Clustering</u></i>. <font color="green">In the 35rd International Joint Conference on Artificial Intelligence (<b>IJCAI</b>)</font>, Bremen, Germany, August 15th - 21th, 2026. (CCF Rank B) <a href = "https://www.semanticscholar.org/paper/Empowering-Self-Balance-of-Deep-Information-for-Wang-Miao/fec4b5d0ba25af1781e7d1985f9bf4ff93be7877">[PDF]</a> </li></p>
 
 </ol>
 
