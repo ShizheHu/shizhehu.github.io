@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">16-Sep-2026</font>]  Promoted to <font color="green">CCF Senior Member</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">09-Sep-2026</font>] "<b> Congratulations to my PhD student (Guoliang Zou) awarded <font color="green">National Scholarship 2026!</font></b>".</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">09-Sep-2026</font>] "<b> Congratulations to my master's students (Zhangwen Gou, Yuhan Zhan, Mingyang Lv) awarded <font color="green">National Scholarship 2026!</font></b>".</li></p>
