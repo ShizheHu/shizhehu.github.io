@@ -104,9 +104,9 @@
 <i> <b>Invited Speaker</b>: for the 5th Inter. Conf. Pattern Recognition and Artificial Intelligence (PRAI 2022) at Chengdu, China, 19-Aug-2022<a href = "http://www.prai.net/prai2022.html">[link]</a> </i> <br> 
 
 <p style="margin-top: 8px;"><li><b>Member</b>:</li></p>
+<i> CCF Senior Member  </i> <br>
 <i> IEEE Senior Member  </i> <br>
 <i> ACM Member  </i> <br>
-<i> CCF Member  </i> <br>
 <i> CSIG Member  </i> <br>
 <i> CAA Member (终身会员) </i> <br>
 <i> CAAI Member (终身会员) ，From 2025.06 </i> <br>
