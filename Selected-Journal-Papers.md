@@ -36,7 +36,7 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机工程与应用]</b></font> 胡援浩, 娄铮铮, <b>胡世哲</b>, 张朝阳*, 焦重阳, 周清雷: <i><u> LGDLight：线图注意力驱动的区域交通信号控制 </u></i>. <font color="green">计算机工程与应用</font>. 2026. <a href = "https://link.cnki.net/urlid/11.2127.TP.20250228.1005.004">[PDF]</a> (CCF Rank T2) </li></p> 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机辅助设计与图形学学报]</b></font> 赵鸿儒，王凯迪，方国涛，<b>胡世哲</b>，陈炳锡，徐明亮*: <i><u> 文本引导的多模态融合类别级物体位姿估计方法</u></i>. <font color="green">计算机辅助设计与图形学学报</font>. 2026. (CCF Rank T2) </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[计算机辅助设计与图形学学报]</b></font> 赵鸿儒，王凯迪，方国涛，<b>胡世哲</b>，陈炳锡，徐明亮*: <i><u> 文本引导的多模态融合类别级物体位姿估计方法</u></i>. <font color="green">计算机辅助设计与图形学学报</font>. 2026. (CCF Rank T1) </li></p> 
 
 </ol>
 
