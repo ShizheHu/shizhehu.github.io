@@ -8,7 +8,7 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
-<p style="margin-top: 6px;"><li>[<font color="red">12-Aug-2026</font>] "<b>Four papers</b>" are selected as <font color="green">ESI Highly Cited Papers</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">25-Sep-2026</font>] "<b>Four papers</b>" are selected as <font color="green">ESI Highly Cited Papers</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">17-Sep-2026</font>] "<b> Invitation to Serve as Associate Editor </b>" of <font color="green"> IEEE TMM Journal (CCF-A, CAS Rank Q1) <a href = "https://signalprocessingsociety.org/index%2ephp/publications-resources/ieee-transactions-multimedia/editorial-board">[Link]</a></font>.</li></p> 
 
