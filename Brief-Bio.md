@@ -60,6 +60,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=Awz
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> <b>Shizhe Hu</b>, Guoliang Zou, Chaoyang Zhang, Zhengzheng Lou, Ruilin Geng, and Yangdong Ye*: <i><u>Joint Contrastive Triple-learning for Deep Multi-view Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, 60(3):103284, May. 2023. (CCF Rank B) <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0306457323000213">[PDF]</a> <a href = "https://github.com/ShizheHu/Joint-Contrastive-Triple-learning">[Code]</a> <a href = "https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:000924393900001"><font face="verdana" color="red"><b>[ESI Highly Cited Paper]</b></font></a> </li></p>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing]</b></font> Xiaoqiang Yan, <b>Shizhe Hu</b>, Yiqiao Mao, Yangdong Ye, and Hui Yu: <i><u> Deep Multi-view Learning Methods: A Review</u></i>. <font color="green">Neurocomputing</font> 448: 106-129, 2021. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0925231221004768#!">[PDF]</a> <a href = "https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:000652811900011"><font face="verdana" color="red"><b>[ESI Highly Cited Paper]</b></font></a> (SCI Q2)</li></p>
+
 </ol>
 
 ## Conferences
