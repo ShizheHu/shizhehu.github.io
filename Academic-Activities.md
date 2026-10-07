@@ -9,6 +9,8 @@
 
 <i> <b>Associate Editor</b>: IEEE Transactions on Multimedia (IEEE TMM), 2026.09.14-Now <a href = "https://signalprocessingsociety.org/index%2ephp/publications-resources/ieee-transactions-multimedia/editorial-board">[Link]</a> </i> <br>
 
+<i> <b>Associate Editor</b>: IEEE Transactions on Consumer Electronics (IEEE TCE), 2026.10.07-Now <a href = "https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics">[Link]</a> </i> <br>
+
 <i> <b>Associate Editor</b>: Pattern Recognition, 2026.01-Now <a href = "https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board">[Link]</a> </i> <br>
 
 <i> <b>Editorial Board</b>: Information Processing and Management (IP&M), 2025.07-Now <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a> </i> <br>
