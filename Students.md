@@ -113,7 +113,7 @@
 
 <ol>
 
-<p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>IEEE TIP'26 (CCF Rank A)</b>;  <font face="verdana" color="blue"><b>[荣誉]</b></font>：郑州大学2026年研究生国家奖学金; <font face="verdana" color="blue"><b>[深造去向]</b></font>: 硕博连读-郑州大学. <font face="verdana" color="blue"><b>[邮箱]</b></font>: my53160915@gs.zzu.edu.cn. </li></p>
+<p style="margin-top: 8px;"><li><b>Mingyang Lv (吕明阳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering/Granular Computing. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>IEEE TIP'26 (CCF Rank A)</b>;  <font face="verdana" color="blue"><b>[深造去向]</b></font>: 硕博连读-郑州大学. <font face="verdana" color="blue"><b>[邮箱]</b></font>: my53160915@gs.zzu.edu.cn. </li></p>
 
 </ol>
 
