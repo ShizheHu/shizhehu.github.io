@@ -81,6 +81,8 @@
 
 <p style="margin-top: 8px;"><li><b>Talk or Host </b>: </li></p>  
 
+<i> <b> Invited Live Talk </b>: 《大模型时代：多模态聚类是否仍有必要？》,科学网，“工程·新视界”直播间，19-Oct-2026<a href = "https://mp.weixin.qq.com/s/iQZyaSg97wXdf7JoTR7fAQ">[link]</a> </i><br>
+
 <i> <b> Host </b>: VALSE Webinar 26-23期 总第428期 《多模态学习探索：结构、协同与统一》, 19-Aug-2026<a href = "https://mp.weixin.qq.com/s/QnXjtmUiFMUZCEjQDQAIYg?scene=1&click_id=1401247333">[link]</a> </i><br>
 
 <i> <b> Host </b>: ChinaMM 中国多媒体大会 2026，专题论坛：《非理想场景下的多模态智能：鲁棒感知、复杂推理与融合应用》, 01-Aug-2026<a href = "https://chinamm.csig.org.cn/2026/forum.html">[link]</a> </i><br>
