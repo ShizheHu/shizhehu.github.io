@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">16-Oct-2026</font>] "<b> Invitation to give a live talk at </b>" of <font color="green"> “工程·新视界”直播间 <a href = "https://mp.weixin.qq.com/s/iQZyaSg97wXdf7JoTR7fAQ">[Link]</a></font>.</li></p> 
+
 <p style="margin-top: 6px;"><li>[<font color="red">07-Oct-2026</font>] "<b> Invitation to Serve as Associate Editor </b>" of <font color="green"> IEEE TCE Journal (CAS Rank Q1) <a href = "https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics">[Link]</a></font>.</li></p> 
 
 <p style="margin-top: 6px;"><li>[<font color="red">25-Sep-2026</font>] "<b>Four papers</b>" are selected as <font color="green">🏆 ESI Highly Cited Papers</font>.</li></p>
