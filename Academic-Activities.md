@@ -29,7 +29,7 @@
 
 <i> <b>Area Chair (AC)</b>: ICLR'2026/2027、ICML'2026/2027 </i>  <br>
 
-<i> <b> Senior Program Committee (SPC) </b>: AAAI'2027、IJCAI-ECAI'2026 </i> 
+<i> <b> Senior Program Committee (SPC) </b>: AAAI'2027、IJCAI'2026/2027 </i> 
 
 <p style="margin-top: 8px;"><li><b>Reviewer for Conferences</b>:</li></p>
 <i>ICML'24/25</i> <br>
