@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">28-Oct-2026</font>] "<b>  Invitation to serve as Senior Program Committee (SPC) </b>" of <font color="green"> IJCAI 2027 </font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">21-Oct-2026</font>] "<b>  Invitation to serve as 首期青年智库</b>" of <font color="green"> Data Research and Applications(DRA) [中国科学院主管国际学术期刊]  <a href = "https://mp.weixin.qq.com/s/17XtoFO4d2hFCpksOKHHvA">[Link]</a></font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">21-Oct-2026</font>] "<b>  Invitation to serve as Area Chair </b>" of <font color="green"> ICML 2027 </font>.</li></p>
