@@ -1,5 +1,7 @@
 
-# Fundings
+# Fundings and Standards
+
+## Fundings
 
 ### 纵向项目（国家级）
 
@@ -69,6 +71,16 @@
 <p style="margin-top: 8px;"><li> <b><b>(主持)</b> 基于国产生态大模型技术的河南省人工智能公共服务平台建设与应用示范【课题负责】</b>, 2025.05.06-2025.12.31.</li></p>
 
 <p style="margin-top: 8px;"><li> <b><b>(参与/骨干，<font face="verdana" color="blue"><b>在研</b></font>)</b> 园区安防机器人具身智能服务大模型及运营支撑平台研制（一期）</b>, 2025.01.11-2029.01.11.</li></p>
+
+</ol>
+
+## Standards
+
+### Group Standards (团体标准)
+
+<ol>
+
+<p style="margin-top: 8px;"><li> <b><b>(参编)</b> 智能巡检机器人多模态环境感知系统通用技术要求 </b>, 2026.09.04起.</li></p>
 
 </ol>
 
