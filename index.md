@@ -32,6 +32,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red">31-Aug-2026</font>] "<b>  Our article "Multi-stage Contrastive Multi-modal Clustering with Consistency Retained" has been selected as </b> <font color="green">" Cover Article (封面文章) in Aug. 2026 "</font> of EITEE journal .</li></p>
 
+<p style="margin-top: 6px;"><li>[<font color="red">17-Aug-2026</font>] "<b> Congratulations to my master's student (Hang Xue) awarded <font color="green">Excellent Master's Thesis Award by Henan Province 2025 (2025年河南省优秀硕士学位论文)!</font></b>".</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">13-Aug-2026</font>] "<b>  Invitation to serve as Area Chair </b>" of <font color="green"> ICLR 2027 </font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">12-Aug-2026</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TMM (CCF-A)</font>.</li></p>
