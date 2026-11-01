@@ -6,6 +6,8 @@
 
 <ol>
 
+<p style="margin-top: 8px;"><li>Receive the Pattern Recognition Honorable Mention Award for 2026 in recognition of my hard work as an Associate Editor (AE), From Petia Radeva and Zoran Duric, Editors-in-Chief of Pattern Recognition, 2026.11.01. </li></p> 
+
 <p style="margin-top: 8px;"><li>第二十八届中国机器人及人工智能大赛全国总决赛Roban机器人挑战赛三等奖，指导教师, 第二十八届中国机器人及人工智能大赛组委会, 2026.07. </li></p> 
 
 </ol>
