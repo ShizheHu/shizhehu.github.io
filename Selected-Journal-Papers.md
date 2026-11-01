@@ -1,6 +1,13 @@
 # Selected Journal Papers
 (# denotes co-first author, * denotes the corresponding author)
 
+## Preprint
+<ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PrePrint]</b></font> Long Shi*, Yunshan Ye, Yuexin Chen, Jie Liu, Zongbo Han, <b>Shizhe Hu</b>, Cai Xu, Jie Wen, Gang Kou, Wei Zhao, Ziyu Guan, Changqing Zhang, and Badong Chen*: <i><u> A Survey of Multi-view Learning: An Evidential Perspective </u></i>. <font color="green"> ResearchGate (<b> Preprint</b>) </font>, Jul. 2026. <a href = "https://www.researchgate.net/publication/409001816_A_Survey_of_Multi-view_Learning_An_Evidential_Perspective">[PDF]</a> </li></p> 
+
+</ol>
+
 ## 2027
 <ol>
 
@@ -8,13 +15,12 @@
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[FCS]</b></font> <b>Shizhe Hu</b>, Jinlan Wang, Jiahao Fan, Sijia Li, Jin Qin, Xiaoheng Jiang, Pei Lv, and Mingliang Xu*: <i><u> Relational Contrastive Multi-view Clustering</u></i>. <font color="green"> Frontiers of Computer Science (<b>FCS</b>)</font>, 2027, 21 (2): 2102320. (CCF Rank T1) <a href = "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51585-z">[PDF]</a>  <a href = "https://github.com/ShizheHu/RCMVC-FCS2026">[Code]</a>  </li></p>
 
-
 </ol>
 
 ## 2026
 <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PrePrint]</b></font> Long Shi*, Yunshan Ye, Yuexin Chen, Jie Liu, Zongbo Han, <b>Shizhe Hu</b>, Cai Xu, Jie Wen, Gang Kou, Wei Zhao, Ziyu Guan, Changqing Zhang, and Badong Chen*: <i><u> A Survey of Multi-view Learning: An Evidential Perspective </u></i>. <font color="green"> ResearchGate (<b> Preprint</b>) </font>, Jul. 2026. <a href = "https://www.researchgate.net/publication/409001816_A_Survey_of_Multi-view_Learning_An_Evidential_Perspective">[PDF]</a> </li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Hongzhao Li, <b>Shizhe Hu</b>, Xianglong Shen, Hualei Wan, Mingyuan Jiu, Shupan Li*, Muhammad Haris Khan, and Mingliang Xu*: <i><u> Invariance, Stability, and Diversity: A Unified Framework for Multimodal Domain Generalization </u></i>. <font color="green"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) </font>, Nov. 2026. </li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> <b>Shizhe Hu</b>, Jiahao Fan, Yucong Wu, Jinlan Wang, Xiaoheng Jiang, Pei Lv, Mingliang Xu*: <i><u> To the Best of Trust: Full-Stage Trusted Multi-modal Clustering </u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>) </font>, 35: 8635-8647, Aug. 2026. (CCF Rank A) <a href = "https://ieeexplore.ieee.org/document/11646956">[PDF]</a> </li></p> 
 
@@ -31,8 +37,6 @@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IPM]</b></font> Tongji Chen#, Guoliang Zou#, <b>Shizhe Hu*</b>, Yangdong Ye*: <i><u>Cross-modal Information Propagation for Contrastive Multi-modal Clustering</u></i>. <font color="green"> Information Processing and Management (<b>IPM</b>)</font>, 104595, Jun 2026. <a href = "https://www.sciencedirect.com/science/article/pii/S0306457325005369">[PDF]</a>  <a href = "https://github.com/GuoliangZou/CIPCMC">[Code]</a> (CCF Rank B) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EITEE]</b></font> Yanzheng Wang#, Yujun Wang#, Fengshuo Dai, Xin Yang, Xiaoheng Jiang, Pei Lv, <b>Shizhe Hu*</b>, Mingliang Xu*: <i><u> Multi-stage Contrastive Multi-modal Clustering with Consistency Retained </u></i>. <font color="green"> ENGINEERING Information Technology & Electronic Engineering (<b>EITEE</b>)</font>, 27 (8): 1-13, August 2026.  <a href = "https://ieeexplore.ieee.org/abstract/document/11618957">[PDF]</a> <font face="verdana" color="red"><b>[Cover Article (封面文章) in Aug. 2026]</b></font> <a href = "https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=11344065"> <font face="verdana" color="red"><b>[Popular Articles in Jul. 2026]</b></font></a>  <a href = "https://mp.weixin.qq.com/s/iQZyaSg97wXdf7JoTR7fAQ">[LiveTalk]</a> (CCF Rank T1) </li></p>
-
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Hongzhao Li, <b>Shizhe Hu</b>, Xianglong Shen, Hualei Wan, Mingyuan Jiu, Shupan Li*, Muhammad Haris Khan, and Mingliang Xu*: <i><u> Invariance, Stability, and Diversity: A Unified Framework for Multimodal Domain Generalization </u></i>. <font color="green"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) </font>, Nov. 2026. </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Sensors]</b></font> Jiafeng Wu, Kai Nie*, Haoran Li, Lin Han, and <b>Shizhe Hu</b>: <i><u> DRFusion: An Infrared and Visible Image Fusion Network Based on Cascaded Dehazing Module </u></i>. <font color="green"> IEEE Sensors Journal </font>, Oct. 2026. </li></p>
 
