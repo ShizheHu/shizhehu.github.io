@@ -28,7 +28,7 @@
 
 <p style="margin-top: 8px;"><li><b>Shuaiju Li (李帅举)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Trusted Multi-modal Learning. </li></p>
 
-<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> EITEE'26 (CCF Rank T1, <font face="verdana" color="red"><b>[Cover Article (封面文章) in Aug. 2026]</b></font>).</b> </li></p>
+<p style="margin-top: 8px;"><li><b>Yujun Wang (王玉骏)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b> EITEE'26 (CCF Rank T1, <font face="verdana" color="red"><b>[Cover Article (封面文章) in Aug. 2026]</b></font>).</b> </li></p>
 
 <p style="margin-top: 8px;"><li><b>Sijia Li (李思佳)</b>, <font face="verdana" color="blue"><b>[Research]</b></font>: Information Bottleneck Theory/Deep Multi-modal Clustering. <font face="verdana" color="blue"><b>[Co-Supervising 协助指导]</b></font>. <font face="verdana" color="blue"><b>[Publish]</b></font>: <b>ACM MM'26 (CCF Rank A)</b>. </li></p>
 
