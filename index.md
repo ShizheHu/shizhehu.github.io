@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">11-Nov-2026</font>] "<b>  Invitation to Join the Early Career Editorial Board </b>" of <font color="green"> Technologies Journal </font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">01-Nov-2026</font>] "<b>  Receive the Pattern Recognition Honorable Mention Award for 2026 in recognition of my hard work as an Associate Editor (AE) </b>" From <font color="green"> Petia Radeva and Zoran Duric, Editors-in-Chief of Pattern Recognition </font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">29-Oct-2026</font>] "<b>  Invitation to serve as Area Chair </b>" of <font color="green"> CVPR 2027 </font>.</li></p>
