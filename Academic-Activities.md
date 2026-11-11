@@ -15,6 +15,9 @@
 
 <i> <b>Editorial Board</b>: Information Processing and Management (IP&M), 2025.07-Now <a href = "https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board">[Link]</a> </i> <br>
 
+<i> <b>Early Career Editorial Board</b>: Technologies, 2026.11-Now <a href = "https://www.mdpi.com/journal/technologies/early-career-editors?page_no=1">[Link]</a> </i> <br>
+
+
 <br>
 
 <i> <b> Leading Guest Editor</b>: Information Fusion Journal, From 31-Jan-2026 To 31-Oct-2026, Special Issue: Multi-view Fusion and Learning on Low-quality Data: Foundation Models in Theories, Algorithms and Applications <a href = "https://www.sciencedirect.com/special-issue/329767/multi-view-fusion-and-learning-on-low-quality-data-foundation-models-in-theories-algorithms-and-applications">[Link]</a> </i>  <br>
