@@ -114,9 +114,9 @@
 
 <p style="margin-top: 8px;"><li><b>Member</b>:</li></p>
 <i> CCF Senior Member  </i> <br>
+<i> CSIG Senior Member  </i> <br>
 <i> IEEE Senior Member  </i> <br>
 <i> ACM Member  </i> <br>
-<i> CSIG Member  </i> <br>
 <i> CAA Member (终身会员) </i> <br>
 <i> CAAI Member (终身会员) ，From 2025.06 </i> <br>
 <i> BAAI-Qingyuan Club Member  </i> 
