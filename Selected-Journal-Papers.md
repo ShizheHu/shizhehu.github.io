@@ -21,6 +21,8 @@
 <ol>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI]</b></font> Hongzhao Li, <b>Shizhe Hu</b>, Xianglong Shen, Hualei Wan, Mingyuan Jiu, Shupan Li*, Muhammad Haris Khan, and Mingliang Xu*: <i><u> Invariance, Stability, and Diversity: A Unified Framework for Multimodal Domain Generalization </u></i>. <font color="green"> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) </font>, Nov. 2026. (CCF Rank A) <a href = "https://ieeexplore.ieee.org/document/11774980">[PDF]</a> </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> Sijia Li#, Yangdong Ye#, Guoliang Zou, Tianyi Zhang, <b>Shizhe Hu*</b>: <i><u> Self-supervised Trusted Dual Information Bottleneck for Multi-modal Clustering</u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>) </font>, 2026. (CCF Rank A) <a href = "">[PDF]</a> </li></p> 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP]</b></font> <b>Shizhe Hu</b>, Jiahao Fan, Yucong Wu, Jinlan Wang, Xiaoheng Jiang, Pei Lv, Mingliang Xu*: <i><u> To the Best of Trust: Full-Stage Trusted Multi-modal Clustering </u></i>. <font color="green"> IEEE Transactions on Image Processing (<b>TIP</b>) </font>, 35: 8635-8647, Aug. 2026. (CCF Rank A) <a href = "https://ieeexplore.ieee.org/document/11646956">[PDF]</a> </li></p> 
 
