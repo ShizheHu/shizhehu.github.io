@@ -84,6 +84,8 @@
 
 <p style="margin-top: 8px;"><li><b>Talk or Host </b>: </li></p>  
 
+<i> <b> Invited Speaker </b>: 《从理论到课堂再到产业:多模态感知与具身智能的产教融合探索》, 人工智能产教融合与协同创新交流会, 2026中部国际人工智能应用与机器人博览会(同期)，20-Nov-2026 <a href = "https://mp.weixin.qq.com/s/-0ZKvThXCa1b-oCcuwGGdw">[link]</a>   </i><br>
+
 <i> <b> Invited Live Talk </b>: 《大模型时代：多模态聚类是否仍有必要？》,科学网，“工程·新视界”直播间，19-Oct-2026<a href = "https://mp.weixin.qq.com/s/iQZyaSg97wXdf7JoTR7fAQ">[link]</a> </i><br>
 
 <i> <b> Host </b>: VALSE Webinar 26-23期 总第428期 《多模态学习探索：结构、协同与统一》, 19-Aug-2026<a href = "https://mp.weixin.qq.com/s/QnXjtmUiFMUZCEjQDQAIYg?scene=1&click_id=1401247333">[link]</a> </i><br>
