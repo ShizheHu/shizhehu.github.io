@@ -8,6 +8,8 @@ layout: default
 
 <p style="margin-top: 6px;"><li>[<font color="red"><b>Set-Top</b></font>] Looking for highly-motivated "<b>PhD/Master students</b>".
 
+<p style="margin-top: 6px;"><li>[<font color="red">20-Nov-2026</font>] "<b>One paper</b>" is accepted by <font color="green">IEEE TIP (CCF-A)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">16-Nov-2026</font>]  Promoted to <font color="green">CSIG Senior Member</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">11-Nov-2026</font>] "<b>  Invitation to Join the Early Career Editorial Board </b>" of <font color="green"> Technologies Journal </font>.</li></p>
